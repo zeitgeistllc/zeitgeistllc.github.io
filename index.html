@@ -44,45 +44,46 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
-      gap: 12px;
+      align-items: center;
+      gap: 14px;
     }
     .app-content h2 {
       font-size: 1.2rem;
       font-weight: 700;
       color: #fff;
-      margin-bottom: 6px;
     }
     .app-content p {
-      font-size: 0.9rem;
+      font-size: 0.88rem;
       color: #aaa;
       line-height: 1.6;
+      max-width: 280px;
+    }
+    .store-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+      width: 100%;
+    }
+    .store-buttons a img {
+      height: 44px;
+      width: auto;
+      display: block;
     }
     .app-links {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 8px;
-      margin-top: 10px;
+      margin-top: 4px;
     }
     .app-links a {
       color: #58a6ff;
       text-decoration: none;
-      font-size: 0.82rem;
+      font-size: 0.78rem;
     }
     .app-links a:hover { text-decoration: underline; }
-    .app-links .sep { color: #444; font-size: 0.82rem; }
-    .btn-store {
-      display: inline-block;
-      background: #fff;
-      color: #000;
-      padding: 10px 22px;
-      border-radius: 50px;
-      font-weight: 600;
-      font-size: 0.9rem;
-      text-decoration: none;
-      margin-top: 6px;
-    }
-    .btn-store:hover { background: #e0e0e0; }
+    .app-links .sep { color: #444; font-size: 0.78rem; }
     .coming-soon {
       color: #555;
       font-size: 1rem;
@@ -104,13 +105,20 @@
       <div class="app-content">
         <h2>Sky Shield Defense</h2>
         <p>Defend your city from incoming missiles in this action-packed tower defense game. Upgrade your weapons, earn Energy Cores, and protect your base across increasingly challenging waves!</p>
-        <a class="btn-store" href="https://apps.apple.com/app/sky-shield/id6760583568" target="_blank">Download on App Store</a>
+        <div class="store-buttons">
+          <a href="https://apps.apple.com/app/sky-shield/id6760583568" target="_blank">
+            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height:64px;margin-top:-10px;">
+          </a>
+        </div>
         <div class="app-links">
           <a href="privacy-policy.html">Privacy Policy</a>
           <span class="sep">·</span>
           <a href="support.html">Support</a>
           <span class="sep">·</span>
-          <a href="terms-of-service.html">Terms of Service</a>
+          <a href="terms-of-service.html">Terms</a>
         </div>
       </div>
     </div>
@@ -119,6 +127,21 @@
     <div class="app-box">
       <div class="app-content">
         <p class="coming-soon">Coming soon...</p>
+        <div class="store-buttons">
+          <a href="#">
+            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+          </a>
+          <a href="#">
+            <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height:64px;margin-top:-10px;">
+          </a>
+        </div>
+        <div class="app-links">
+          <a href="nextapp-privacy.html">Privacy Policy</a>
+          <span class="sep">·</span>
+          <a href="nextapp-support.html">Support</a>
+          <span class="sep">·</span>
+          <a href="nextapp-terms.html">Terms</a>
+        </div>
       </div>
     </div>
 
