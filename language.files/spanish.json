@@ -1,0 +1,5118 @@
+{
+  "id": "spanish",
+  "name": "Spanish",
+  "nativeName": "Español",
+  "flag": "🇪🇸",
+  "units": [
+    {
+      "id": "S1",
+      "title": "Primeras palabras",
+      "description": "Your first Spanish words",
+      "icon": "hand.wave.fill",
+      "lessons": [
+        {
+          "id": "S1-L1",
+          "title": "Hola y Adiós",
+          "description": "Hola y Adiós",
+          "exercises": [
+            {
+              "id": "S1-L1-E1",
+              "type": "listening",
+              "prompt": "You hear a greeting — what did they say?",
+              "correctAnswer": "¡Hola!",
+              "options": [
+                "¡Gracias!",
+                "¡Adiós!",
+                "¡Perdón!",
+                "¡Hola!"
+              ],
+              "targetLanguage": "¡Hola!"
+            },
+            {
+              "id": "S1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Hola|Hello",
+                "Buenos días|Good morning",
+                "Buenas tardes|Good afternoon",
+                "Buenas noches|Good night"
+              ]
+            },
+            {
+              "id": "S1-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "A shopkeeper says '¡Buenos días!' — you reply:",
+              "correctAnswer": "¡Buenos días!",
+              "options": [
+                "¡Perdón!",
+                "¡Adiós!",
+                "¡Buenos días!",
+                "¡Buenas noches!"
+              ],
+              "targetLanguage": "¡Buenos días!"
+            },
+            {
+              "id": "S1-L1-E4",
+              "type": "listening",
+              "prompt": "Which is a formal farewell?",
+              "correctAnswer": "Hasta luego",
+              "options": [
+                "Chao",
+                "Hola",
+                "Nos vemos",
+                "Hasta luego"
+              ],
+              "targetLanguage": "Hasta luego"
+            },
+            {
+              "id": "S1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "It's 10 pm — which greeting fits?",
+              "correctAnswer": "¡Buenas noches!",
+              "options": [
+                "¡Buenos días!",
+                "¡Hola!",
+                "¡Buenas noches!",
+                "¡Hasta luego!"
+              ],
+              "targetLanguage": "¡Buenas noches!"
+            },
+            {
+              "id": "S1-L1-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Hasta luego|See you later",
+                "Hasta mañana|See you tomorrow",
+                "Nos vemos|See you",
+                "Chao|Bye (informal)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S1-L2",
+          "title": "Sí, No y Básicos",
+          "description": "Sí, No y Básicos",
+          "exercises": [
+            {
+              "id": "S1-L2-E1",
+              "type": "listening",
+              "prompt": "Listen — is the speaker agreeing?",
+              "correctAnswer": "Sí",
+              "options": [
+                "No",
+                "Quizás",
+                "No sé",
+                "Sí"
+              ],
+              "targetLanguage": "Sí"
+            },
+            {
+              "id": "S1-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Sí|Yes",
+                "No|No",
+                "Quizás|Maybe",
+                "No sé|I don't know"
+              ]
+            },
+            {
+              "id": "S1-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "You didn't understand — you say:",
+              "correctAnswer": "No entiendo.",
+              "options": [
+                "¡Sí!",
+                "De nada.",
+                "No, gracias.",
+                "No entiendo."
+              ],
+              "explanation": "No entiendo = I don't understand",
+              "targetLanguage": "No entiendo."
+            },
+            {
+              "id": "S1-L2-E4",
+              "type": "listening",
+              "prompt": "Which phrase means 'thank you'?",
+              "correctAnswer": "¡Gracias!",
+              "options": [
+                "¡Perdón!",
+                "¡De nada!",
+                "¡Gracias!",
+                "¡Hola!"
+              ],
+              "targetLanguage": "¡Gracias!"
+            },
+            {
+              "id": "S1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "Someone says '¡Gracias!' — you reply:",
+              "correctAnswer": "¡De nada!",
+              "options": [
+                "¡Gracias!",
+                "¡Sí!",
+                "¡De nada!",
+                "¡Adiós!"
+              ],
+              "targetLanguage": "¡De nada!"
+            },
+            {
+              "id": "S1-L2-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Gracias|Thank you",
+                "De nada|You're welcome",
+                "Perdón|Sorry / Excuse me",
+                "Por favor|Please"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S1-L3",
+          "title": "Frases de emergencia",
+          "description": "Frases de emergencia",
+          "exercises": [
+            {
+              "id": "S1-L3-E1",
+              "type": "listening",
+              "prompt": "Which means 'Help!'?",
+              "correctAnswer": "¡Ayuda!",
+              "options": [
+                "¡Ayuda!",
+                "¡Cuidado!",
+                "¡Perdón!",
+                "¡De nada!"
+              ],
+              "targetLanguage": "¡Ayuda!"
+            },
+            {
+              "id": "S1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¡Ayuda!|Help!",
+                "¡Cuidado!|Watch out!",
+                "Lo siento|I'm sorry",
+                "No entiendo|I don't understand"
+              ]
+            },
+            {
+              "id": "S1-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "You bump into someone — you say:",
+              "correctAnswer": "¡Perdón!",
+              "options": [
+                "¡Hola!",
+                "¡De nada!",
+                "¡Perdón!",
+                "¡Gracias!"
+              ],
+              "targetLanguage": "¡Perdón!"
+            },
+            {
+              "id": "S1-L3-E4",
+              "type": "multipleChoice",
+              "prompt": "To get attention politely you say:",
+              "correctAnswer": "¡Disculpe!",
+              "options": [
+                "¡Adiós!",
+                "¡Ayuda!",
+                "¡Sí!",
+                "¡Disculpe!"
+              ],
+              "explanation": "Disculpe is the formal way to get attention",
+              "targetLanguage": "¡Disculpe!"
+            },
+            {
+              "id": "S1-L3-E5",
+              "type": "listening",
+              "prompt": "Which means 'I'm sorry'?",
+              "correctAnswer": "Lo siento",
+              "options": [
+                "Gracias",
+                "Por favor",
+                "No entiendo",
+                "Lo siento"
+              ],
+              "targetLanguage": "Lo siento"
+            },
+            {
+              "id": "S1-L3-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Perdón|Sorry (informal)",
+                "Disculpe|Excuse me (formal)",
+                "De nada|You're welcome",
+                "Con permiso|Excuse me / May I pass?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S1-L4",
+          "title": "Primeras preguntas",
+          "description": "Primeras preguntas",
+          "exercises": [
+            {
+              "id": "S1-L4-E1",
+              "type": "listening",
+              "prompt": "'¿Cómo estás?' means:",
+              "correctAnswer": "How are you?",
+              "options": [
+                "How old are you?",
+                "What's your name?",
+                "How are you?",
+                "Where are you?"
+              ],
+              "targetLanguage": "¿Cómo estás?"
+            },
+            {
+              "id": "S1-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Cómo estás?|How are you? (informal)",
+                "¿Cómo está usted?|How are you? (formal)",
+                "¿Cómo te llamas?|What's your name?",
+                "¿De dónde eres?|Where are you from?"
+              ]
+            },
+            {
+              "id": "S1-L4-E3",
+              "type": "multipleChoice",
+              "prompt": "'¿Cómo estás?' — you feel great:",
+              "correctAnswer": "¡Bien, gracias!",
+              "options": [
+                "No entiendo.",
+                "Quizás.",
+                "¡Mal, gracias!",
+                "¡Bien, gracias!"
+              ],
+              "targetLanguage": "¡Bien, gracias!"
+            },
+            {
+              "id": "S1-L4-E4",
+              "type": "listening",
+              "prompt": "Which is a name question?",
+              "correctAnswer": "¿Cómo te llamas?",
+              "options": [
+                "¿Cómo te llamas?",
+                "¿Cómo estás?",
+                "¿Cuántos años tienes?",
+                "¿De dónde eres?"
+              ],
+              "targetLanguage": "¿Cómo te llamas?"
+            },
+            {
+              "id": "S1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'¿De dónde eres?' asks about:",
+              "correctAnswer": "Where you're from",
+              "options": [
+                "How you feel",
+                "Where you're from",
+                "Your age",
+                "Your name"
+              ],
+              "targetLanguage": "¿De dónde eres?"
+            },
+            {
+              "id": "S1-L4-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Bien|Well / Fine",
+                "Mal|Badly",
+                "Más o menos|So-so",
+                "Muy bien|Very well"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "Números esenciales",
+      "description": "Count, pay and understand prices",
+      "icon": "number.circle.fill",
+      "lessons": [
+        {
+          "id": "S2-L1",
+          "title": "1–10",
+          "description": "1–10",
+          "exercises": [
+            {
+              "id": "S2-L1-E1",
+              "type": "listening",
+              "prompt": "Which number do you hear?",
+              "correctAnswer": "tres",
+              "options": [
+                "dos",
+                "cinco",
+                "cuatro",
+                "tres"
+              ],
+              "targetLanguage": "tres"
+            },
+            {
+              "id": "S2-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "uno|1",
+                "dos|2",
+                "cinco|5",
+                "diez|10"
+              ]
+            },
+            {
+              "id": "S2-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'seven'?",
+              "correctAnswer": "siete",
+              "options": [
+                "ocho",
+                "nueve",
+                "siete",
+                "seis"
+              ],
+              "targetLanguage": "siete"
+            },
+            {
+              "id": "S2-L1-E4",
+              "type": "listening",
+              "prompt": "Which number?",
+              "correctAnswer": "ocho",
+              "options": [
+                "nueve",
+                "siete",
+                "seis",
+                "ocho"
+              ],
+              "targetLanguage": "ocho"
+            },
+            {
+              "id": "S2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Tengo cuatro años' means:",
+              "correctAnswer": "I am four years old",
+              "options": [
+                "I am four years old",
+                "I have four",
+                "I want four",
+                "I am four siblings"
+              ],
+              "targetLanguage": "Tengo cuatro años"
+            },
+            {
+              "id": "S2-L1-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "tres|3",
+                "cuatro|4",
+                "seis|6",
+                "nueve|9"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S2-L2",
+          "title": "11–100",
+          "description": "11–100",
+          "exercises": [
+            {
+              "id": "S2-L2-E1",
+              "type": "listening",
+              "prompt": "Which teen number?",
+              "correctAnswer": "quince",
+              "options": [
+                "quince",
+                "dieciséis",
+                "catorce",
+                "trece"
+              ],
+              "targetLanguage": "quince"
+            },
+            {
+              "id": "S2-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "once|11",
+                "doce|12",
+                "veinte|20",
+                "treinta|30"
+              ]
+            },
+            {
+              "id": "S2-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'eighteen'?",
+              "correctAnswer": "dieciocho",
+              "options": [
+                "dieciocho",
+                "dieciséis",
+                "diecinueve",
+                "diecisiete"
+              ],
+              "targetLanguage": "dieciocho"
+            },
+            {
+              "id": "S2-L2-E4",
+              "type": "listening",
+              "prompt": "Which decade?",
+              "correctAnswer": "cincuenta",
+              "options": [
+                "cuarenta",
+                "setenta",
+                "sesenta",
+                "cincuenta"
+              ],
+              "targetLanguage": "cincuenta"
+            },
+            {
+              "id": "S2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'one hundred'?",
+              "correctAnswer": "cien",
+              "options": [
+                "noventa",
+                "doscientos",
+                "cien",
+                "mil"
+              ],
+              "targetLanguage": "cien"
+            },
+            {
+              "id": "S2-L2-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "cuarenta|40",
+                "sesenta|60",
+                "ochenta|80",
+                "cien|100"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S2-L3",
+          "title": "Precios y dinero",
+          "description": "Precios y dinero",
+          "exercises": [
+            {
+              "id": "S2-L3-E1",
+              "type": "listening",
+              "prompt": "The cashier says the price — which?",
+              "correctAnswer": "Dos euros",
+              "options": [
+                "Cinco euros",
+                "Dos euros",
+                "Tres euros",
+                "Un euro"
+              ],
+              "targetLanguage": "Dos euros"
+            },
+            {
+              "id": "S2-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Cuánto cuesta?|How much does it cost?",
+                "Cuesta...|It costs...",
+                "El cambio|The change",
+                "La cuenta|The bill"
+              ]
+            },
+            {
+              "id": "S2-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "You want to ask the price:",
+              "correctAnswer": "¿Cuánto cuesta?",
+              "options": [
+                "¿Dónde está?",
+                "¡Gracias!",
+                "¿Cuánto cuesta?",
+                "¿Cómo estás?"
+              ],
+              "targetLanguage": "¿Cuánto cuesta?"
+            },
+            {
+              "id": "S2-L3-E4",
+              "type": "listening",
+              "prompt": "Which means 'the bill please'?",
+              "correctAnswer": "La cuenta, por favor",
+              "options": [
+                "Dos euros",
+                "El cambio",
+                "¿Cuánto cuesta?",
+                "La cuenta, por favor"
+              ],
+              "targetLanguage": "La cuenta, por favor"
+            },
+            {
+              "id": "S2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Un euro con veinte' means:",
+              "correctAnswer": "1 euro and 20 cents",
+              "options": [
+                "12 euros",
+                "2 euros",
+                "1 euro and 20 cents",
+                "1.02 euros"
+              ],
+              "targetLanguage": "Un euro con veinte"
+            },
+            {
+              "id": "S2-L3-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "barato|cheap",
+                "caro|expensive",
+                "en oferta|on sale",
+                "gratis|free"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S2-L4",
+          "title": "La hora",
+          "description": "La hora",
+          "exercises": [
+            {
+              "id": "S2-L4-E1",
+              "type": "listening",
+              "prompt": "Which time phrase?",
+              "correctAnswer": "¿Qué hora es?",
+              "options": [
+                "¿A qué hora?",
+                "¿Qué día es?",
+                "¿Qué hora es?",
+                "¿Cuándo?"
+              ],
+              "targetLanguage": "¿Qué hora es?"
+            },
+            {
+              "id": "S2-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Qué hora es?|What time is it?",
+                "Son las tres|It's three o'clock",
+                "mediodía|noon",
+                "medianoche|midnight"
+              ]
+            },
+            {
+              "id": "S2-L4-E3",
+              "type": "multipleChoice",
+              "prompt": "It's exactly noon:",
+              "correctAnswer": "Es mediodía.",
+              "options": [
+                "Es mediodía.",
+                "Son las doce de la noche.",
+                "Son las tres.",
+                "Es medianoche."
+              ],
+              "targetLanguage": "Es mediodía."
+            },
+            {
+              "id": "S2-L4-E4",
+              "type": "listening",
+              "prompt": "Which time?",
+              "correctAnswer": "Son las cinco",
+              "options": [
+                "Son las cuatro",
+                "Son las cinco",
+                "Son las tres",
+                "Son las seis"
+              ],
+              "targetLanguage": "Son las cinco"
+            },
+            {
+              "id": "S2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'At what time?' in Spanish:",
+              "correctAnswer": "¿A qué hora?",
+              "options": [
+                "¿A qué hora?",
+                "¿Qué día es?",
+                "¿Cuándo?",
+                "¿Qué hora es?"
+              ],
+              "targetLanguage": "¿A qué hora?"
+            },
+            {
+              "id": "S2-L4-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "esta mañana|this morning",
+                "esta noche|tonight",
+                "mañana|tomorrow",
+                "ayer|yesterday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "title": "Me llamo...",
+      "description": "Introduce yourself with confidence",
+      "icon": "person.fill",
+      "lessons": [
+        {
+          "id": "F1-L1",
+          "title": "Mi nombre y origen",
+          "description": "Mi nombre y origen",
+          "exercises": [
+            {
+              "id": "F1-L1-E1",
+              "type": "listening",
+              "prompt": "Which phrase means 'My name is'?",
+              "correctAnswer": "Me llamo",
+              "options": [
+                "Me llamo",
+                "Me gusta",
+                "Tengo",
+                "Soy de"
+              ],
+              "targetLanguage": "Me llamo"
+            },
+            {
+              "id": "F1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Me llamo|My name is",
+                "Soy de|I'm from",
+                "Vivo en|I live in",
+                "Tengo ... años|I'm ... years old"
+              ]
+            },
+            {
+              "id": "F1-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "Introducing yourself — you say your name:",
+              "correctAnswer": "Me llamo Carlos.",
+              "options": [
+                "Yo Carlos.",
+                "Carlos llamo.",
+                "Me llamo Carlos.",
+                "Mi nombre Carlos."
+              ],
+              "targetLanguage": "Me llamo Carlos."
+            },
+            {
+              "id": "F1-L1-E4",
+              "type": "multipleChoice",
+              "prompt": "You're from Madrid — you reply to '¿De dónde eres?':",
+              "correctAnswer": "Soy de Madrid.",
+              "options": [
+                "Vivo Madrid.",
+                "Madrid soy.",
+                "Soy de Madrid.",
+                "Yo Madrid."
+              ],
+              "targetLanguage": "Soy de Madrid."
+            },
+            {
+              "id": "F1-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: My name is Ana and I'm from Barcelona",
+              "correctAnswer": "Me llamo Ana y soy de Barcelona",
+              "targetLanguage": "Me llamo Ana y soy de Barcelona"
+            },
+            {
+              "id": "F1-L1-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "español|Spanish (m)",
+                "española|Spanish (f)",
+                "inglés|English (m)",
+                "americano|American (m)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "F1-L2",
+          "title": "Edad y nacionalidad",
+          "description": "Edad y nacionalidad",
+          "exercises": [
+            {
+              "id": "F1-L2-E1",
+              "type": "listening",
+              "prompt": "Someone states their age:",
+              "correctAnswer": "Tengo veintidós años",
+              "options": [
+                "Tengo veintiún años",
+                "Tengo veinte años",
+                "Tengo veintitrés años",
+                "Tengo veintidós años"
+              ],
+              "targetLanguage": "Tengo veintidós años"
+            },
+            {
+              "id": "F1-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Tengo ... años|I am ... years old",
+                "Soy español|I'm Spanish (m)",
+                "Soy inglés|I'm English (m)",
+                "Soy americano|I'm American (m)"
+              ]
+            },
+            {
+              "id": "F1-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "'I am 30 years old':",
+              "correctAnswer": "Tengo treinta años.",
+              "options": [
+                "Soy treinta años.",
+                "Tengo treinta años.",
+                "Tengo treinta.",
+                "Treinta años tengo."
+              ],
+              "targetLanguage": "Tengo treinta años."
+            },
+            {
+              "id": "F1-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I am Spanish and I am 25 years old",
+              "correctAnswer": "Soy español y tengo veinticinco años",
+              "targetLanguage": "Soy español y tengo veinticinco años"
+            },
+            {
+              "id": "F1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "A woman from France says her nationality:",
+              "correctAnswer": "Soy francesa.",
+              "options": [
+                "Soy francesa.",
+                "Soy de Francia.",
+                "Soy francés.",
+                "Francesa soy."
+              ],
+              "explanation": "Feminine -a ending for nationalities",
+              "targetLanguage": "Soy francesa."
+            },
+            {
+              "id": "F1-L2-E6",
+              "type": "wordOrder",
+              "prompt": "Build: Nice to meet you, I'm from London",
+              "correctAnswer": "Mucho gusto soy de Londres",
+              "targetLanguage": "Mucho gusto soy de Londres"
+            }
+          ]
+        },
+        {
+          "id": "F1-L3",
+          "title": "Profesión y estudios",
+          "description": "Profesión y estudios",
+          "exercises": [
+            {
+              "id": "F1-L3-E1",
+              "type": "listening",
+              "prompt": "Which means 'I am a student'?",
+              "correctAnswer": "Soy estudiante",
+              "options": [
+                "Soy profesor",
+                "Soy estudiante",
+                "Soy arquitecto",
+                "Soy médico"
+              ],
+              "targetLanguage": "Soy estudiante"
+            },
+            {
+              "id": "F1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Soy estudiante|I'm a student",
+                "Trabajo como|I work as",
+                "Estudio|I study",
+                "Mi profesión es|My profession is"
+              ]
+            },
+            {
+              "id": "F1-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "You're a doctor:",
+              "correctAnswer": "Soy médico.",
+              "options": [
+                "El médico soy.",
+                "Hago el médico.",
+                "Médico yo.",
+                "Soy médico."
+              ],
+              "targetLanguage": "Soy médico."
+            },
+            {
+              "id": "F1-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I study Spanish at university",
+              "correctAnswer": "Estudio español en la universidad",
+              "targetLanguage": "Estudio español en la universidad"
+            },
+            {
+              "id": "F1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "How do you ask someone's job?",
+              "correctAnswer": "¿A qué te dedicas?",
+              "options": [
+                "¿Estás ocupado?",
+                "¿Dónde trabajas?",
+                "¿A qué te dedicas?",
+                "¿Tienes trabajo?"
+              ],
+              "targetLanguage": "¿A qué te dedicas?"
+            },
+            {
+              "id": "F1-L3-E6",
+              "type": "wordOrder",
+              "prompt": "Build: I work as an architect in Madrid",
+              "correctAnswer": "Trabajo como arquitecto en Madrid",
+              "targetLanguage": "Trabajo como arquitecto en Madrid"
+            }
+          ]
+        },
+        {
+          "id": "F1-L4",
+          "title": "Presentación completa",
+          "description": "Presentación completa",
+          "exercises": [
+            {
+              "id": "F1-L4-E1",
+              "type": "listening",
+              "prompt": "Which city is mentioned?",
+              "correctAnswer": "Sevilla",
+              "options": [
+                "Barcelona",
+                "Madrid",
+                "Sevilla",
+                "Valencia"
+              ],
+              "targetLanguage": "Soy de Sevilla."
+            },
+            {
+              "id": "F1-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "Most natural introduction:",
+              "correctAnswer": "Me llamo Luis, soy de Madrid y tengo treinta años.",
+              "options": [
+                "Luis me llamo, años treinta.",
+                "Yo Luis, Madrid, treinta años.",
+                "Nombre Luis, ciudad Madrid.",
+                "Me llamo Luis, soy de Madrid y tengo treinta años."
+              ],
+              "targetLanguage": "Me llamo Luis, soy de Madrid y tengo treinta años."
+            },
+            {
+              "id": "F1-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Hello my name is Ana I'm from Seville",
+              "correctAnswer": "Hola me llamo Ana soy de Sevilla",
+              "targetLanguage": "Hola me llamo Ana soy de Sevilla"
+            },
+            {
+              "id": "F1-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I'm a teacher and I'm 40 years old",
+              "correctAnswer": "Soy profesora y tengo cuarenta años",
+              "targetLanguage": "Soy profesora y tengo cuarenta años"
+            },
+            {
+              "id": "F1-L4-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Mucho gusto|Nice to meet you",
+                "Encantado/a|Pleased to meet you",
+                "Igualmente|Likewise",
+                "Bienvenido|Welcome (m)"
+              ]
+            },
+            {
+              "id": "F1-L4-E6",
+              "type": "speaking",
+              "prompt": "Say your introduction: name, where from, age, job",
+              "correctAnswer": "Me llamo [nombre], soy de [ciudad], tengo [edad] años y soy [profesión].",
+              "targetLanguage": "Me llamo [nombre], soy de [ciudad], tengo [edad] años y soy [profesión]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "title": "En el café",
+      "description": "Order coffee and snacks like a local",
+      "icon": "cup.and.saucer.fill",
+      "lessons": [
+        {
+          "id": "F2-L1",
+          "title": "¿Qué hay en el café?",
+          "description": "¿Qué hay en el café?",
+          "exercises": [
+            {
+              "id": "F2-L1-E1",
+              "type": "listening",
+              "prompt": "Which drink is ordered?",
+              "correctAnswer": "un café",
+              "options": [
+                "un zumo",
+                "un café",
+                "una cerveza",
+                "un té"
+              ],
+              "targetLanguage": "un café"
+            },
+            {
+              "id": "F2-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "un café|a coffee",
+                "un cortado|coffee with a drop of milk",
+                "un croissant|a croissant",
+                "un bocadillo|a sandwich"
+              ]
+            },
+            {
+              "id": "F2-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "You want a coffee:",
+              "correctAnswer": "Un café, por favor.",
+              "options": [
+                "Un expreso, gracias.",
+                "Un café, por favor.",
+                "Café ahora.",
+                "Quiero café."
+              ],
+              "targetLanguage": "Un café, por favor."
+            },
+            {
+              "id": "F2-L1-E4",
+              "type": "listening",
+              "prompt": "Which food is ordered?",
+              "correctAnswer": "un croissant",
+              "options": [
+                "un bocadillo",
+                "un croissant",
+                "un helado",
+                "una pizza"
+              ],
+              "targetLanguage": "un croissant"
+            },
+            {
+              "id": "F2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "Asking what they have:",
+              "correctAnswer": "¿Qué tienen?",
+              "options": [
+                "¿Qué como?",
+                "¿Tienen qué?",
+                "¿Qué quiero?",
+                "¿Qué tienen?"
+              ],
+              "targetLanguage": "¿Qué tienen?"
+            },
+            {
+              "id": "F2-L1-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "la cafetería|café",
+                "el/la camarero/a|waiter/waitress",
+                "en la barra|at the counter",
+                "en la mesa|at the table"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "F2-L2",
+          "title": "Pedir y pagar",
+          "description": "Pedir y pagar",
+          "exercises": [
+            {
+              "id": "F2-L2-E1",
+              "type": "listening",
+              "prompt": "Which is a complete order?",
+              "correctAnswer": "Un café con leche y un croissant, por favor.",
+              "options": [
+                "Por favor café.",
+                "Café y croissant quiero.",
+                "Un café con leche y un croissant, por favor.",
+                "Quisiera café croissant."
+              ],
+              "targetLanguage": "Un café con leche y un croissant, por favor."
+            },
+            {
+              "id": "F2-L2-E2",
+              "type": "wordOrder",
+              "prompt": "Build: A coffee and a croissant please",
+              "correctAnswer": "Un café y un croissant por favor",
+              "targetLanguage": "Un café y un croissant por favor"
+            },
+            {
+              "id": "F2-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "You want to pay:",
+              "correctAnswer": "La cuenta, por favor.",
+              "options": [
+                "Quiero pagar.",
+                "La cuenta, por favor.",
+                "Quiero pagar ahora.",
+                "¿Cuánto es?"
+              ],
+              "targetLanguage": "La cuenta, por favor."
+            },
+            {
+              "id": "F2-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: How much is the coffee?",
+              "correctAnswer": "¿Cuánto cuesta el café?",
+              "targetLanguage": "¿Cuánto cuesta el café?"
+            },
+            {
+              "id": "F2-L2-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Quiero|I want",
+                "Quisiera|I would like",
+                "¿Me pone...?|Can you give me...?",
+                "Para mí|For me"
+              ]
+            },
+            {
+              "id": "F2-L2-E6",
+              "type": "wordOrder",
+              "prompt": "Build: I would like a coffee with milk at the counter",
+              "correctAnswer": "Quisiera un café con leche en la barra",
+              "targetLanguage": "Quisiera un café con leche en la barra"
+            }
+          ]
+        },
+        {
+          "id": "F2-L3",
+          "title": "Diálogo en el café",
+          "description": "Diálogo en el café",
+          "exercises": [
+            {
+              "id": "F2-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "Waiter asks '¿Qué le pongo?' — they're asking:",
+              "correctAnswer": "What will you have?",
+              "options": [
+                "Are you ready?",
+                "Do you like coffee?",
+                "Want to sit?",
+                "What will you have?"
+              ],
+              "targetLanguage": "¿Qué le pongo?"
+            },
+            {
+              "id": "F2-L3-E2",
+              "type": "wordOrder",
+              "prompt": "Build: I'll have a coffee with milk and a croissant",
+              "correctAnswer": "Quiero un café con leche y un croissant",
+              "targetLanguage": "Quiero un café con leche y un croissant"
+            },
+            {
+              "id": "F2-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "Waiter says '¡Ahora mismo!' — they mean:",
+              "correctAnswer": "Right away!",
+              "options": [
+                "Of course!",
+                "No problem!",
+                "Enjoy!",
+                "Right away!"
+              ],
+              "targetLanguage": "¡Ahora mismo!"
+            },
+            {
+              "id": "F2-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Can I have the bill please?",
+              "correctAnswer": "¿Me puede traer la cuenta por favor?",
+              "targetLanguage": "¿Me puede traer la cuenta por favor?"
+            },
+            {
+              "id": "F2-L3-E5",
+              "type": "listening",
+              "prompt": "The waiter says the total — which?",
+              "correctAnswer": "Tres euros con cincuenta",
+              "options": [
+                "Dos euros",
+                "Cinco euros",
+                "Cuatro euros",
+                "Tres euros con cincuenta"
+              ],
+              "targetLanguage": "Tres euros con cincuenta"
+            },
+            {
+              "id": "F2-L3-E6",
+              "type": "speaking",
+              "prompt": "Order aloud: coffee, croissant, ask the price",
+              "correctAnswer": "Un café y un croissant, por favor. ¿Cuánto es?",
+              "targetLanguage": "Un café y un croissant, por favor. ¿Cuánto es?"
+            }
+          ]
+        },
+        {
+          "id": "F2-L4",
+          "title": "Cultura del café",
+          "description": "Cultura del café",
+          "exercises": [
+            {
+              "id": "F2-L4-E1",
+              "type": "multipleChoice",
+              "prompt": "A 'cortado' is:",
+              "correctAnswer": "Espresso with a small amount of milk",
+              "options": [
+                "Espresso with a small amount of milk",
+                "Cold coffee",
+                "Decaf",
+                "Black coffee"
+              ],
+              "explanation": "Cortado = 'cut' — the milk cuts the espresso",
+              "targetLanguage": "cortado"
+            },
+            {
+              "id": "F2-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "solo|black espresso",
+                "con leche|with milk",
+                "cortado|with a drop of milk",
+                "descafeinado|decaffeinated"
+              ]
+            },
+            {
+              "id": "F2-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: A cortado at the counter please",
+              "correctAnswer": "Un cortado en la barra por favor",
+              "targetLanguage": "Un cortado en la barra por favor"
+            },
+            {
+              "id": "F2-L4-E4",
+              "type": "multipleChoice",
+              "prompt": "You want strong coffee with little water:",
+              "correctAnswer": "Un café solo.",
+              "options": [
+                "Un café solo.",
+                "Un cortado.",
+                "Un café largo.",
+                "Un café con leche."
+              ],
+              "targetLanguage": "Un café solo."
+            },
+            {
+              "id": "F2-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Could I have a decaf please?",
+              "correctAnswer": "¿Me pone un descafeinado por favor?",
+              "targetLanguage": "¿Me pone un descafeinado por favor?"
+            },
+            {
+              "id": "F2-L4-E6",
+              "type": "speaking",
+              "prompt": "Order breakfast for two at a Spanish café",
+              "correctAnswer": "Dos cafés con leche y dos croissants, por favor. ¿Cuánto es?",
+              "targetLanguage": "Dos cafés con leche y dos croissants, por favor. ¿Cuánto es?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "title": "Números y precios",
+      "description": "Understand prices and count with ease",
+      "icon": "eurosign.circle.fill",
+      "lessons": [
+        {
+          "id": "F3-L1",
+          "title": "Precios en contexto",
+          "description": "Precios en contexto",
+          "exercises": [
+            {
+              "id": "F3-L1-E1",
+              "type": "listening",
+              "prompt": "The price tag says 'catorce euros':",
+              "correctAnswer": "14 euros",
+              "options": [
+                "41 euros",
+                "14 euros",
+                "40 euros",
+                "4 euros"
+              ],
+              "targetLanguage": "catorce euros"
+            },
+            {
+              "id": "F3-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Cuánto cuesta?|How much is it?",
+                "Cuesta diez euros|It costs 10 euros",
+                "Demasiado caro|Too expensive",
+                "¡Una ganga!|A bargain!"
+              ]
+            },
+            {
+              "id": "F3-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "Something costs €22.50 — in Spanish:",
+              "correctAnswer": "Veintidós euros con cincuenta.",
+              "options": [
+                "Veintidós euros con cincuenta.",
+                "Dos y veinte euros.",
+                "Veintidós y medio euros.",
+                "Veinte euros más dos."
+              ],
+              "targetLanguage": "Veintidós euros con cincuenta."
+            },
+            {
+              "id": "F3-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: This jacket costs sixty euros",
+              "correctAnswer": "Esta chaqueta cuesta sesenta euros",
+              "targetLanguage": "Esta chaqueta cuesta sesenta euros"
+            },
+            {
+              "id": "F3-L1-E5",
+              "type": "listening",
+              "prompt": "Which price?",
+              "correctAnswer": "Treinta y cinco euros",
+              "options": [
+                "Treinta y cinco euros",
+                "Treinta y tres euros",
+                "Treinta euros",
+                "Treinta y seis euros"
+              ],
+              "targetLanguage": "Treinta y cinco euros"
+            },
+            {
+              "id": "F3-L1-E6",
+              "type": "wordOrder",
+              "prompt": "Build: How much does the ticket cost?",
+              "correctAnswer": "¿Cuánto cuesta la entrada?",
+              "targetLanguage": "¿Cuánto cuesta la entrada?"
+            }
+          ]
+        },
+        {
+          "id": "F3-L2",
+          "title": "Pagar y cambio",
+          "description": "Pagar y cambio",
+          "exercises": [
+            {
+              "id": "F3-L2-E1",
+              "type": "listening",
+              "prompt": "Which means 'keep the change'?",
+              "correctAnswer": "Quédese con el cambio.",
+              "options": [
+                "¿Cuánto es el cambio?",
+                "Tengo monedas.",
+                "Pago en efectivo.",
+                "Quédese con el cambio."
+              ],
+              "targetLanguage": "Quédese con el cambio."
+            },
+            {
+              "id": "F3-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "pagar|to pay",
+                "el efectivo|cash",
+                "la tarjeta|card",
+                "el recibo|receipt"
+              ]
+            },
+            {
+              "id": "F3-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "You want to pay by card:",
+              "correctAnswer": "¿Puedo pagar con tarjeta?",
+              "options": [
+                "Tengo la tarjeta.",
+                "La tarjeta, por favor.",
+                "Pago tarjeta.",
+                "¿Puedo pagar con tarjeta?"
+              ],
+              "targetLanguage": "¿Puedo pagar con tarjeta?"
+            },
+            {
+              "id": "F3-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Can I pay in cash?",
+              "correctAnswer": "¿Puedo pagar en efectivo?",
+              "targetLanguage": "¿Puedo pagar en efectivo?"
+            },
+            {
+              "id": "F3-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "Total is 18€, you give 20€ — change is:",
+              "correctAnswer": "Dos euros",
+              "options": [
+                "Veinte euros",
+                "Dos euros",
+                "Dieciocho euros",
+                "Dos con veinte"
+              ],
+              "targetLanguage": "El cambio son dos euros."
+            },
+            {
+              "id": "F3-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask the price then say you want to pay by card",
+              "correctAnswer": "¿Cuánto cuesta? ¿Puedo pagar con tarjeta?",
+              "targetLanguage": "¿Cuánto cuesta? ¿Puedo pagar con tarjeta?"
+            }
+          ]
+        },
+        {
+          "id": "F3-L3",
+          "title": "En el mercado",
+          "description": "En el mercado",
+          "exercises": [
+            {
+              "id": "F3-L3-E1",
+              "type": "listening",
+              "prompt": "The stall holder calls a price — which?",
+              "correctAnswer": "Un euro el kilo",
+              "options": [
+                "Dos euros el kilo",
+                "Cincuenta céntimos",
+                "Tres euros",
+                "Un euro el kilo"
+              ],
+              "targetLanguage": "Un euro el kilo"
+            },
+            {
+              "id": "F3-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el kilo|per kilo",
+                "el medio kilo|half a kilo",
+                "la pieza|each",
+                "el litro|per litre"
+              ]
+            },
+            {
+              "id": "F3-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Give me one kilo of tomatoes please",
+              "correctAnswer": "Deme un kilo de tomates por favor",
+              "targetLanguage": "Deme un kilo de tomates por favor"
+            },
+            {
+              "id": "F3-L3-E4",
+              "type": "multipleChoice",
+              "prompt": "You want 200g of cheese:",
+              "correctAnswer": "Doscientos gramos de queso.",
+              "options": [
+                "Dos piezas de queso.",
+                "Un kilo y medio.",
+                "Doscientos gramos de queso.",
+                "Dos kilos de queso."
+              ],
+              "targetLanguage": "Doscientos gramos de queso."
+            },
+            {
+              "id": "F3-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: How much for half a kilo of cherries?",
+              "correctAnswer": "¿Cuánto cuesta medio kilo de cerezas?",
+              "targetLanguage": "¿Cuánto cuesta medio kilo de cerezas?"
+            },
+            {
+              "id": "F3-L3-E6",
+              "type": "speaking",
+              "prompt": "At the market: ask for 1kg of apples and the price",
+              "correctAnswer": "Un kilo de manzanas, por favor. ¿Cuánto es?",
+              "targetLanguage": "Un kilo de manzanas, por favor. ¿Cuánto es?"
+            }
+          ]
+        },
+        {
+          "id": "F3-L4",
+          "title": "Teléfonos y direcciones",
+          "description": "Teléfonos y direcciones",
+          "exercises": [
+            {
+              "id": "F3-L4-E1",
+              "type": "listening",
+              "prompt": "Which number?",
+              "correctAnswer": "tres tres dos",
+              "options": [
+                "tres dos tres",
+                "tres tres tres",
+                "tres tres dos",
+                "dos tres dos"
+              ],
+              "targetLanguage": "tres tres dos"
+            },
+            {
+              "id": "F3-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el número de teléfono|phone number",
+                "el código postal|postcode",
+                "la calle|the street",
+                "el número...|number..."
+              ]
+            },
+            {
+              "id": "F3-L4-E3",
+              "type": "multipleChoice",
+              "prompt": "'¿Cuál es tu número?' asks for:",
+              "correctAnswer": "Your phone number",
+              "options": [
+                "Your phone number",
+                "Your address",
+                "Your age",
+                "Your name"
+              ],
+              "targetLanguage": "tu número de teléfono"
+            },
+            {
+              "id": "F3-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: My address is Calle Mayor number 5",
+              "correctAnswer": "Mi dirección es Calle Mayor número cinco",
+              "targetLanguage": "Mi dirección es Calle Mayor número cinco"
+            },
+            {
+              "id": "F3-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: My postcode is 28001",
+              "correctAnswer": "Mi código postal es dos ocho cero cero uno",
+              "targetLanguage": "Mi código postal es dos ocho cero cero uno"
+            },
+            {
+              "id": "F3-L4-E6",
+              "type": "speaking",
+              "prompt": "Give your phone number aloud in Spanish",
+              "correctAnswer": "Mi número es [número].",
+              "targetLanguage": "Mi número es [número]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "title": "¿Cómo estás?",
+      "description": "Small talk and everyday conversation",
+      "icon": "bubble.left.and.bubble.right.fill",
+      "lessons": [
+        {
+          "id": "F4-L1",
+          "title": "¿Cómo estás?",
+          "description": "¿Cómo estás?",
+          "exercises": [
+            {
+              "id": "F4-L1-E1",
+              "type": "listening",
+              "prompt": "How does the speaker feel?",
+              "correctAnswer": "¡Muy bien!",
+              "options": [
+                "Regular",
+                "¡Muy bien!",
+                "Más o menos",
+                "Mal"
+              ],
+              "targetLanguage": "¡Muy bien!"
+            },
+            {
+              "id": "F4-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Muy bien|Very well",
+                "Bien|Well",
+                "Regular|So-so",
+                "Mal|Badly"
+              ]
+            },
+            {
+              "id": "F4-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "You're having an average day:",
+              "correctAnswer": "Más o menos.",
+              "options": [
+                "¡Mal!",
+                "¡Muy bien!",
+                "Más o menos.",
+                "No entiendo."
+              ],
+              "targetLanguage": "Más o menos."
+            },
+            {
+              "id": "F4-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: How are you? Fine, and you?",
+              "correctAnswer": "¿Cómo estás? Bien, ¿y tú?",
+              "targetLanguage": "¿Cómo estás? Bien, ¿y tú?"
+            },
+            {
+              "id": "F4-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'¿Y tú, cómo estás?' means:",
+              "correctAnswer": "Asking how you are in return",
+              "options": [
+                "Saying they're fine",
+                "Asking your name",
+                "Asking how you are in return",
+                "Saying goodbye"
+              ],
+              "targetLanguage": "¿Y tú, cómo estás?"
+            },
+            {
+              "id": "F4-L1-E6",
+              "type": "speaking",
+              "prompt": "Exchange greetings: ask and answer 'how are you'",
+              "correctAnswer": "¿Cómo estás? Bien gracias, ¿y tú? ¡Muy bien!",
+              "targetLanguage": "¿Cómo estás? Bien gracias, ¿y tú? ¡Muy bien!"
+            }
+          ]
+        },
+        {
+          "id": "F4-L2",
+          "title": "El tiempo como conversación",
+          "description": "El tiempo como conversación",
+          "exercises": [
+            {
+              "id": "F4-L2-E1",
+              "type": "listening",
+              "prompt": "Which weather phrase?",
+              "correctAnswer": "¡Hoy hace mucho calor!",
+              "options": [
+                "Hay viento.",
+                "Llueve mucho.",
+                "Hace frío.",
+                "¡Hoy hace mucho calor!"
+              ],
+              "targetLanguage": "¡Hoy hace mucho calor!"
+            },
+            {
+              "id": "F4-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Hace calor|It's hot",
+                "Hace frío|It's cold",
+                "Llueve|It's raining",
+                "Hay sol|It's sunny"
+              ]
+            },
+            {
+              "id": "F4-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "It's snowing:",
+              "correctAnswer": "Nieva.",
+              "options": [
+                "Nieva.",
+                "Hay niebla.",
+                "Hace frío.",
+                "Llueve."
+              ],
+              "targetLanguage": "Nieva."
+            },
+            {
+              "id": "F4-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Today it's sunny and warm",
+              "correctAnswer": "Hoy hay sol y hace calor",
+              "targetLanguage": "Hoy hay sol y hace calor"
+            },
+            {
+              "id": "F4-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'¡Qué tiempo tan malo!' means:",
+              "correctAnswer": "The weather is awful",
+              "options": [
+                "Beautiful weather",
+                "The weather is awful",
+                "Warm weather",
+                "Mild weather"
+              ],
+              "targetLanguage": "¡Qué tiempo tan malo!"
+            },
+            {
+              "id": "F4-L2-E6",
+              "type": "speaking",
+              "prompt": "Comment on today's weather in Spanish",
+              "correctAnswer": "Hoy [hace calor/frío], [hay sol / llueve / nieva].",
+              "targetLanguage": "Hoy [hace calor/frío], [hay sol / llueve / nieva]."
+            }
+          ]
+        },
+        {
+          "id": "F4-L3",
+          "title": "Gustos y preferencias",
+          "description": "Gustos y preferencias",
+          "exercises": [
+            {
+              "id": "F4-L3-E1",
+              "type": "listening",
+              "prompt": "Which means 'I like'?",
+              "correctAnswer": "Me gusta",
+              "options": [
+                "Lo siento",
+                "No me gusta",
+                "Me llamo",
+                "Me gusta"
+              ],
+              "targetLanguage": "Me gusta"
+            },
+            {
+              "id": "F4-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Me gusta|I like (it)",
+                "No me gusta|I don't like (it)",
+                "Me gustan|I like (plural)",
+                "Me encanta|I love"
+              ]
+            },
+            {
+              "id": "F4-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "You love paella:",
+              "correctAnswer": "¡Me encanta la paella!",
+              "options": [
+                "Me gusta no paella.",
+                "La paella gusta.",
+                "¡Me encanta la paella!",
+                "Paella me gusta mucho tanto."
+              ],
+              "targetLanguage": "¡Me encanta la paella!"
+            },
+            {
+              "id": "F4-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I like Spanish food but I don't like coffee",
+              "correctAnswer": "Me gusta la comida española pero no me gusta el café",
+              "targetLanguage": "Me gusta la comida española pero no me gusta el café"
+            },
+            {
+              "id": "F4-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "How do you ask 'Do you like Madrid?'",
+              "correctAnswer": "¿Te gusta Madrid?",
+              "options": [
+                "¿Madrid te gusta?",
+                "¿Gustas Madrid?",
+                "¿Te gusta Madrid?",
+                "¿Gusta Madrid tú?"
+              ],
+              "targetLanguage": "¿Te gusta Madrid?"
+            },
+            {
+              "id": "F4-L3-E6",
+              "type": "speaking",
+              "prompt": "Say two things you like and one you don't",
+              "correctAnswer": "Me gusta [X] y me gusta [Y], pero no me gusta [Z].",
+              "targetLanguage": "Me gusta [X] y me gusta [Y], pero no me gusta [Z]."
+            }
+          ]
+        },
+        {
+          "id": "F4-L4",
+          "title": "El fin de semana",
+          "description": "El fin de semana",
+          "exercises": [
+            {
+              "id": "F4-L4-E1",
+              "type": "listening",
+              "prompt": "What did the speaker do at the weekend?",
+              "correctAnswer": "Fui al cine",
+              "options": [
+                "Salí con amigos",
+                "Fui al cine",
+                "Trabajé",
+                "Me quedé en casa"
+              ],
+              "targetLanguage": "Fui al cine"
+            },
+            {
+              "id": "F4-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "How do you ask 'What did you do this weekend?'",
+              "correctAnswer": "¿Qué hiciste este fin de semana?",
+              "options": [
+                "¿Qué es el fin de semana?",
+                "¿Qué hiciste este fin de semana?",
+                "¿Qué haces el fin de semana?",
+                "¿Qué harás este fin de semana?"
+              ],
+              "targetLanguage": "¿Qué hiciste este fin de semana?"
+            },
+            {
+              "id": "F4-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I went to the cinema with friends",
+              "correctAnswer": "Fui al cine con mis amigos",
+              "targetLanguage": "Fui al cine con mis amigos"
+            },
+            {
+              "id": "F4-L4-E4",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'I stayed home'?",
+              "correctAnswer": "Me quedé en casa.",
+              "options": [
+                "Quedo en casa.",
+                "A casa fui.",
+                "Casa quedé.",
+                "Me quedé en casa."
+              ],
+              "targetLanguage": "Me quedé en casa."
+            },
+            {
+              "id": "F4-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: This weekend I want to go to the beach",
+              "correctAnswer": "Este fin de semana quiero ir a la playa",
+              "targetLanguage": "Este fin de semana quiero ir a la playa"
+            },
+            {
+              "id": "F4-L4-E6",
+              "type": "speaking",
+              "prompt": "Tell someone what you did or plan to do this weekend",
+              "correctAnswer": "Este fin de semana fui a [lugar]. / Este fin de semana quiero [hacer algo].",
+              "targetLanguage": "Este fin de semana fui a [lugar]. / Este fin de semana quiero [hacer algo]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "title": "La familia",
+      "description": "Talk about family and relationships",
+      "icon": "figure.2.and.child.holdinghands",
+      "lessons": [
+        {
+          "id": "F5-L1",
+          "title": "Miembros de la familia",
+          "description": "Miembros de la familia",
+          "exercises": [
+            {
+              "id": "F5-L1-E1",
+              "type": "listening",
+              "prompt": "Who is 'el cuñado'?",
+              "correctAnswer": "Brother-in-law",
+              "options": [
+                "Father",
+                "Cousin",
+                "Uncle",
+                "Brother-in-law"
+              ],
+              "targetLanguage": "el cuñado"
+            },
+            {
+              "id": "F5-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el padre|father",
+                "la madre|mother",
+                "el hermano|brother",
+                "la hermana|sister"
+              ]
+            },
+            {
+              "id": "F5-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "Your mother's mother is:",
+              "correctAnswer": "la abuela",
+              "options": [
+                "la tía",
+                "la prima",
+                "la cuñada",
+                "la abuela"
+              ],
+              "targetLanguage": "la abuela"
+            },
+            {
+              "id": "F5-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I have two brothers and one sister",
+              "correctAnswer": "Tengo dos hermanos y una hermana",
+              "targetLanguage": "Tengo dos hermanos y una hermana"
+            },
+            {
+              "id": "F5-L1-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el abuelo|grandfather",
+                "la abuela|grandmother",
+                "el tío|uncle",
+                "la tía|aunt"
+              ]
+            },
+            {
+              "id": "F5-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe your family briefly",
+              "correctAnswer": "Tengo [número] hermanos/hermanas. Mi padre se llama [nombre]...",
+              "targetLanguage": "Tengo [número] hermanos/hermanas. Mi padre se llama [nombre]..."
+            }
+          ]
+        },
+        {
+          "id": "F5-L2",
+          "title": "Describir personas",
+          "description": "Describir personas",
+          "exercises": [
+            {
+              "id": "F5-L2-E1",
+              "type": "listening",
+              "prompt": "Which means 'tall and dark-haired'?",
+              "correctAnswer": "alto y moreno",
+              "options": [
+                "alto y moreno",
+                "bajo y moreno",
+                "alto y rubio",
+                "bajo y rubio"
+              ],
+              "targetLanguage": "alto y moreno"
+            },
+            {
+              "id": "F5-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "alto|tall",
+                "bajo|short",
+                "rubio|fair-haired",
+                "moreno|dark-haired"
+              ]
+            },
+            {
+              "id": "F5-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "You describe someone as funny:",
+              "correctAnswer": "Es divertido.",
+              "options": [
+                "Es simpático.",
+                "Es divertido.",
+                "Está cansado.",
+                "Es alto."
+              ],
+              "targetLanguage": "Es divertido."
+            },
+            {
+              "id": "F5-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: My sister is tall and very funny",
+              "correctAnswer": "Mi hermana es alta y muy divertida",
+              "targetLanguage": "Mi hermana es alta y muy divertida"
+            },
+            {
+              "id": "F5-L2-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "simpático|likeable / nice",
+                "antipático|unpleasant",
+                "amable|kind",
+                "tímido|shy"
+              ]
+            },
+            {
+              "id": "F5-L2-E6",
+              "type": "speaking",
+              "prompt": "Describe a family member: name, relation, appearance, personality",
+              "correctAnswer": "Mi [hermano] se llama [nombre], es [alto/bajo], es muy [simpático]...",
+              "targetLanguage": "Mi [hermano] se llama [nombre], es [alto/bajo], es muy [simpático]..."
+            }
+          ]
+        },
+        {
+          "id": "F5-L3",
+          "title": "Relaciones",
+          "description": "Relaciones",
+          "exercises": [
+            {
+              "id": "F5-L3-E1",
+              "type": "listening",
+              "prompt": "Which means 'I have a boyfriend'?",
+              "correctAnswer": "Tengo novio",
+              "options": [
+                "Estoy casado",
+                "Tengo novio",
+                "Tengo un hermano",
+                "Tengo un amigo"
+              ],
+              "targetLanguage": "Tengo novio"
+            },
+            {
+              "id": "F5-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el novio|boyfriend",
+                "la novia|girlfriend",
+                "casado/a|married",
+                "soltero/a|single"
+              ]
+            },
+            {
+              "id": "F5-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "How do you ask 'Are you married?'",
+              "correctAnswer": "¿Estás casado/a?",
+              "options": [
+                "¿Estás casado/a?",
+                "¿Tienes novio/a?",
+                "¿Tienes hijos?",
+                "¿Estás comprometido/a?"
+              ],
+              "targetLanguage": "¿Estás casado/a?"
+            },
+            {
+              "id": "F5-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I'm engaged and we want to get married next year",
+              "correctAnswer": "Estoy comprometido y queremos casarnos el año que viene",
+              "targetLanguage": "Estoy comprometido y queremos casarnos el año que viene"
+            },
+            {
+              "id": "F5-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Llevamos tres años juntos' means:",
+              "correctAnswer": "We've been together for three years",
+              "options": [
+                "We've been together for three years",
+                "We met three years ago",
+                "We've been married three times",
+                "We've been friends three years"
+              ],
+              "targetLanguage": "Llevamos tres años juntos"
+            },
+            {
+              "id": "F5-L3-E6",
+              "type": "speaking",
+              "prompt": "Describe your relationship status in Spanish",
+              "correctAnswer": "Estoy [soltero/casado/comprometido]...",
+              "targetLanguage": "Estoy [soltero/casado/comprometido]..."
+            }
+          ]
+        },
+        {
+          "id": "F5-L4",
+          "title": "Historias familiares",
+          "description": "Historias familiares",
+          "exercises": [
+            {
+              "id": "F5-L4-E1",
+              "type": "listening",
+              "prompt": "Where does this person's family live?",
+              "correctAnswer": "en el sur de España",
+              "options": [
+                "en el extranjero",
+                "en la ciudad",
+                "en el sur de España",
+                "en el norte"
+              ],
+              "targetLanguage": "Mi familia vive en el sur de España."
+            },
+            {
+              "id": "F5-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Somos una familia unida' means:",
+              "correctAnswer": "We are a close-knit family",
+              "options": [
+                "We're a famous family.",
+                "Our family is nice.",
+                "We are a close-knit family",
+                "We're a big family."
+              ],
+              "targetLanguage": "Somos una familia unida."
+            },
+            {
+              "id": "F5-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: My parents live in Seville but I live in Madrid",
+              "correctAnswer": "Mis padres viven en Sevilla pero yo vivo en Madrid",
+              "targetLanguage": "Mis padres viven en Sevilla pero yo vivo en Madrid"
+            },
+            {
+              "id": "F5-L4-E4",
+              "type": "multipleChoice",
+              "prompt": "'Nos vemos todos los domingos' means:",
+              "correctAnswer": "We see each other every Sunday",
+              "options": [
+                "We saw each other last Sunday",
+                "We never see each other",
+                "We see each other every Sunday",
+                "We'll see each other next Sunday"
+              ],
+              "targetLanguage": "Nos vemos todos los domingos"
+            },
+            {
+              "id": "F5-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Every Sunday we have lunch together",
+              "correctAnswer": "Cada domingo comemos juntos",
+              "targetLanguage": "Cada domingo comemos juntos"
+            },
+            {
+              "id": "F5-L4-E6",
+              "type": "speaking",
+              "prompt": "Talk about a family tradition",
+              "correctAnswer": "Mi familia es de [lugar]... Cada [ocasión] nosotros [hacer algo].",
+              "targetLanguage": "Mi familia es de [lugar]... Cada [ocasión] nosotros [hacer algo]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "title": "Por la ciudad",
+      "description": "Ask and understand directions",
+      "icon": "map.fill",
+      "lessons": [
+        {
+          "id": "F6-L1",
+          "title": "Palabras de dirección",
+          "description": "Palabras de dirección",
+          "exercises": [
+            {
+              "id": "F6-L1-E1",
+              "type": "listening",
+              "prompt": "Which direction?",
+              "correctAnswer": "a la izquierda",
+              "options": [
+                "a la derecha",
+                "a la izquierda",
+                "todo recto",
+                "detrás"
+              ],
+              "targetLanguage": "a la izquierda"
+            },
+            {
+              "id": "F6-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a la derecha|right",
+                "a la izquierda|left",
+                "todo recto|straight on",
+                "detrás|back / behind"
+              ]
+            },
+            {
+              "id": "F6-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "'Gira a la derecha' means:",
+              "correctAnswer": "Turn right",
+              "options": [
+                "Go straight",
+                "Go back",
+                "Turn left",
+                "Turn right"
+              ],
+              "targetLanguage": "Gira a la derecha"
+            },
+            {
+              "id": "F6-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Turn left and then go straight on",
+              "correctAnswer": "Gira a la izquierda y luego ve todo recto",
+              "targetLanguage": "Gira a la izquierda y luego ve todo recto"
+            },
+            {
+              "id": "F6-L1-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "cerca|near",
+                "lejos|far",
+                "a la vuelta de la esquina|around the corner",
+                "enfrente de|opposite"
+              ]
+            },
+            {
+              "id": "F6-L1-E6",
+              "type": "speaking",
+              "prompt": "Give directions from your home to a nearby landmark",
+              "correctAnswer": "Primero ve [recto], luego gira [a la derecha/izquierda]...",
+              "targetLanguage": "Primero ve [recto], luego gira [a la derecha/izquierda]..."
+            }
+          ]
+        },
+        {
+          "id": "F6-L2",
+          "title": "Preguntar dónde están las cosas",
+          "description": "Preguntar dónde están las cosas",
+          "exercises": [
+            {
+              "id": "F6-L2-E1",
+              "type": "listening",
+              "prompt": "What is the person looking for?",
+              "correctAnswer": "la estación",
+              "options": [
+                "el hospital",
+                "la oficina de correos",
+                "la estación",
+                "el baño"
+              ],
+              "targetLanguage": "¿Dónde está la estación?"
+            },
+            {
+              "id": "F6-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Dónde está...?|Where is...?",
+                "¿Hay un... cerca?|Is there a... nearby?",
+                "¿Cómo se llega a...?|How do you get to...?",
+                "¿Está lejos?|Is it far?"
+              ]
+            },
+            {
+              "id": "F6-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "You're lost — you ask:",
+              "correctAnswer": "Disculpe, ¿dónde está el Prado?",
+              "options": [
+                "¿Dónde? El Prado.",
+                "Disculpe, ¿dónde está el Prado?",
+                "Yo Prado busco.",
+                "Prado, ¿dónde está?"
+              ],
+              "targetLanguage": "Disculpe, ¿dónde está el Prado?"
+            },
+            {
+              "id": "F6-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Excuse me is there a pharmacy nearby?",
+              "correctAnswer": "Disculpe ¿hay una farmacia cerca?",
+              "targetLanguage": "Disculpe ¿hay una farmacia cerca?"
+            },
+            {
+              "id": "F6-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Está a diez minutos andando' means:",
+              "correctAnswer": "A 10-minute walk away",
+              "options": [
+                "Very close",
+                "A 10-minute walk away",
+                "Far away",
+                "10 minutes by car"
+              ],
+              "targetLanguage": "a diez minutos andando"
+            },
+            {
+              "id": "F6-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask a passer-by for the nearest café or pharmacy",
+              "correctAnswer": "Disculpe, ¿hay un café / una farmacia cerca?",
+              "targetLanguage": "Disculpe, ¿hay un café / una farmacia cerca?"
+            }
+          ]
+        },
+        {
+          "id": "F6-L3",
+          "title": "Transporte",
+          "description": "Transporte",
+          "exercises": [
+            {
+              "id": "F6-L3-E1",
+              "type": "listening",
+              "prompt": "Which transport is mentioned?",
+              "correctAnswer": "el metro",
+              "options": [
+                "el tranvía",
+                "el autobús",
+                "el tren",
+                "el metro"
+              ],
+              "targetLanguage": "Tomo el metro."
+            },
+            {
+              "id": "F6-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el tren|train",
+                "el autobús|bus",
+                "el metro|underground/metro",
+                "el tranvía|tram"
+              ]
+            },
+            {
+              "id": "F6-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "You want to know which bus to take:",
+              "correctAnswer": "¿Qué autobús tengo que coger?",
+              "options": [
+                "¿Cuántos autobuses hay?",
+                "¿Adónde va el autobús?",
+                "¿Qué autobús tengo que coger?",
+                "¿Cuándo llega el autobús?"
+              ],
+              "targetLanguage": "¿Qué autobús tengo que coger?"
+            },
+            {
+              "id": "F6-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I need to get to the city centre by metro",
+              "correctAnswer": "Necesito ir al centro en metro",
+              "targetLanguage": "Necesito ir al centro en metro"
+            },
+            {
+              "id": "F6-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'La próxima parada es Sol' means:",
+              "correctAnswer": "The next stop is Sol",
+              "options": [
+                "The next stop is Sol",
+                "Get off at Sol",
+                "Sol is two stops away",
+                "Sol is the last stop"
+              ],
+              "targetLanguage": "La próxima parada es Sol"
+            },
+            {
+              "id": "F6-L3-E6",
+              "type": "speaking",
+              "prompt": "Explain how you usually get around your city",
+              "correctAnswer": "Normalmente tomo [medio de transporte] para ir a [lugar].",
+              "targetLanguage": "Normalmente tomo [medio de transporte] para ir a [lugar]."
+            }
+          ]
+        },
+        {
+          "id": "F6-L4",
+          "title": "Seguir indicaciones",
+          "description": "Seguir indicaciones",
+          "exercises": [
+            {
+              "id": "F6-L4-E1",
+              "type": "listening",
+              "prompt": "Where do you end up?",
+              "correctAnswer": "en la plaza",
+              "options": [
+                "en la plaza",
+                "en el hospital",
+                "en el supermercado",
+                "en la estación"
+              ],
+              "targetLanguage": "Ve recto y llegas a la plaza."
+            },
+            {
+              "id": "F6-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Toma la segunda a la derecha' means:",
+              "correctAnswer": "Take the second right",
+              "options": [
+                "Take the second left",
+                "Take the second right",
+                "Take the first right",
+                "Turn right twice"
+              ],
+              "targetLanguage": "Toma la segunda a la derecha"
+            },
+            {
+              "id": "F6-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Take the first left and the station is opposite",
+              "correctAnswer": "Toma la primera a la izquierda y la estación está enfrente",
+              "targetLanguage": "Toma la primera a la izquierda y la estación está enfrente"
+            },
+            {
+              "id": "F6-L4-E4",
+              "type": "multipleChoice",
+              "prompt": "'Cruza el puente y gira a la izquierda' means:",
+              "correctAnswer": "Cross the bridge and turn left",
+              "options": [
+                "Go under the bridge",
+                "Cross the square",
+                "Cross the road and turn right",
+                "Cross the bridge and turn left"
+              ],
+              "targetLanguage": "Cruza el puente y gira a la izquierda"
+            },
+            {
+              "id": "F6-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: The supermarket is behind the church on the right",
+              "correctAnswer": "El supermercado está detrás de la iglesia a la derecha",
+              "targetLanguage": "El supermercado está detrás de la iglesia a la derecha"
+            },
+            {
+              "id": "F6-L4-E6",
+              "type": "speaking",
+              "prompt": "Give directions from the station to a local landmark",
+              "correctAnswer": "Sal de la estación, gira a [la derecha/izquierda]...",
+              "targetLanguage": "Sal de la estación, gira a [la derecha/izquierda]..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7",
+      "title": "De compras",
+      "description": "Shop for clothes, food and everyday items",
+      "icon": "bag.fill",
+      "lessons": [
+        {
+          "id": "F7-L1",
+          "title": "En la tienda",
+          "description": "En la tienda",
+          "exercises": [
+            {
+              "id": "F7-L1-E1",
+              "type": "listening",
+              "prompt": "What does the assistant ask?",
+              "correctAnswer": "¿Le puedo ayudar?",
+              "options": [
+                "¿Qué quiere?",
+                "¿Busca algo?",
+                "¿Necesita algo?",
+                "¿Le puedo ayudar?"
+              ],
+              "targetLanguage": "¿Le puedo ayudar?"
+            },
+            {
+              "id": "F7-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Solo estoy mirando|I'm just looking",
+                "Busco...|I'm looking for...",
+                "¿Tienen...?|Do you have...?",
+                "¿Qué talla usa?|What size do you take?"
+              ]
+            },
+            {
+              "id": "F7-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "You just want to browse:",
+              "correctAnswer": "Solo estoy mirando, gracias.",
+              "options": [
+                "Necesito ayuda.",
+                "Quiero comprar algo.",
+                "Solo estoy mirando, gracias.",
+                "¿Puede ayudarme?"
+              ],
+              "targetLanguage": "Solo estoy mirando, gracias."
+            },
+            {
+              "id": "F7-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I'm looking for a blue shirt in medium",
+              "correctAnswer": "Busco una camisa azul de talla media",
+              "targetLanguage": "Busco una camisa azul de talla media"
+            },
+            {
+              "id": "F7-L1-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "la talla|size (clothes)",
+                "el número|size (shoes)",
+                "el probador|changing room",
+                "la caja|till/checkout"
+              ]
+            },
+            {
+              "id": "F7-L1-E6",
+              "type": "speaking",
+              "prompt": "Walk into a shop and say what you're looking for",
+              "correctAnswer": "Buenos días, busco [prenda] de talla [talla].",
+              "targetLanguage": "Buenos días, busco [prenda] de talla [talla]."
+            }
+          ]
+        },
+        {
+          "id": "F7-L2",
+          "title": "Colores y preferencias",
+          "description": "Colores y preferencias",
+          "exercises": [
+            {
+              "id": "F7-L2-E1",
+              "type": "listening",
+              "prompt": "Which colour?",
+              "correctAnswer": "verde",
+              "options": [
+                "rojo",
+                "azul",
+                "gris",
+                "verde"
+              ],
+              "targetLanguage": "verde"
+            },
+            {
+              "id": "F7-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "rojo|red",
+                "azul|blue",
+                "verde|green",
+                "negro|black"
+              ]
+            },
+            {
+              "id": "F7-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "You prefer the white one:",
+              "correctAnswer": "Prefiero el blanco.",
+              "options": [
+                "El blanco es bonito.",
+                "Me gusta blanco.",
+                "Prefiero el blanco.",
+                "Quiero blanco uno."
+              ],
+              "targetLanguage": "Prefiero el blanco."
+            },
+            {
+              "id": "F7-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Do you have this in red or green?",
+              "correctAnswer": "¿Lo tienen en rojo o verde?",
+              "targetLanguage": "¿Lo tienen en rojo o verde?"
+            },
+            {
+              "id": "F7-L2-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "blanco|white",
+                "gris|grey",
+                "amarillo|yellow",
+                "marrón|brown"
+              ]
+            },
+            {
+              "id": "F7-L2-E6",
+              "type": "speaking",
+              "prompt": "Describe what you're wearing today in Spanish",
+              "correctAnswer": "Hoy llevo [prenda] [color]...",
+              "targetLanguage": "Hoy llevo [prenda] [color]..."
+            }
+          ]
+        },
+        {
+          "id": "F7-L3",
+          "title": "Probarse ropa",
+          "description": "Probarse ropa",
+          "exercises": [
+            {
+              "id": "F7-L3-E1",
+              "type": "listening",
+              "prompt": "What does the person want to do?",
+              "correctAnswer": "Probarse la chaqueta",
+              "options": [
+                "Comprar la falda",
+                "Probarse la chaqueta",
+                "Pagar el vestido",
+                "Devolver los pantalones"
+              ],
+              "targetLanguage": "¿Puedo probarme la chaqueta?"
+            },
+            {
+              "id": "F7-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "You want to try something on:",
+              "correctAnswer": "¿Me lo puedo probar?",
+              "options": [
+                "¿Puedo tenerlo?",
+                "¿Me lo puedo probar?",
+                "¿Cuánto cuesta?",
+                "¿Dónde está el probador?"
+              ],
+              "targetLanguage": "¿Me lo puedo probar?"
+            },
+            {
+              "id": "F7-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Can I try on this dress in size 42?",
+              "correctAnswer": "¿Puedo probarme este vestido en talla cuarenta y dos?",
+              "targetLanguage": "¿Puedo probarme este vestido en talla cuarenta y dos?"
+            },
+            {
+              "id": "F7-L3-E4",
+              "type": "multipleChoice",
+              "prompt": "The jacket is too small:",
+              "correctAnswer": "Es demasiado pequeña.",
+              "options": [
+                "Me queda bien.",
+                "Es demasiado pequeña.",
+                "No me gusta el color.",
+                "Es demasiado grande."
+              ],
+              "targetLanguage": "Es demasiado pequeña."
+            },
+            {
+              "id": "F7-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Do you have a bigger size?",
+              "correctAnswer": "¿Tienen una talla más grande?",
+              "targetLanguage": "¿Tienen una talla más grande?"
+            },
+            {
+              "id": "F7-L3-E6",
+              "type": "speaking",
+              "prompt": "Try on an item and give feedback",
+              "correctAnswer": "Es [demasiado grande/pequeña]. ¿Tienen una talla [más grande/pequeña]?",
+              "targetLanguage": "Es [demasiado grande/pequeña]. ¿Tienen una talla [más grande/pequeña]?"
+            }
+          ]
+        },
+        {
+          "id": "F7-L4",
+          "title": "Devoluciones",
+          "description": "Devoluciones",
+          "exercises": [
+            {
+              "id": "F7-L4-E1",
+              "type": "listening",
+              "prompt": "What is the customer doing?",
+              "correctAnswer": "Devuelve una compra",
+              "options": [
+                "Paga",
+                "Pide información",
+                "Se prueba un vestido",
+                "Devuelve una compra"
+              ],
+              "targetLanguage": "Quisiera devolver esta compra."
+            },
+            {
+              "id": "F7-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "You want to return an item:",
+              "correctAnswer": "Quisiera hacer una devolución.",
+              "options": [
+                "¿Puedo tener el reembolso?",
+                "Quisiera hacer una devolución.",
+                "Quiero un cambio.",
+                "No me gusta esto."
+              ],
+              "targetLanguage": "Quisiera hacer una devolución."
+            },
+            {
+              "id": "F7-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: This jacket has a defect I'd like a refund",
+              "correctAnswer": "Esta chaqueta tiene un defecto quisiera un reembolso",
+              "targetLanguage": "Esta chaqueta tiene un defecto quisiera un reembolso"
+            },
+            {
+              "id": "F7-L4-E4",
+              "type": "multipleChoice",
+              "prompt": "'Tengo el tique' helps because:",
+              "correctAnswer": "The receipt proves the purchase",
+              "options": [
+                "It's required only in Madrid",
+                "It gives a discount",
+                "The receipt proves the purchase",
+                "It means free delivery"
+              ],
+              "targetLanguage": "Tengo el tique"
+            },
+            {
+              "id": "F7-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Can I exchange it for the same thing in black?",
+              "correctAnswer": "¿Puedo cambiarlo por el mismo en negro?",
+              "targetLanguage": "¿Puedo cambiarlo por el mismo en negro?"
+            },
+            {
+              "id": "F7-L4-E6",
+              "type": "speaking",
+              "prompt": "Return a defective item and ask for an exchange",
+              "correctAnswer": "Buenos días, quisiera devolver este/a [prenda], tiene un defecto.",
+              "targetLanguage": "Buenos días, quisiera devolver este/a [prenda], tiene un defecto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "title": "Tiempo libre",
+      "description": "Hobbies, plans and leisure",
+      "icon": "figure.run",
+      "lessons": [
+        {
+          "id": "F8-L1",
+          "title": "Actividades de ocio",
+          "description": "Actividades de ocio",
+          "exercises": [
+            {
+              "id": "F8-L1-E1",
+              "type": "listening",
+              "prompt": "What does the speaker like doing?",
+              "correctAnswer": "leer",
+              "options": [
+                "correr",
+                "leer",
+                "cocinar",
+                "viajar"
+              ],
+              "targetLanguage": "Me gusta leer."
+            },
+            {
+              "id": "F8-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "leer|to read",
+                "cocinar|to cook",
+                "escuchar música|to listen to music",
+                "hacer deporte|to do sport"
+              ]
+            },
+            {
+              "id": "F8-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "How do you ask 'What do you like doing in your free time?'",
+              "correctAnswer": "¿Qué te gusta hacer en tu tiempo libre?",
+              "options": [
+                "¿Tienes tiempo libre?",
+                "¿Qué haces normalmente?",
+                "¿Qué quieres hacer?",
+                "¿Qué te gusta hacer en tu tiempo libre?"
+              ],
+              "targetLanguage": "¿Qué te gusta hacer en tu tiempo libre?"
+            },
+            {
+              "id": "F8-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I like cooking and reading but I don't like running",
+              "correctAnswer": "Me gusta cocinar y leer pero no me gusta correr",
+              "targetLanguage": "Me gusta cocinar y leer pero no me gusta correr"
+            },
+            {
+              "id": "F8-L1-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "viajar|to travel",
+                "correr|to run",
+                "pintar|to paint",
+                "jugar al fútbol|to play football"
+              ]
+            },
+            {
+              "id": "F8-L1-E6",
+              "type": "speaking",
+              "prompt": "Say three things you enjoy doing in your free time",
+              "correctAnswer": "En mi tiempo libre me gusta [X], [Y] y [Z].",
+              "targetLanguage": "En mi tiempo libre me gusta [X], [Y] y [Z]."
+            }
+          ]
+        },
+        {
+          "id": "F8-L2",
+          "title": "Hacer planes",
+          "description": "Hacer planes",
+          "exercises": [
+            {
+              "id": "F8-L2-E1",
+              "type": "listening",
+              "prompt": "What plan is being made?",
+              "correctAnswer": "ir al cine esta noche",
+              "options": [
+                "dar un paseo",
+                "ir al gimnasio",
+                "ir al cine esta noche",
+                "comer fuera"
+              ],
+              "targetLanguage": "¿Vamos al cine esta noche?"
+            },
+            {
+              "id": "F8-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Te apetece...?|Do you fancy...?",
+                "¿Salimos?|Shall we go out?",
+                "¿Estás libre?|Are you free?",
+                "¡Vamos!|Let's go!"
+              ]
+            },
+            {
+              "id": "F8-L2-E3",
+              "type": "multipleChoice",
+              "prompt": "'¿Te apetece tomar un café?' means:",
+              "correctAnswer": "Do you fancy getting a coffee?",
+              "options": [
+                "Where's the coffee?",
+                "Would you like some coffee?",
+                "Do you fancy getting a coffee?",
+                "Did you drink coffee?"
+              ],
+              "targetLanguage": "¿Te apetece tomar un café?"
+            },
+            {
+              "id": "F8-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Are you free on Saturday evening?",
+              "correctAnswer": "¿Estás libre el sábado por la noche?",
+              "targetLanguage": "¿Estás libre el sábado por la noche?"
+            },
+            {
+              "id": "F8-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "You can't make it:",
+              "correctAnswer": "Lo siento, no puedo.",
+              "options": [
+                "Lo siento, no puedo.",
+                "¡Vamos!",
+                "¡Vale!",
+                "¡Sí, claro!"
+              ],
+              "targetLanguage": "Lo siento, no puedo."
+            },
+            {
+              "id": "F8-L2-E6",
+              "type": "speaking",
+              "prompt": "Invite a friend to do something this weekend",
+              "correctAnswer": "¿Te apetece [actividad] este fin de semana? ¿Estás libre?",
+              "targetLanguage": "¿Te apetece [actividad] este fin de semana? ¿Estás libre?"
+            }
+          ]
+        },
+        {
+          "id": "F8-L3",
+          "title": "Deporte y salud",
+          "description": "Deporte y salud",
+          "exercises": [
+            {
+              "id": "F8-L3-E1",
+              "type": "listening",
+              "prompt": "Which sport?",
+              "correctAnswer": "la natación",
+              "options": [
+                "el fútbol",
+                "la natación",
+                "el tenis",
+                "el ciclismo"
+              ],
+              "targetLanguage": "Hago natación."
+            },
+            {
+              "id": "F8-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "hacer yoga|to do yoga",
+                "ir al gimnasio|to go to the gym",
+                "jugar al tenis|to play tennis",
+                "nadar|to swim"
+              ]
+            },
+            {
+              "id": "F8-L3-E3",
+              "type": "multipleChoice",
+              "prompt": "'I go to the gym three times a week':",
+              "correctAnswer": "Voy al gimnasio tres veces a la semana.",
+              "options": [
+                "Hago gimnasio tres semanas.",
+                "Tres veces gimnasio voy.",
+                "Gimnasio tres veces.",
+                "Voy al gimnasio tres veces a la semana."
+              ],
+              "targetLanguage": "Voy al gimnasio tres veces a la semana."
+            },
+            {
+              "id": "F8-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I play football on Sundays with my friends",
+              "correctAnswer": "Juego al fútbol los domingos con mis amigos",
+              "targetLanguage": "Juego al fútbol los domingos con mis amigos"
+            },
+            {
+              "id": "F8-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Mantenerse en forma' means:",
+              "correctAnswer": "To stay in shape / keep fit",
+              "options": [
+                "To feel comfortable",
+                "To stay at home",
+                "To stay warm",
+                "To stay in shape / keep fit"
+              ],
+              "targetLanguage": "Mantenerse en forma"
+            },
+            {
+              "id": "F8-L3-E6",
+              "type": "speaking",
+              "prompt": "Talk about your exercise routine",
+              "correctAnswer": "Hago [deporte] [frecuencia]. Me gusta porque [motivo].",
+              "targetLanguage": "Hago [deporte] [frecuencia]. Me gusta porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "F8-L4",
+          "title": "Vacaciones",
+          "description": "Vacaciones",
+          "exercises": [
+            {
+              "id": "F8-L4-E1",
+              "type": "listening",
+              "prompt": "Where did the person go on holiday?",
+              "correctAnswer": "a Andalucía",
+              "options": [
+                "a Cataluña",
+                "a las Islas Canarias",
+                "a Andalucía",
+                "a Galicia"
+              ],
+              "targetLanguage": "Fui a Andalucía de vacaciones."
+            },
+            {
+              "id": "F8-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "How do you ask 'Where did you go on holiday?'",
+              "correctAnswer": "¿Adónde fuiste de vacaciones?",
+              "options": [
+                "¿Vas de vacaciones?",
+                "¿Adónde fuiste de vacaciones?",
+                "¿Adónde vas de vacaciones?",
+                "¿Dónde están tus vacaciones?"
+              ],
+              "targetLanguage": "¿Adónde fuiste de vacaciones?"
+            },
+            {
+              "id": "F8-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Last summer I went to the Canary Islands for two weeks",
+              "correctAnswer": "El verano pasado fui a las Islas Canarias durante dos semanas",
+              "targetLanguage": "El verano pasado fui a las Islas Canarias durante dos semanas"
+            },
+            {
+              "id": "F8-L4-E4",
+              "type": "multipleChoice",
+              "prompt": "'¡Fue fantástico!'  means:",
+              "correctAnswer": "It was fantastic!",
+              "options": [
+                "It was so beautiful.",
+                "It was excellent.",
+                "It was fantastic!",
+                "Very fantastic."
+              ],
+              "targetLanguage": "¡Fue fantástico!"
+            },
+            {
+              "id": "F8-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Next summer I want to visit Seville and Granada",
+              "correctAnswer": "El próximo verano quiero visitar Sevilla y Granada",
+              "targetLanguage": "El próximo verano quiero visitar Sevilla y Granada"
+            },
+            {
+              "id": "F8-L4-E6",
+              "type": "speaking",
+              "prompt": "Tell someone about your best holiday or where you want to go next",
+              "correctAnswer": "Mis mejores vacaciones fueron en [lugar]... / Quiero ir a [lugar] porque...",
+              "targetLanguage": "Mis mejores vacaciones fueron en [lugar]... / Quiero ir a [lugar] porque..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "title": "La rutina diaria",
+      "description": "Describe your daily life in Spanish",
+      "icon": "clock.fill",
+      "lessons": [
+        {
+          "id": "E1-L1",
+          "title": "La mañana",
+          "description": "La mañana",
+          "exercises": [
+            {
+              "id": "E1-L1-E1",
+              "type": "listening",
+              "prompt": "What time does the speaker wake up?",
+              "correctAnswer": "a las siete",
+              "options": [
+                "a las seis y media",
+                "a las ocho",
+                "a las seis",
+                "a las siete"
+              ],
+              "targetLanguage": "Me despierto a las siete."
+            },
+            {
+              "id": "E1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "despertarse|to wake up",
+                "levantarse|to get up",
+                "ducharse|to have a shower",
+                "desayunar|to have breakfast"
+              ]
+            },
+            {
+              "id": "E1-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "'Me levanto a las siete y media' means:",
+              "correctAnswer": "I get up at half past seven",
+              "options": [
+                "I have breakfast at seven thirty",
+                "I go to bed at half seven",
+                "I get up at half past seven",
+                "I wake up at seven"
+              ],
+              "targetLanguage": "Me levanto a las siete y media"
+            },
+            {
+              "id": "E1-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: I wake up at seven, shower and then have breakfast",
+              "correctAnswer": "Me despierto a las siete, me ducho y luego desayuno",
+              "targetLanguage": "Me despierto a las siete, me ducho y luego desayuno"
+            },
+            {
+              "id": "E1-L1-E5",
+              "type": "translation",
+              "prompt": "Translate: Before leaving home I always drink a coffee",
+              "correctAnswer": "Antes de salir de casa siempre bebo un café",
+              "targetLanguage": "Antes de salir de casa siempre bebo un café"
+            },
+            {
+              "id": "E1-L1-E6",
+              "type": "wordOrder",
+              "prompt": "Build: I leave the house at eight fifteen",
+              "correctAnswer": "Salgo de casa a las ocho y cuarto",
+              "targetLanguage": "Salgo de casa a las ocho y cuarto"
+            },
+            {
+              "id": "E1-L1-E7",
+              "type": "listening",
+              "prompt": "What does the speaker do first in the morning?",
+              "correctAnswer": "se ducha",
+              "options": [
+                "se viste",
+                "se ducha",
+                "se despierta",
+                "desayuna"
+              ],
+              "targetLanguage": "Primero me ducho."
+            },
+            {
+              "id": "E1-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe your morning routine",
+              "correctAnswer": "Me despierto a las [hora], luego [actividad]...",
+              "targetLanguage": "Me despierto a las [hora], luego [actividad]..."
+            }
+          ]
+        },
+        {
+          "id": "E1-L2",
+          "title": "Trabajo y estudios",
+          "description": "Trabajo y estudios",
+          "exercises": [
+            {
+              "id": "E1-L2-E1",
+              "type": "listening",
+              "prompt": "How does this person get to work?",
+              "correctAnswer": "en metro",
+              "options": [
+                "en metro",
+                "en bici",
+                "a pie",
+                "en coche"
+              ],
+              "targetLanguage": "Voy al trabajo en metro."
+            },
+            {
+              "id": "E1-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "trabajar|to work",
+                "estudiar|to study",
+                "la reunión|the meeting",
+                "el descanso para comer|lunch break"
+              ]
+            },
+            {
+              "id": "E1-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: I work from nine to six and I have an hour lunch break",
+              "correctAnswer": "Trabajo de nueve a seis y tengo una hora para comer",
+              "targetLanguage": "Trabajo de nueve a seis y tengo una hora para comer"
+            },
+            {
+              "id": "E1-L2-E4",
+              "type": "translation",
+              "prompt": "Translate: I study at university two days a week and work part-time",
+              "correctAnswer": "Estudio en la universidad dos días a la semana y trabajo a tiempo parcial",
+              "targetLanguage": "Estudio en la universidad dos días a la semana y trabajo a tiempo parcial"
+            },
+            {
+              "id": "E1-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I usually eat lunch at my desk",
+              "correctAnswer": "Normalmente como en mi escritorio",
+              "targetLanguage": "Normalmente como en mi escritorio"
+            },
+            {
+              "id": "E1-L2-E6",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'I work from home'?",
+              "correctAnswer": "Trabajo desde casa.",
+              "options": [
+                "Hago trabajo casa.",
+                "Trabajo desde casa.",
+                "Casa trabajo.",
+                "Trabajo en mi casa."
+              ],
+              "targetLanguage": "Trabajo desde casa."
+            },
+            {
+              "id": "E1-L2-E7",
+              "type": "listening",
+              "prompt": "What time does this person finish work?",
+              "correctAnswer": "a las seis",
+              "options": [
+                "a las cinco",
+                "a las seis y media",
+                "a las seis",
+                "a las siete"
+              ],
+              "targetLanguage": "Termino de trabajar a las seis."
+            },
+            {
+              "id": "E1-L2-E8",
+              "type": "speaking",
+              "prompt": "Describe your working or studying day",
+              "correctAnswer": "Normalmente [me despierto/salgo] a las [hora]... Trabajo/estudio hasta las [hora].",
+              "targetLanguage": "Normalmente [me despierto/salgo] a las [hora]... Trabajo/estudio hasta las [hora]."
+            }
+          ]
+        },
+        {
+          "id": "E1-L3",
+          "title": "La tarde y la noche",
+          "description": "La tarde y la noche",
+          "exercises": [
+            {
+              "id": "E1-L3-E1",
+              "type": "listening",
+              "prompt": "What does the person do in the evening?",
+              "correctAnswer": "ve la tele",
+              "options": [
+                "lee",
+                "cocina",
+                "ve la tele",
+                "sale con amigos"
+              ],
+              "targetLanguage": "Por la tarde veo la tele."
+            },
+            {
+              "id": "E1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "cenar|to have dinner",
+                "relajarse|to relax",
+                "ver la tele|to watch TV",
+                "irse a la cama|to go to bed"
+              ]
+            },
+            {
+              "id": "E1-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: In the evening I usually cook dinner then watch a series",
+              "correctAnswer": "Por la noche normalmente cocino la cena y luego veo una serie",
+              "targetLanguage": "Por la noche normalmente cocino la cena y luego veo una serie"
+            },
+            {
+              "id": "E1-L3-E4",
+              "type": "translation",
+              "prompt": "Translate: I go to bed at eleven and read for half an hour before sleeping",
+              "correctAnswer": "Me voy a la cama a las once y leo durante media hora antes de dormir",
+              "targetLanguage": "Me voy a la cama a las once y leo durante media hora antes de dormir"
+            },
+            {
+              "id": "E1-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: At the weekend I like to go out with friends",
+              "correctAnswer": "El fin de semana me gusta salir con mis amigos",
+              "targetLanguage": "El fin de semana me gusta salir con mis amigos"
+            },
+            {
+              "id": "E1-L3-E6",
+              "type": "multipleChoice",
+              "prompt": "'Me quedo dormido enseguida' means:",
+              "correctAnswer": "I fall asleep straight away",
+              "options": [
+                "I sleep late",
+                "I go to bed early",
+                "I fall asleep straight away",
+                "I wake up immediately"
+              ],
+              "targetLanguage": "Me quedo dormido enseguida"
+            },
+            {
+              "id": "E1-L3-E7",
+              "type": "listening",
+              "prompt": "What time does this person go to bed?",
+              "correctAnswer": "a medianoche",
+              "options": [
+                "a las diez",
+                "a medianoche",
+                "a las once",
+                "a las once y media"
+              ],
+              "targetLanguage": "Me voy a la cama a medianoche."
+            },
+            {
+              "id": "E1-L3-E8",
+              "type": "speaking",
+              "prompt": "Describe a typical evening in your life",
+              "correctAnswer": "Por la noche normalmente [actividad]... Me acuesto sobre las [hora].",
+              "targetLanguage": "Por la noche normalmente [actividad]... Me acuesto sobre las [hora]."
+            }
+          ]
+        },
+        {
+          "id": "E1-L4",
+          "title": "Hábitos y frecuencia",
+          "description": "Hábitos y frecuencia",
+          "exercises": [
+            {
+              "id": "E1-L4-E1",
+              "type": "listening",
+              "prompt": "How often does the speaker exercise?",
+              "correctAnswer": "tres veces a la semana",
+              "options": [
+                "raramente",
+                "una vez a la semana",
+                "tres veces a la semana",
+                "cada día"
+              ],
+              "targetLanguage": "Hago deporte tres veces a la semana."
+            },
+            {
+              "id": "E1-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "siempre|always",
+                "a menudo|often",
+                "a veces|sometimes",
+                "raramente|rarely"
+              ]
+            },
+            {
+              "id": "E1-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: I always have breakfast but I rarely have dinner at home",
+              "correctAnswer": "Siempre desayuno pero raramente ceno en casa",
+              "targetLanguage": "Siempre desayuno pero raramente ceno en casa"
+            },
+            {
+              "id": "E1-L4-E4",
+              "type": "translation",
+              "prompt": "Translate: I sometimes go to the gym but I prefer to run outdoors",
+              "correctAnswer": "A veces voy al gimnasio pero prefiero correr al aire libre",
+              "targetLanguage": "A veces voy al gimnasio pero prefiero correr al aire libre"
+            },
+            {
+              "id": "E1-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I hardly ever watch TV I prefer to read",
+              "correctAnswer": "Raramente veo la tele prefiero leer",
+              "targetLanguage": "Raramente veo la tele prefiero leer"
+            },
+            {
+              "id": "E1-L4-E6",
+              "type": "multipleChoice",
+              "prompt": "'Normalmente' means:",
+              "correctAnswer": "Usually",
+              "options": [
+                "Usually",
+                "Never",
+                "Sometimes",
+                "Always"
+              ],
+              "targetLanguage": "Normalmente"
+            },
+            {
+              "id": "E1-L4-E7",
+              "type": "listening",
+              "prompt": "What does the speaker do every Sunday?",
+              "correctAnswer": "come en familia",
+              "options": [
+                "trabaja",
+                "hace deporte",
+                "duerme hasta tarde",
+                "come en familia"
+              ],
+              "targetLanguage": "Cada domingo como en familia."
+            },
+            {
+              "id": "E1-L4-E8",
+              "type": "speaking",
+              "prompt": "Describe your habits using siempre, a menudo, a veces, raramente",
+              "correctAnswer": "Siempre [X]... a veces [Y]... raramente [Z]...",
+              "targetLanguage": "Siempre [X]... a veces [Y]... raramente [Z]..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2",
+      "title": "Hacer planes",
+      "description": "Make plans and talk about the future",
+      "icon": "calendar",
+      "lessons": [
+        {
+          "id": "E2-L1",
+          "title": "Sugerir e invitar",
+          "description": "Sugerir e invitar",
+          "exercises": [
+            {
+              "id": "E2-L1-E1",
+              "type": "listening",
+              "prompt": "What is being suggested?",
+              "correctAnswer": "ir al cine",
+              "options": [
+                "ir al cine",
+                "comer fuera",
+                "dar un paseo",
+                "ir al gimnasio"
+              ],
+              "targetLanguage": "¿Por qué no vamos al cine?"
+            },
+            {
+              "id": "E2-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¿Por qué no...?|Why don't we...?",
+                "¿Qué te parece...?|What do you think about...?",
+                "¿Te apetece...?|Do you fancy...?",
+                "¿Quedamos...?|Shall we meet...?"
+              ]
+            },
+            {
+              "id": "E2-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: Why don't we meet this Saturday and go for a walk?",
+              "correctAnswer": "¿Por qué no quedamos este sábado y damos un paseo?",
+              "targetLanguage": "¿Por qué no quedamos este sábado y damos un paseo?"
+            },
+            {
+              "id": "E2-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: What do you think about going to that new restaurant on Friday?",
+              "correctAnswer": "¿Qué te parece ir a ese restaurante nuevo el viernes?",
+              "targetLanguage": "¿Qué te parece ir a ese restaurante nuevo el viernes?"
+            },
+            {
+              "id": "E2-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Shall we meet at eight in front of the cinema?",
+              "correctAnswer": "¿Quedamos a las ocho delante del cine?",
+              "targetLanguage": "¿Quedamos a las ocho delante del cine?"
+            },
+            {
+              "id": "E2-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "Your friend says '¡Buena idea!' — they:",
+              "correctAnswer": "Think it's a great idea",
+              "options": [
+                "Are too busy",
+                "Don't want to go",
+                "Need to check their diary",
+                "Think it's a great idea"
+              ],
+              "targetLanguage": "¡Buena idea!"
+            },
+            {
+              "id": "E2-L1-E7",
+              "type": "listening",
+              "prompt": "Where will they meet?",
+              "correctAnswer": "delante de la estación",
+              "options": [
+                "delante de la estación",
+                "en la plaza",
+                "en el cine",
+                "en el bar"
+              ],
+              "targetLanguage": "Quedamos delante de la estación."
+            },
+            {
+              "id": "E2-L1-E8",
+              "type": "speaking",
+              "prompt": "Invite a friend to do something and agree on a time and place",
+              "correctAnswer": "¿Te apetece [actividad]? ¿Quedamos a las [hora] en [lugar]?",
+              "targetLanguage": "¿Te apetece [actividad]? ¿Quedamos a las [hora] en [lugar]?"
+            }
+          ]
+        },
+        {
+          "id": "E2-L2",
+          "title": "Aceptar y rechazar",
+          "description": "Aceptar y rechazar",
+          "exercises": [
+            {
+              "id": "E2-L2-E1",
+              "type": "listening",
+              "prompt": "Does the person accept or decline?",
+              "correctAnswer": "acepta",
+              "options": [
+                "está indeciso",
+                "rechaza",
+                "pide tiempo",
+                "acepta"
+              ],
+              "targetLanguage": "¡Sí, con mucho gusto!"
+            },
+            {
+              "id": "E2-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "¡Sí, encantado/a!|Yes, I'd love to!",
+                "¡Claro, por qué no?|Sure, why not?",
+                "Lo siento, no puedo.|Sorry, I can't.",
+                "Quizás otro día.|Another time, maybe."
+              ]
+            },
+            {
+              "id": "E2-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: I'm sorry I can't come on Saturday I have a family commitment",
+              "correctAnswer": "Lo siento no puedo venir el sábado tengo un compromiso familiar",
+              "targetLanguage": "Lo siento no puedo venir el sábado tengo un compromiso familiar"
+            },
+            {
+              "id": "E2-L2-E4",
+              "type": "translation",
+              "prompt": "Translate: I'd love to but I already have plans — how about Sunday?",
+              "correctAnswer": "Me encantaría pero ya tengo planes, ¿qué te parece el domingo?",
+              "targetLanguage": "Me encantaría pero ya tengo planes, ¿qué te parece el domingo?"
+            },
+            {
+              "id": "E2-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Sure! What time and where shall we meet?",
+              "correctAnswer": "¡Claro! ¿A qué hora y dónde quedamos?",
+              "targetLanguage": "¡Claro! ¿A qué hora y dónde quedamos?"
+            },
+            {
+              "id": "E2-L2-E6",
+              "type": "multipleChoice",
+              "prompt": "'Ya tengo planes' means:",
+              "correctAnswer": "I already have plans",
+              "options": [
+                "I already have plans",
+                "I'm already tired",
+                "I'm already there",
+                "I don't want to go"
+              ],
+              "targetLanguage": "Ya tengo planes"
+            },
+            {
+              "id": "E2-L2-E7",
+              "type": "listening",
+              "prompt": "Does the person say yes or make an excuse?",
+              "correctAnswer": "pone una excusa",
+              "options": [
+                "dice que sí",
+                "pone una excusa",
+                "está entusiasmado",
+                "propone una alternativa"
+              ],
+              "targetLanguage": "Lo siento, no puedo."
+            },
+            {
+              "id": "E2-L2-E8",
+              "type": "speaking",
+              "prompt": "Respond to an invitation: accept enthusiastically or decline with an alternative",
+              "correctAnswer": "¡Sí, encantado/a! / Lo siento no puedo... ¿qué te parece [alternativa]?",
+              "targetLanguage": "¡Sí, encantado/a! / Lo siento no puedo... ¿qué te parece [alternativa]?"
+            }
+          ]
+        },
+        {
+          "id": "E2-L3",
+          "title": "Planes futuros",
+          "description": "Planes futuros",
+          "exercises": [
+            {
+              "id": "E2-L3-E1",
+              "type": "listening",
+              "prompt": "When is the person going on holiday?",
+              "correctAnswer": "el mes que viene",
+              "options": [
+                "la semana que viene",
+                "el mes que viene",
+                "el año que viene",
+                "en julio"
+              ],
+              "targetLanguage": "Me voy de vacaciones el mes que viene."
+            },
+            {
+              "id": "E2-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el mes que viene|next month",
+                "la semana que viene|next week",
+                "en dos días|in two days",
+                "el año que viene|next year"
+              ]
+            },
+            {
+              "id": "E2-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Next month I'm going to Andalusia for ten days",
+              "correctAnswer": "El mes que viene voy a Andalucía durante diez días",
+              "targetLanguage": "El mes que viene voy a Andalucía durante diez días"
+            },
+            {
+              "id": "E2-L3-E4",
+              "type": "translation",
+              "prompt": "Translate: We're planning to buy a house in the next two years",
+              "correctAnswer": "Planeamos comprar una casa en los próximos dos años",
+              "targetLanguage": "Planeamos comprar una casa en los próximos dos años"
+            },
+            {
+              "id": "E2-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I'm thinking of changing jobs next year",
+              "correctAnswer": "Estoy pensando en cambiar de trabajo el año que viene",
+              "targetLanguage": "Estoy pensando en cambiar de trabajo el año que viene"
+            },
+            {
+              "id": "E2-L3-E6",
+              "type": "multipleChoice",
+              "prompt": "'Tengo pensado' means:",
+              "correctAnswer": "I'm planning to",
+              "options": [
+                "I wish I could",
+                "I've already decided to",
+                "I'm planning to",
+                "I used to"
+              ],
+              "targetLanguage": "Tengo pensado"
+            },
+            {
+              "id": "E2-L3-E7",
+              "type": "listening",
+              "prompt": "What is the person planning to do?",
+              "correctAnswer": "cambiar de trabajo",
+              "options": [
+                "mudarse",
+                "casarse",
+                "viajar",
+                "cambiar de trabajo"
+              ],
+              "targetLanguage": "Estoy pensando en cambiar de trabajo."
+            },
+            {
+              "id": "E2-L3-E8",
+              "type": "speaking",
+              "prompt": "Talk about two things you're planning in the next few months",
+              "correctAnswer": "El mes que viene tengo pensado [X]... También estoy pensando en [Y]...",
+              "targetLanguage": "El mes que viene tengo pensado [X]... También estoy pensando en [Y]..."
+            }
+          ]
+        },
+        {
+          "id": "E2-L4",
+          "title": "Cambiar y cancelar planes",
+          "description": "Cambiar y cancelar planes",
+          "exercises": [
+            {
+              "id": "E2-L4-E1",
+              "type": "listening",
+              "prompt": "What happened to the plan?",
+              "correctAnswer": "se ha cancelado",
+              "options": [
+                "ha ido bien",
+                "se ha cancelado",
+                "se ha confirmado",
+                "se ha pospuesto"
+              ],
+              "targetLanguage": "Por desgracia tengo que cancelar."
+            },
+            {
+              "id": "E2-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "cancelar|to cancel",
+                "aplazar|to postpone",
+                "cambiar|to reschedule",
+                "confirmar|to confirm"
+              ]
+            },
+            {
+              "id": "E2-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: I'm afraid I need to cancel our meeting something urgent came up",
+              "correctAnswer": "Me temo que tengo que cancelar nuestra reunión ha surgido algo urgente",
+              "targetLanguage": "Me temo que tengo que cancelar nuestra reunión ha surgido algo urgente"
+            },
+            {
+              "id": "E2-L4-E4",
+              "type": "translation",
+              "prompt": "Translate: Can we move dinner to next Saturday instead?",
+              "correctAnswer": "¿Podemos mover la cena al próximo sábado?",
+              "targetLanguage": "¿Podemos mover la cena al próximo sábado?"
+            },
+            {
+              "id": "E2-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: No problem we can reschedule for next week",
+              "correctAnswer": "No hay problema podemos posponerlo para la semana que viene",
+              "targetLanguage": "No hay problema podemos posponerlo para la semana que viene"
+            },
+            {
+              "id": "E2-L4-E6",
+              "type": "multipleChoice",
+              "prompt": "'Ha surgido un imprevisto' means:",
+              "correctAnswer": "Something unexpected has come up",
+              "options": [
+                "Something unexpected has come up",
+                "I made an unexpected choice",
+                "Plans were unexpected",
+                "I'm unexpectedly free"
+              ],
+              "targetLanguage": "Ha surgido un imprevisto"
+            },
+            {
+              "id": "E2-L4-E7",
+              "type": "listening",
+              "prompt": "What does the speaker propose?",
+              "correctAnswer": "mover la comida al domingo",
+              "options": [
+                "confirmar el plan",
+                "cancelar todo",
+                "adelantar la comida",
+                "mover la comida al domingo"
+              ],
+              "targetLanguage": "¿Podemos mover la comida al domingo?"
+            },
+            {
+              "id": "E2-L4-E8",
+              "type": "speaking",
+              "prompt": "Cancel or reschedule a plan with an apology and an alternative",
+              "correctAnswer": "Lo siento tengo que cancelar [plan]... Ha surgido un imprevisto. ¿Podemos [alternativa]?",
+              "targetLanguage": "Lo siento tengo que cancelar [plan]... Ha surgido un imprevisto. ¿Podemos [alternativa]?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E3",
+      "title": "En el restaurante",
+      "description": "Handle a full restaurant experience in Spanish",
+      "icon": "fork.knife",
+      "lessons": [
+        {
+          "id": "E3-L1",
+          "title": "Reservar mesa",
+          "description": "Reservar mesa",
+          "exercises": [
+            {
+              "id": "E3-L1-E1",
+              "type": "listening",
+              "prompt": "How many for the reservation?",
+              "correctAnswer": "cuatro",
+              "options": [
+                "cuatro",
+                "dos",
+                "cinco",
+                "tres"
+              ],
+              "targetLanguage": "Quisiera reservar una mesa para cuatro."
+            },
+            {
+              "id": "E3-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "reservar|to book/reserve",
+                "la mesa|table",
+                "para esta noche|for tonight",
+                "en la terraza|outside/on the terrace"
+              ]
+            },
+            {
+              "id": "E3-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: I'd like to reserve a table for two for tonight at half past eight",
+              "correctAnswer": "Quisiera reservar una mesa para dos para esta noche a las ocho y media",
+              "targetLanguage": "Quisiera reservar una mesa para dos para esta noche a las ocho y media"
+            },
+            {
+              "id": "E3-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: Do you have a table on the terrace? We prefer to sit outside",
+              "correctAnswer": "¿Tienen una mesa en la terraza? Preferimos sentarnos fuera",
+              "targetLanguage": "¿Tienen una mesa en la terraza? Preferimos sentarnos fuera"
+            },
+            {
+              "id": "E3-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: The booking is under the name García",
+              "correctAnswer": "La reserva está a nombre de García",
+              "targetLanguage": "La reserva está a nombre de García"
+            },
+            {
+              "id": "E3-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "The host asks '¿Tienen reserva?' — they want to know:",
+              "correctAnswer": "If you have a reservation",
+              "options": [
+                "If you have a reservation",
+                "How many people",
+                "If you've eaten here before",
+                "If you want a menu"
+              ],
+              "targetLanguage": "¿Tienen reserva?"
+            },
+            {
+              "id": "E3-L1-E7",
+              "type": "listening",
+              "prompt": "What time is the reservation?",
+              "correctAnswer": "a las ocho y media",
+              "options": [
+                "a las nueve",
+                "a las siete y media",
+                "a las ocho y media",
+                "a las ocho"
+              ],
+              "targetLanguage": "A las ocho y media."
+            },
+            {
+              "id": "E3-L1-E8",
+              "type": "speaking",
+              "prompt": "Call a restaurant and book a table for three for tomorrow evening",
+              "correctAnswer": "Buenas tardes, quisiera reservar una mesa para tres personas para mañana por la noche a las [hora].",
+              "targetLanguage": "Buenas tardes, quisiera reservar una mesa para tres personas para mañana por la noche a las [hora]."
+            }
+          ]
+        },
+        {
+          "id": "E3-L2",
+          "title": "Pedir comida",
+          "description": "Pedir comida",
+          "exercises": [
+            {
+              "id": "E3-L2-E1",
+              "type": "listening",
+              "prompt": "What does the person order as a starter?",
+              "correctAnswer": "la sopa",
+              "options": [
+                "el chuletón",
+                "la sopa",
+                "la ensalada",
+                "los calamares"
+              ],
+              "targetLanguage": "De primero quiero la sopa."
+            },
+            {
+              "id": "E3-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el primero|starter/first course",
+                "el segundo|main course",
+                "el postre|dessert",
+                "la guarnición|side dish"
+              ]
+            },
+            {
+              "id": "E3-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: For the starter I'll have the salad and for the main the grilled fish",
+              "correctAnswer": "De primero quiero la ensalada y de segundo el pescado a la plancha",
+              "targetLanguage": "De primero quiero la ensalada y de segundo el pescado a la plancha"
+            },
+            {
+              "id": "E3-L2-E4",
+              "type": "translation",
+              "prompt": "Translate: We'd like to share the crème brûlée for dessert",
+              "correctAnswer": "Quisiéramos compartir la crema catalana de postre",
+              "targetLanguage": "Quisiéramos compartir la crema catalana de postre"
+            },
+            {
+              "id": "E3-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Is the paella with seafood or chicken today?",
+              "correctAnswer": "¿La paella hoy es de marisco o de pollo?",
+              "targetLanguage": "¿La paella hoy es de marisco o de pollo?"
+            },
+            {
+              "id": "E3-L2-E6",
+              "type": "multipleChoice",
+              "prompt": "The waiter says '¿Qué van a tomar de primero?' — asking about:",
+              "correctAnswer": "Your starter choice",
+              "options": [
+                "Whether you want a starter",
+                "Your starter choice",
+                "If you'd like a starter",
+                "What you'd like to drink"
+              ],
+              "targetLanguage": "¿Qué van a tomar de primero?"
+            },
+            {
+              "id": "E3-L2-E7",
+              "type": "listening",
+              "prompt": "What does the person order for dessert?",
+              "correctAnswer": "flan",
+              "options": [
+                "arroz con leche",
+                "flan",
+                "tarta de chocolate",
+                "helado"
+              ],
+              "targetLanguage": "De postre quiero flan."
+            },
+            {
+              "id": "E3-L2-E8",
+              "type": "speaking",
+              "prompt": "Order a full Spanish meal: starter, main, and dessert",
+              "correctAnswer": "De primero quiero [X], de segundo [Y] y de postre [Z].",
+              "targetLanguage": "De primero quiero [X], de segundo [Y] y de postre [Z]."
+            }
+          ]
+        },
+        {
+          "id": "E3-L3",
+          "title": "Bebidas y peticiones especiales",
+          "description": "Bebidas y peticiones especiales",
+          "exercises": [
+            {
+              "id": "E3-L3-E1",
+              "type": "listening",
+              "prompt": "What type of water?",
+              "correctAnswer": "sin gas",
+              "options": [
+                "sin gas",
+                "con gas",
+                "del grifo",
+                "mineral"
+              ],
+              "targetLanguage": "Agua sin gas, por favor."
+            },
+            {
+              "id": "E3-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "sin gas|still (water)",
+                "con gas|sparkling",
+                "de la casa|house (wine)",
+                "en jarra|by the carafe"
+              ]
+            },
+            {
+              "id": "E3-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Can you recommend a local wine to go with the paella?",
+              "correctAnswer": "¿Puede recomendarme un vino local para acompañar la paella?",
+              "targetLanguage": "¿Puede recomendarme un vino local para acompañar la paella?"
+            },
+            {
+              "id": "E3-L3-E4",
+              "type": "translation",
+              "prompt": "Translate: I'm allergic to shellfish is there any in this dish?",
+              "correctAnswer": "Soy alérgico al marisco, ¿hay marisco en este plato?",
+              "targetLanguage": "Soy alérgico al marisco, ¿hay marisco en este plato?"
+            },
+            {
+              "id": "E3-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: We'll have a carafe of house red and two still waters",
+              "correctAnswer": "Tomamos una jarra de vino tinto de la casa y dos aguas sin gas",
+              "targetLanguage": "Tomamos una jarra de vino tinto de la casa y dos aguas sin gas"
+            },
+            {
+              "id": "E3-L3-E6",
+              "type": "multipleChoice",
+              "prompt": "'Sin gluten' means:",
+              "correctAnswer": "Gluten-free",
+              "options": [
+                "Gluten-free",
+                "Without oil",
+                "Without salt",
+                "Dairy-free"
+              ],
+              "targetLanguage": "Sin gluten"
+            },
+            {
+              "id": "E3-L3-E7",
+              "type": "listening",
+              "prompt": "What special request?",
+              "correctAnswer": "sin cebolla",
+              "options": [
+                "sin cebolla",
+                "con cebolla",
+                "sin sal",
+                "sin ajo"
+              ],
+              "targetLanguage": "¿Me lo puede traer sin cebolla?"
+            },
+            {
+              "id": "E3-L3-E8",
+              "type": "speaking",
+              "prompt": "Order drinks and make a special dietary request",
+              "correctAnswer": "Un agua [sin/con gas] y [vino/cerveza]... Soy [alérgico/intolerante] a [alimento].",
+              "targetLanguage": "Un agua [sin/con gas] y [vino/cerveza]... Soy [alérgico/intolerante] a [alimento]."
+            }
+          ]
+        },
+        {
+          "id": "E3-L4",
+          "title": "Opiniones y la cuenta",
+          "description": "Opiniones y la cuenta",
+          "exercises": [
+            {
+              "id": "E3-L4-E1",
+              "type": "listening",
+              "prompt": "Is the customer happy?",
+              "correctAnswer": "sí, está satisfecho",
+              "options": [
+                "no responde",
+                "sí, está satisfecho",
+                "le da igual",
+                "no, se queja"
+              ],
+              "targetLanguage": "¡Todo estuvo buenísimo, gracias!"
+            },
+            {
+              "id": "E3-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "buenísimo|excellent",
+                "delicioso|delicious",
+                "pasado de cocción|overcooked",
+                "frío|cold"
+              ]
+            },
+            {
+              "id": "E3-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Everything was excellent please give our compliments to the chef",
+              "correctAnswer": "Todo estuvo buenísimo, dé nuestra enhorabuena al chef",
+              "targetLanguage": "Todo estuvo buenísimo, dé nuestra enhorabuena al chef"
+            },
+            {
+              "id": "E3-L4-E4",
+              "type": "translation",
+              "prompt": "Translate: Excuse me the pasta is a bit overcooked could you bring another portion?",
+              "correctAnswer": "Perdone, la pasta está un poco pasada, ¿podría traer otra ración?",
+              "targetLanguage": "Perdone, la pasta está un poco pasada, ¿podría traer otra ración?"
+            },
+            {
+              "id": "E3-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Can we have the bill please? We're paying separately",
+              "correctAnswer": "¿Nos trae la cuenta por favor? Pagamos por separado",
+              "targetLanguage": "¿Nos trae la cuenta por favor? Pagamos por separado"
+            },
+            {
+              "id": "E3-L4-E6",
+              "type": "multipleChoice",
+              "prompt": "'Pagar a escote' means:",
+              "correctAnswer": "We split the bill equally",
+              "options": [
+                "We split the bill equally",
+                "We pay for each other",
+                "You pay next time",
+                "I pay this time"
+              ],
+              "explanation": "A escote = everyone pays their share",
+              "targetLanguage": "Pagar a escote"
+            },
+            {
+              "id": "E3-L4-E7",
+              "type": "listening",
+              "prompt": "How do they want to pay?",
+              "correctAnswer": "con tarjeta",
+              "options": [
+                "con bono",
+                "en efectivo",
+                "mitad y mitad",
+                "con tarjeta"
+              ],
+              "targetLanguage": "¿Puedo pagar con tarjeta?"
+            },
+            {
+              "id": "E3-L4-E8",
+              "type": "speaking",
+              "prompt": "Compliment the food, ask for the bill, and say how you'd like to pay",
+              "correctAnswer": "Todo estuvo [buenísimo/delicioso]. La cuenta por favor. [Pago con tarjeta / en efectivo].",
+              "targetLanguage": "Todo estuvo [buenísimo/delicioso]. La cuenta por favor. [Pago con tarjeta / en efectivo]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E4",
+      "title": "De viaje",
+      "description": "Navigate travel situations with confidence",
+      "icon": "airplane",
+      "lessons": [
+        {
+          "id": "E4-L1",
+          "title": "En la estación",
+          "description": "En la estación",
+          "exercises": [
+            {
+              "id": "E4-L1-E1",
+              "type": "listening",
+              "prompt": "What does the traveller need?",
+              "correctAnswer": "un billete para Madrid",
+              "options": [
+                "un abono",
+                "el andén",
+                "un billete para Madrid",
+                "información del horario"
+              ],
+              "targetLanguage": "Quisiera un billete para Madrid."
+            },
+            {
+              "id": "E4-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el andén|platform",
+                "la salida|departure",
+                "la llegada|arrival",
+                "con retraso|delayed"
+              ]
+            },
+            {
+              "id": "E4-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: Two second class tickets to Seville for tomorrow morning please",
+              "correctAnswer": "Dos billetes de segunda clase para Sevilla para mañana por la mañana por favor",
+              "targetLanguage": "Dos billetes de segunda clase para Sevilla para mañana por la mañana por favor"
+            },
+            {
+              "id": "E4-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: The train is twenty minutes late due to a technical fault",
+              "correctAnswer": "El tren lleva veinte minutos de retraso debido a un fallo técnico",
+              "targetLanguage": "El tren lleva veinte minutos de retraso debido a un fallo técnico"
+            },
+            {
+              "id": "E4-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Does this train stop at Córdoba?",
+              "correctAnswer": "¿Este tren para en Córdoba?",
+              "targetLanguage": "¿Este tren para en Córdoba?"
+            },
+            {
+              "id": "E4-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "'Valida el billete antes de subir' means:",
+              "correctAnswer": "Validate your ticket before boarding",
+              "options": [
+                "Buy your ticket before boarding",
+                "Show your ticket to the conductor",
+                "Keep your ticket safe",
+                "Validate your ticket before boarding"
+              ],
+              "targetLanguage": "Valida el billete antes de subir"
+            },
+            {
+              "id": "E4-L1-E7",
+              "type": "listening",
+              "prompt": "From which platform?",
+              "correctAnswer": "andén siete",
+              "options": [
+                "andén cinco",
+                "andén siete",
+                "andén seis",
+                "andén ocho"
+              ],
+              "targetLanguage": "El tren sale del andén siete."
+            },
+            {
+              "id": "E4-L1-E8",
+              "type": "speaking",
+              "prompt": "Buy a train ticket: destination, class, number of people, and time",
+              "correctAnswer": "Buenos días, quisiera [número] billetes para [destino], [clase], para [hora/día].",
+              "targetLanguage": "Buenos días, quisiera [número] billetes para [destino], [clase], para [hora/día]."
+            }
+          ]
+        },
+        {
+          "id": "E4-L2",
+          "title": "En el hotel",
+          "description": "En el hotel",
+          "exercises": [
+            {
+              "id": "E4-L2-E1",
+              "type": "listening",
+              "prompt": "What does the guest request?",
+              "correctAnswer": "una habitación con vistas",
+              "options": [
+                "el desayuno incluido",
+                "una habitación con vistas",
+                "una habitación doble",
+                "salida anticipada"
+              ],
+              "targetLanguage": "Quisiera una habitación con vistas al mar."
+            },
+            {
+              "id": "E4-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el check-in|check-in",
+                "el check-out|check-out",
+                "la habitación individual|single room",
+                "la habitación doble|double room"
+              ]
+            },
+            {
+              "id": "E4-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: I have a reservation for two nights under the name García",
+              "correctAnswer": "Tengo una reserva para dos noches a nombre de García",
+              "targetLanguage": "Tengo una reserva para dos noches a nombre de García"
+            },
+            {
+              "id": "E4-L2-E4",
+              "type": "translation",
+              "prompt": "Translate: Could I have a wake-up call at seven tomorrow morning please?",
+              "correctAnswer": "¿Podría ponerme una llamada de despertar a las siete mañana por la mañana?",
+              "targetLanguage": "¿Podría ponerme una llamada de despertar a las siete mañana por la mañana?"
+            },
+            {
+              "id": "E4-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Is breakfast included in the room price?",
+              "correctAnswer": "¿El desayuno está incluido en el precio de la habitación?",
+              "targetLanguage": "¿El desayuno está incluido en el precio de la habitación?"
+            },
+            {
+              "id": "E4-L2-E6",
+              "type": "multipleChoice",
+              "prompt": "'El check-out es antes de las once' means:",
+              "correctAnswer": "Check-out is by eleven",
+              "options": [
+                "Check-out is by eleven",
+                "The room is available from eleven",
+                "Check-in starts at eleven",
+                "Breakfast ends at eleven"
+              ],
+              "targetLanguage": "El check-out es antes de las once"
+            },
+            {
+              "id": "E4-L2-E7",
+              "type": "listening",
+              "prompt": "What problem does the guest report?",
+              "correctAnswer": "el aire acondicionado no funciona",
+              "options": [
+                "no hay agua caliente",
+                "el wifi no va",
+                "el aire acondicionado no funciona",
+                "la ducha está rota"
+              ],
+              "targetLanguage": "El aire acondicionado no funciona."
+            },
+            {
+              "id": "E4-L2-E8",
+              "type": "speaking",
+              "prompt": "Check into a hotel: give your name, confirm nights, ask about breakfast",
+              "correctAnswer": "Buenas tardes, tengo una reserva a nombre de [nombre] para [número] noches. ¿El desayuno está incluido?",
+              "targetLanguage": "Buenas tardes, tengo una reserva a nombre de [nombre] para [número] noches. ¿El desayuno está incluido?"
+            }
+          ]
+        },
+        {
+          "id": "E4-L3",
+          "title": "Problemas en el viaje",
+          "description": "Problemas en el viaje",
+          "exercises": [
+            {
+              "id": "E4-L3-E1",
+              "type": "listening",
+              "prompt": "What problem does the traveller have?",
+              "correctAnswer": "ha perdido el equipaje",
+              "options": [
+                "el pasaporte ha caducado",
+                "ha perdido el tren",
+                "el vuelo lleva retraso",
+                "ha perdido el equipaje"
+              ],
+              "targetLanguage": "He perdido mi equipaje."
+            },
+            {
+              "id": "E4-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "he perdido|I've lost",
+                "me han robado|it was stolen",
+                "no funciona|it doesn't work",
+                "necesito ayuda|I need help"
+              ]
+            },
+            {
+              "id": "E4-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: I've lost my passport I need to go to the nearest police station",
+              "correctAnswer": "He perdido mi pasaporte necesito ir a la comisaría más cercana",
+              "targetLanguage": "He perdido mi pasaporte necesito ir a la comisaría más cercana"
+            },
+            {
+              "id": "E4-L3-E4",
+              "type": "translation",
+              "prompt": "Translate: My luggage didn't arrive it was supposed to be on flight IB204",
+              "correctAnswer": "Mi equipaje no ha llegado debería haber venido en el vuelo IB204",
+              "targetLanguage": "Mi equipaje no ha llegado debería haber venido en el vuelo IB204"
+            },
+            {
+              "id": "E4-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: My wallet was stolen I need to block my card",
+              "correctAnswer": "Me han robado la cartera necesito bloquear la tarjeta",
+              "targetLanguage": "Me han robado la cartera necesito bloquear la tarjeta"
+            },
+            {
+              "id": "E4-L3-E6",
+              "type": "multipleChoice",
+              "prompt": "'Poner una denuncia' means:",
+              "correctAnswer": "To file a police report",
+              "options": [
+                "To file a police report",
+                "To call the embassy",
+                "To report lost luggage",
+                "To make a complaint to the hotel"
+              ],
+              "targetLanguage": "Poner una denuncia"
+            },
+            {
+              "id": "E4-L3-E7",
+              "type": "listening",
+              "prompt": "What does the person need urgently?",
+              "correctAnswer": "bloquear la tarjeta de crédito",
+              "options": [
+                "encontrar el pasaporte",
+                "comprar un billete nuevo",
+                "llamar a la embajada",
+                "bloquear la tarjeta de crédito"
+              ],
+              "targetLanguage": "Necesito bloquear la tarjeta de crédito."
+            },
+            {
+              "id": "E4-L3-E8",
+              "type": "speaking",
+              "prompt": "Report a problem: lost luggage, flight details, description",
+              "correctAnswer": "Mi equipaje no ha llegado. Venía en el vuelo [número]. Es [color/tipo]...",
+              "targetLanguage": "Mi equipaje no ha llegado. Venía en el vuelo [número]. Es [color/tipo]..."
+            }
+          ]
+        },
+        {
+          "id": "E4-L4",
+          "title": "Pedir recomendaciones",
+          "description": "Pedir recomendaciones",
+          "exercises": [
+            {
+              "id": "E4-L4-E1",
+              "type": "listening",
+              "prompt": "What is the tourist asking for?",
+              "correctAnswer": "un restaurante típico",
+              "options": [
+                "un museo famoso",
+                "una farmacia",
+                "un hotel barato",
+                "un restaurante típico"
+              ],
+              "targetLanguage": "¿Puede recomendarme un restaurante típico?"
+            },
+            {
+              "id": "E4-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "recomendar|to recommend",
+                "vale la pena|it's worth it",
+                "imprescindible|unmissable",
+                "por los alrededores|in the area"
+              ]
+            },
+            {
+              "id": "E4-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Can you recommend something unmissable in this area?",
+              "correctAnswer": "¿Puede recomendarme algo imprescindible en esta zona?",
+              "targetLanguage": "¿Puede recomendarme algo imprescindible en esta zona?"
+            },
+            {
+              "id": "E4-L4-E4",
+              "type": "translation",
+              "prompt": "Translate: Is it worth visiting the archaeological museum or is it very touristy?",
+              "correctAnswer": "¿Vale la pena visitar el museo arqueológico o es muy turístico?",
+              "targetLanguage": "¿Vale la pena visitar el museo arqueológico o es muy turístico?"
+            },
+            {
+              "id": "E4-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: What's the best way to get to the old town from here?",
+              "correctAnswer": "¿Cuál es la mejor manera de llegar al casco antiguo desde aquí?",
+              "targetLanguage": "¿Cuál es la mejor manera de llegar al casco antiguo desde aquí?"
+            },
+            {
+              "id": "E4-L4-E6",
+              "type": "multipleChoice",
+              "prompt": "'Fuera de los circuitos turísticos' means:",
+              "correctAnswer": "Off the beaten track",
+              "options": [
+                "Off the beaten track",
+                "In the city centre",
+                "Near the tourist office",
+                "Along the main road"
+              ],
+              "targetLanguage": "Fuera de los circuitos turísticos"
+            },
+            {
+              "id": "E4-L4-E7",
+              "type": "listening",
+              "prompt": "What does the local recommend?",
+              "correctAnswer": "el mercado de la Boquería",
+              "options": [
+                "el mercado de la Boquería",
+                "el castillo",
+                "el museo",
+                "la catedral"
+              ],
+              "targetLanguage": "Te recomiendo el mercado, ¡es fantástico!"
+            },
+            {
+              "id": "E4-L4-E8",
+              "type": "speaking",
+              "prompt": "Ask a local for a restaurant and something unmissable nearby",
+              "correctAnswer": "Disculpe, ¿puede recomendarme un buen restaurante cerca? ¿Y qué es imprescindible ver en la zona?",
+              "targetLanguage": "Disculpe, ¿puede recomendarme un buen restaurante cerca? ¿Y qué es imprescindible ver en la zona?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "title": "Dar tu opinión",
+      "description": "Express opinions, agree and disagree",
+      "icon": "text.bubble.fill",
+      "lessons": [
+        {
+          "id": "B1-L1",
+          "title": "Expresar tu opinión",
+          "description": "Expresar tu opinión",
+          "exercises": [
+            {
+              "id": "B1-L1-E1",
+              "type": "listening",
+              "prompt": "What opinion is expressed?",
+              "correctAnswer": "piensa que es positivo",
+              "options": [
+                "está inseguro",
+                "está en contra",
+                "piensa que es positivo",
+                "es neutral"
+              ],
+              "targetLanguage": "En mi opinión es una cosa positiva."
+            },
+            {
+              "id": "B1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "En mi opinión|In my opinion",
+                "Creo que|I think that",
+                "A mi modo de ver|In my view",
+                "Me parece que|It seems to me that"
+              ]
+            },
+            {
+              "id": "B1-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: In my opinion working from home has more advantages than disadvantages",
+              "correctAnswer": "En mi opinión trabajar desde casa tiene más ventajas que desventajas",
+              "targetLanguage": "En mi opinión trabajar desde casa tiene más ventajas que desventajas"
+            },
+            {
+              "id": "B1-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: I think that young people today have fewer opportunities than previous generations",
+              "correctAnswer": "Creo que los jóvenes de hoy tienen menos oportunidades que las generaciones anteriores",
+              "targetLanguage": "Creo que los jóvenes de hoy tienen menos oportunidades que las generaciones anteriores"
+            },
+            {
+              "id": "B1-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I think it's important to learn foreign languages from an early age",
+              "correctAnswer": "Creo que es importante aprender idiomas extranjeros desde pequeño",
+              "targetLanguage": "Creo que es importante aprender idiomas extranjeros desde pequeño"
+            },
+            {
+              "id": "B1-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "'No estoy del todo de acuerdo' means:",
+              "correctAnswer": "I don't entirely agree",
+              "options": [
+                "I'm not sure",
+                "I don't entirely agree",
+                "I completely disagree",
+                "I partially agree"
+              ],
+              "targetLanguage": "No estoy del todo de acuerdo"
+            },
+            {
+              "id": "B1-L1-E7",
+              "type": "listening",
+              "prompt": "Is the speaker for or against?",
+              "correctAnswer": "a favor",
+              "options": [
+                "a favor",
+                "en contra",
+                "inseguro",
+                "neutral"
+              ],
+              "targetLanguage": "Estoy totalmente a favor."
+            },
+            {
+              "id": "B1-L1-E8",
+              "type": "speaking",
+              "prompt": "Give your opinion on working from home: pros, cons, your view",
+              "correctAnswer": "En mi opinión trabajar desde casa es [positivo/negativo] porque [motivo]...",
+              "targetLanguage": "En mi opinión trabajar desde casa es [positivo/negativo] porque [motivo]..."
+            }
+          ]
+        },
+        {
+          "id": "B1-L2",
+          "title": "Estar de acuerdo o no",
+          "description": "Estar de acuerdo o no",
+          "exercises": [
+            {
+              "id": "B1-L2-E1",
+              "type": "listening",
+              "prompt": "Does the speaker agree or disagree?",
+              "correctAnswer": "está de acuerdo",
+              "options": [
+                "está de acuerdo",
+                "le da igual",
+                "cambia de tema",
+                "no está de acuerdo"
+              ],
+              "targetLanguage": "Tienes toda la razón."
+            },
+            {
+              "id": "B1-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Tienes razón|You're right",
+                "Estoy de acuerdo|I agree",
+                "No estoy de acuerdo|I disagree",
+                "Depende|It depends"
+              ]
+            },
+            {
+              "id": "B1-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: You're absolutely right that's exactly what I think",
+              "correctAnswer": "Tienes toda la razón es exactamente lo que yo pienso",
+              "targetLanguage": "Tienes toda la razón es exactamente lo que yo pienso"
+            },
+            {
+              "id": "B1-L2-E4",
+              "type": "translation",
+              "prompt": "Translate: I see your point but I think the situation is more complex than that",
+              "correctAnswer": "Entiendo tu punto pero creo que la situación es más compleja que eso",
+              "targetLanguage": "Entiendo tu punto pero creo que la situación es más compleja que eso"
+            },
+            {
+              "id": "B1-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I partly agree but I think we should consider the other side too",
+              "correctAnswer": "Estoy de acuerdo en parte pero creo que deberíamos considerar también el otro lado",
+              "targetLanguage": "Estoy de acuerdo en parte pero creo que deberíamos considerar también el otro lado"
+            },
+            {
+              "id": "B1-L2-E6",
+              "type": "multipleChoice",
+              "prompt": "'Entiendo tu punto de vista pero...' signals:",
+              "correctAnswer": "A polite disagreement coming",
+              "options": [
+                "A change of topic",
+                "Full agreement",
+                "A question",
+                "A polite disagreement coming"
+              ],
+              "targetLanguage": "Entiendo tu punto de vista pero..."
+            },
+            {
+              "id": "B1-L2-E7",
+              "type": "listening",
+              "prompt": "How does the speaker react?",
+              "correctAnswer": "concede un punto pero añade una reserva",
+              "options": [
+                "concede un punto pero añade una reserva",
+                "rechaza el argumento",
+                "cambia de opinión",
+                "está completamente de acuerdo"
+              ],
+              "targetLanguage": "Entiendo, pero depende del contexto."
+            },
+            {
+              "id": "B1-L2-E8",
+              "type": "speaking",
+              "prompt": "Discuss: Is social media more positive or negative for young people?",
+              "correctAnswer": "En mi opinión las redes sociales son [positivas/negativas] porque [motivo]... Pero [reserva]...",
+              "targetLanguage": "En mi opinión las redes sociales son [positivas/negativas] porque [motivo]... Pero [reserva]..."
+            }
+          ]
+        },
+        {
+          "id": "B1-L3",
+          "title": "Temas de actualidad",
+          "description": "Temas de actualidad",
+          "exercises": [
+            {
+              "id": "B1-L3-E1",
+              "type": "listening",
+              "prompt": "What topic is being discussed?",
+              "correctAnswer": "el cambio climático",
+              "options": [
+                "la economía",
+                "el cambio climático",
+                "la educación",
+                "la política"
+              ],
+              "targetLanguage": "Hablemos del cambio climático."
+            },
+            {
+              "id": "B1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el problema principal|the main problem",
+                "la posible solución|a possible solution",
+                "habría que|one should / we ought to",
+                "es fundamental|it's essential"
+              ]
+            },
+            {
+              "id": "B1-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Climate change is one of the most serious problems of our time and we must act quickly",
+              "correctAnswer": "El cambio climático es uno de los problemas más graves de nuestro tiempo y debemos actuar rápido",
+              "targetLanguage": "El cambio climático es uno de los problemas más graves de nuestro tiempo y debemos actuar rápido"
+            },
+            {
+              "id": "B1-L3-E4",
+              "type": "translation",
+              "prompt": "Translate: In my opinion governments should invest more in renewable energy instead of subsidising fossil fuels",
+              "correctAnswer": "A mi modo de ver los gobiernos deberían invertir más en energías renovables en lugar de subvencionar los combustibles fósiles",
+              "targetLanguage": "A mi modo de ver los gobiernos deberían invertir más en energías renovables en lugar de subvencionar los combustibles fósiles"
+            },
+            {
+              "id": "B1-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: It's essential that everyone does their part to protect the environment",
+              "correctAnswer": "Es fundamental que cada uno haga su parte para proteger el medio ambiente",
+              "targetLanguage": "Es fundamental que cada uno haga su parte para proteger el medio ambiente"
+            },
+            {
+              "id": "B1-L3-E6",
+              "type": "multipleChoice",
+              "prompt": "'Habría que hacer más' means:",
+              "correctAnswer": "More should be done",
+              "options": [
+                "Something was done",
+                "There's nothing more to do",
+                "More should be done",
+                "We have done enough"
+              ],
+              "targetLanguage": "Habría que hacer más"
+            },
+            {
+              "id": "B1-L3-E7",
+              "type": "listening",
+              "prompt": "What solution does the speaker propose?",
+              "correctAnswer": "reducir los combustibles fósiles",
+              "options": [
+                "aumentar los impuestos",
+                "reducir los combustibles fósiles",
+                "reducir el transporte",
+                "prohibir los coches"
+              ],
+              "targetLanguage": "Habría que reducir los combustibles fósiles."
+            },
+            {
+              "id": "B1-L3-E8",
+              "type": "speaking",
+              "prompt": "Discuss a current issue: state the problem, give your opinion, propose a solution",
+              "correctAnswer": "El problema principal es [X]. En mi opinión [opinión]. Creo que habría que [solución].",
+              "targetLanguage": "El problema principal es [X]. En mi opinión [opinión]. Creo que habría que [solución]."
+            }
+          ]
+        },
+        {
+          "id": "B1-L4",
+          "title": "Gestionar el desacuerdo",
+          "description": "Gestionar el desacuerdo",
+          "exercises": [
+            {
+              "id": "B1-L4-E1",
+              "type": "listening",
+              "prompt": "How does the speaker handle disagreement?",
+              "correctAnswer": "reconoce el punto del otro",
+              "options": [
+                "se enfada",
+                "cambia de tema",
+                "reconoce el punto del otro",
+                "lo ignora"
+              ],
+              "targetLanguage": "Entiendo lo que quieres decir, aunque yo lo veo de otra manera."
+            },
+            {
+              "id": "B1-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Entiendo lo que quieres decir|I understand what you mean",
+                "Lo veo de otra manera|I see it differently",
+                "Has planteado un buen punto|You've raised a good point",
+                "Podemos estar en desacuerdo|We can agree to disagree"
+              ]
+            },
+            {
+              "id": "B1-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: I understand what you mean but I think the evidence points in the opposite direction",
+              "correctAnswer": "Entiendo lo que quieres decir pero creo que la evidencia apunta en la dirección contraria",
+              "targetLanguage": "Entiendo lo que quieres decir pero creo que la evidencia apunta en la dirección contraria"
+            },
+            {
+              "id": "B1-L4-E4",
+              "type": "translation",
+              "prompt": "Translate: You've raised a good point I hadn't thought about it from that angle",
+              "correctAnswer": "Has planteado un buen punto no lo había pensado desde ese ángulo",
+              "targetLanguage": "Has planteado un buen punto no lo había pensado desde ese ángulo"
+            },
+            {
+              "id": "B1-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Maybe we are both right from our different points of view",
+              "correctAnswer": "Quizás los dos tenemos razón desde nuestros diferentes puntos de vista",
+              "targetLanguage": "Quizás los dos tenemos razón desde nuestros diferentes puntos de vista"
+            },
+            {
+              "id": "B1-L4-E6",
+              "type": "multipleChoice",
+              "prompt": "'Podemos estar en desacuerdo' means:",
+              "correctAnswer": "We can agree to disagree",
+              "options": [
+                "We can agree to disagree",
+                "Let's change the subject",
+                "We need to reach an agreement",
+                "One of us must be wrong"
+              ],
+              "targetLanguage": "Podemos estar en desacuerdo"
+            },
+            {
+              "id": "B1-L4-E7",
+              "type": "listening",
+              "prompt": "What does the speaker concede?",
+              "correctAnswer": "que el punto del otro es válido",
+              "options": [
+                "que se ha equivocado",
+                "que no sabe suficiente",
+                "que el punto del otro es válido",
+                "que está de acuerdo"
+              ],
+              "targetLanguage": "Has planteado un buen punto."
+            },
+            {
+              "id": "B1-L4-E8",
+              "type": "speaking",
+              "prompt": "Role-play: disagree politely, acknowledge the point, hold your position",
+              "correctAnswer": "Entiendo lo que quieres decir... pero yo lo veo de otra manera porque [motivo]... Has planteado un buen punto pero [respuesta].",
+              "targetLanguage": "Entiendo lo que quieres decir... pero yo lo veo de otra manera porque [motivo]... Has planteado un buen punto pero [respuesta]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "title": "Resolver problemas",
+      "description": "Handle misunderstandings and difficult situations",
+      "icon": "wrench.and.screwdriver.fill",
+      "lessons": [
+        {
+          "id": "B2-L1",
+          "title": "Malentendidos",
+          "description": "Malentendidos",
+          "exercises": [
+            {
+              "id": "B2-L1-E1",
+              "type": "listening",
+              "prompt": "What does the speaker ask?",
+              "correctAnswer": "que repita más despacio",
+              "options": [
+                "que explique",
+                "que repita más despacio",
+                "que hable más fuerte",
+                "que traduzca"
+              ],
+              "targetLanguage": "¿Puede repetir más despacio por favor?"
+            },
+            {
+              "id": "B2-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "No he entendido|I didn't understand",
+                "¿Puede repetir?|Can you repeat?",
+                "¿Qué quiere decir?|What do you mean?",
+                "En otras palabras|In other words"
+              ]
+            },
+            {
+              "id": "B2-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: Sorry I didn't quite catch that could you say it again more slowly?",
+              "correctAnswer": "Perdone no le he oído bien ¿podría repetirlo más despacio?",
+              "targetLanguage": "Perdone no le he oído bien ¿podría repetirlo más despacio?"
+            },
+            {
+              "id": "B2-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: I think there may be a misunderstanding I asked for a non-smoking room",
+              "correctAnswer": "Creo que hay un malentendido pedí una habitación de no fumadores",
+              "targetLanguage": "Creo que hay un malentendido pedí una habitación de no fumadores"
+            },
+            {
+              "id": "B2-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: What do you mean exactly? I want to make sure I understood correctly",
+              "correctAnswer": "¿Qué quiere decir exactamente? Quiero asegurarme de haber entendido bien",
+              "targetLanguage": "¿Qué quiere decir exactamente? Quiero asegurarme de haber entendido bien"
+            },
+            {
+              "id": "B2-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "'Creo que hay un malentendido' is:",
+              "correctAnswer": "A polite way to signal a misunderstanding",
+              "options": [
+                "An apology",
+                "A polite way to signal a misunderstanding",
+                "A way to say you're wrong",
+                "A way to end the conversation"
+              ],
+              "targetLanguage": "Creo que hay un malentendido"
+            },
+            {
+              "id": "B2-L1-E7",
+              "type": "listening",
+              "prompt": "How does the speaker clarify?",
+              "correctAnswer": "parafraseando con 'en otras palabras'",
+              "options": [
+                "parafraseando con 'en otras palabras'",
+                "cambiando de tema",
+                "repitiendo las mismas palabras",
+                "pidiendo ayuda"
+              ],
+              "targetLanguage": "En otras palabras, quiero decir que..."
+            },
+            {
+              "id": "B2-L1-E8",
+              "type": "speaking",
+              "prompt": "Navigate a misunderstanding: ask for clarification, explain what you understood, ask to confirm",
+              "correctAnswer": "Perdone, no he entendido bien. [Parafrasear] ¿Es eso lo que quería decir?",
+              "targetLanguage": "Perdone, no he entendido bien. [Parafrasear] ¿Es eso lo que quería decir?"
+            }
+          ]
+        },
+        {
+          "id": "B2-L2",
+          "title": "Quejas y soluciones",
+          "description": "Quejas y soluciones",
+          "exercises": [
+            {
+              "id": "B2-L2-E1",
+              "type": "listening",
+              "prompt": "What is the person complaining about?",
+              "correctAnswer": "el ruido nocturno",
+              "options": [
+                "la comida fría",
+                "el ruido nocturno",
+                "el retraso del vuelo",
+                "el equipaje perdido"
+              ],
+              "targetLanguage": "El ruido por la noche es insoportable."
+            },
+            {
+              "id": "B2-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "quejarse de|to complain about",
+                "pedir un reembolso|to ask for a refund",
+                "hablar con el responsable|to speak to the manager",
+                "encontrar una solución|to find a solution"
+              ]
+            },
+            {
+              "id": "B2-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: I'd like to speak to the manager this is not what I paid for",
+              "correctAnswer": "Quisiera hablar con el responsable esto no es por lo que pagué",
+              "targetLanguage": "Quisiera hablar con el responsable esto no es por lo que pagué"
+            },
+            {
+              "id": "B2-L2-E4",
+              "type": "translation",
+              "prompt": "Translate: We've been waiting for over an hour this is unacceptable what can you do for us?",
+              "correctAnswer": "Llevamos más de una hora esperando esto es inaceptable ¿qué puede hacer por nosotros?",
+              "targetLanguage": "Llevamos más de una hora esperando esto es inaceptable ¿qué puede hacer por nosotros?"
+            },
+            {
+              "id": "B2-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I would appreciate a partial refund given the inconvenience caused",
+              "correctAnswer": "Agradecería un reembolso parcial dado el inconveniente causado",
+              "targetLanguage": "Agradecería un reembolso parcial dado el inconveniente causado"
+            },
+            {
+              "id": "B2-L2-E6",
+              "type": "multipleChoice",
+              "prompt": "'¿Qué puede hacer para compensarnos?' means:",
+              "correctAnswer": "What can you do to make it right?",
+              "options": [
+                "What happened?",
+                "What can you tell me?",
+                "What can you do to make it right?",
+                "What do you suggest I do?"
+              ],
+              "targetLanguage": "¿Qué puede hacer para compensarnos?"
+            },
+            {
+              "id": "B2-L2-E7",
+              "type": "listening",
+              "prompt": "What does the manager offer?",
+              "correctAnswer": "un descuento en la próxima visita",
+              "options": [
+                "una habitación mejor",
+                "un descuento en la próxima visita",
+                "un reembolso completo",
+                "disculpas"
+              ],
+              "targetLanguage": "Le ofrecemos un descuento en su próxima visita."
+            },
+            {
+              "id": "B2-L2-E8",
+              "type": "speaking",
+              "prompt": "Make a formal complaint to a hotel manager about noise and ask for compensation",
+              "correctAnswer": "Buenas noches, tengo que quejarme del ruido nocturno. Es [inaceptable/insoportable]. ¿Qué puede hacer para [compensarnos/remediarlo]?",
+              "targetLanguage": "Buenas noches, tengo que quejarme del ruido nocturno. Es [inaceptable/insoportable]. ¿Qué puede hacer para [compensarnos/remediarlo]?"
+            }
+          ]
+        },
+        {
+          "id": "B2-L3",
+          "title": "Burocracia",
+          "description": "Burocracia",
+          "exercises": [
+            {
+              "id": "B2-L3-E1",
+              "type": "listening",
+              "prompt": "What does the person need to do?",
+              "correctAnswer": "renovar el documento",
+              "options": [
+                "renovar el documento",
+                "reservar una cita",
+                "pagar una multa",
+                "hacer una declaración"
+              ],
+              "targetLanguage": "Necesito renovar el documento."
+            },
+            {
+              "id": "B2-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "el formulario|the form",
+                "rellenar|to fill in",
+                "adjuntar|to attach",
+                "el plazo|the deadline"
+              ]
+            },
+            {
+              "id": "B2-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: I need to renew my residence permit which documents do I need to bring?",
+              "correctAnswer": "Necesito renovar mi permiso de residencia ¿qué documentos tengo que traer?",
+              "targetLanguage": "Necesito renovar mi permiso de residencia ¿qué documentos tengo que traer?"
+            },
+            {
+              "id": "B2-L3-E4",
+              "type": "translation",
+              "prompt": "Translate: Could you help me fill in this form? My Spanish isn't quite good enough",
+              "correctAnswer": "¿Podría ayudarme a rellenar este formulario? Mi español todavía no es lo suficientemente bueno",
+              "targetLanguage": "¿Podría ayudarme a rellenar este formulario? Mi español todavía no es lo suficientemente bueno"
+            },
+            {
+              "id": "B2-L3-E5",
+              "type": "wordOrder",
+              "prompt": "Build: What is the deadline for submitting the application?",
+              "correctAnswer": "¿Cuál es el plazo para presentar la solicitud?",
+              "targetLanguage": "¿Cuál es el plazo para presentar la solicitud?"
+            },
+            {
+              "id": "B2-L3-E6",
+              "type": "multipleChoice",
+              "prompt": "'Hacer cola' means:",
+              "correctAnswer": "To queue / stand in line",
+              "options": [
+                "To take a number",
+                "To queue / stand in line",
+                "To make an appointment",
+                "To fill in a form"
+              ],
+              "targetLanguage": "Hacer cola"
+            },
+            {
+              "id": "B2-L3-E7",
+              "type": "listening",
+              "prompt": "What does the clerk say?",
+              "correctAnswer": "que tome número y espere",
+              "options": [
+                "que vuelva mañana",
+                "que llame para cita",
+                "que rellene un formulario",
+                "que tome número y espere"
+              ],
+              "targetLanguage": "Tome un número y espere su turno."
+            },
+            {
+              "id": "B2-L3-E8",
+              "type": "speaking",
+              "prompt": "Ask a clerk what documents you need and how to submit them",
+              "correctAnswer": "Buenos días, necesito [renovar/solicitar] [documento]. ¿Qué documentos hacen falta y cómo se presenta la solicitud?",
+              "targetLanguage": "Buenos días, necesito [renovar/solicitar] [documento]. ¿Qué documentos hacen falta y cómo se presenta la solicitud?"
+            }
+          ]
+        },
+        {
+          "id": "B2-L4",
+          "title": "Negociar y persuadir",
+          "description": "Negociar y persuadir",
+          "exercises": [
+            {
+              "id": "B2-L4-E1",
+              "type": "listening",
+              "prompt": "What technique does the speaker use?",
+              "correctAnswer": "propone un compromiso",
+              "options": [
+                "se rinde",
+                "insiste",
+                "amenaza",
+                "propone un compromiso"
+              ],
+              "targetLanguage": "¿Podemos encontrar un punto intermedio?"
+            },
+            {
+              "id": "B2-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "proponer un compromiso|to propose a compromise",
+                "hacer una concesión|to make a concession",
+                "insistir en|to insist on",
+                "llegar a un acuerdo|to reach an agreement"
+              ]
+            },
+            {
+              "id": "B2-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: I understand your position but perhaps we can find a middle ground that works for both of us",
+              "correctAnswer": "Entiendo su posición pero quizás podemos encontrar un punto intermedio que nos venga bien a los dos",
+              "targetLanguage": "Entiendo su posición pero quizás podemos encontrar un punto intermedio que nos venga bien a los dos"
+            },
+            {
+              "id": "B2-L4-E4",
+              "type": "translation",
+              "prompt": "Translate: If you can reduce the price slightly I'm willing to confirm the order today",
+              "correctAnswer": "Si puede reducir un poco el precio estoy dispuesto a confirmar el pedido hoy",
+              "targetLanguage": "Si puede reducir un poco el precio estoy dispuesto a confirmar el pedido hoy"
+            },
+            {
+              "id": "B2-L4-E5",
+              "type": "wordOrder",
+              "prompt": "Build: I'm prepared to make a concession if you are too",
+              "correctAnswer": "Estoy dispuesto a hacer una concesión si usted también lo está",
+              "targetLanguage": "Estoy dispuesto a hacer una concesión si usted también lo está"
+            },
+            {
+              "id": "B2-L4-E6",
+              "type": "multipleChoice",
+              "prompt": "'Llegar a un acuerdo' means:",
+              "correctAnswer": "To reach an agreement",
+              "options": [
+                "To make an effort",
+                "To reach an agreement",
+                "To find a solution alone",
+                "To meet each other"
+              ],
+              "targetLanguage": "Llegar a un acuerdo"
+            },
+            {
+              "id": "B2-L4-E7",
+              "type": "listening",
+              "prompt": "What concession does the speaker offer?",
+              "correctAnswer": "pagar por adelantado",
+              "options": [
+                "dar una garantía",
+                "prolongar el contrato",
+                "reducir el precio",
+                "pagar por adelantado"
+              ],
+              "targetLanguage": "Podría pagar por adelantado si usted baja el precio."
+            },
+            {
+              "id": "B2-L4-E8",
+              "type": "speaking",
+              "prompt": "Negotiate: state your position, offer a concession, propose a compromise",
+              "correctAnswer": "Mi posición es [X]. Estoy dispuesto a [concesión] si [condición]. ¿Podemos encontrar un punto intermedio?",
+              "targetLanguage": "Mi posición es [X]. Estoy dispuesto a [concesión] si [condición]. ¿Podemos encontrar un punto intermedio?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

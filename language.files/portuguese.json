@@ -1,0 +1,5119 @@
+{
+  "id": "portuguese",
+  "name": "Portuguese",
+  "nativeName": "Português",
+  "flag": "🇧🇷",
+  "units": [
+    {
+      "id": "S1",
+      "title": "Primeiras palavras",
+      "description": "Your first Portuguese words",
+      "icon": "hand.wave.fill",
+      "lessons": [
+        {
+          "id": "S1-L1",
+          "title": "Olá e Tchau",
+          "description": "Olá e Tchau",
+          "exercises": [
+            {
+              "id": "S1-L1-E1",
+              "type": "listening",
+              "prompt": "You hear a greeting — what did they say?",
+              "correctAnswer": "Olá!",
+              "options": [
+                "Tchau!",
+                "Obrigado!",
+                "Com licença!",
+                "Olá!"
+              ],
+              "targetLanguage": "Olá!"
+            },
+            {
+              "id": "S1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Olá|Hello",
+                "Bom dia|Good morning",
+                "Boa tarde|Good afternoon",
+                "Boa noite|Good evening/night"
+              ]
+            },
+            {
+              "id": "S1-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "It's morning — which greeting fits?",
+              "correctAnswer": "Bom dia",
+              "options": [
+                "Boa noite",
+                "Até logo",
+                "Bom dia",
+                "Tchau"
+              ],
+              "targetLanguage": "Bom dia"
+            },
+            {
+              "id": "S1-L1-E4",
+              "type": "listening",
+              "prompt": "Which is a formal farewell?",
+              "correctAnswer": "Até logo",
+              "options": [
+                "Olá",
+                "Tchau",
+                "Até logo",
+                "Oi"
+              ],
+              "targetLanguage": "Até logo"
+            },
+            {
+              "id": "S1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "It's late evening — which greeting fits?",
+              "correctAnswer": "Boa noite",
+              "options": [
+                "Boa noite",
+                "Bom dia",
+                "Olá",
+                "Tchau"
+              ],
+              "targetLanguage": "Boa noite"
+            },
+            {
+              "id": "S1-L1-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Tchau|Bye (informal)",
+                "Até logo|See you soon",
+                "Até amanhã|See you tomorrow",
+                "Até mais|See you later"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S1-L2",
+          "title": "Sim, Não e Por favor",
+          "description": "Sim, Não e Por favor",
+          "exercises": [
+            {
+              "id": "S1-L2-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'yes' in Portuguese?",
+              "correctAnswer": "Sim",
+              "options": [
+                "Sim",
+                "Não",
+                "Por favor",
+                "Obrigado"
+              ],
+              "targetLanguage": "Sim"
+            },
+            {
+              "id": "S1-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Sim|Yes",
+                "Não|No",
+                "Por favor|Please",
+                "Obrigado/a|Thank you"
+              ]
+            },
+            {
+              "id": "S1-L2-E3",
+              "type": "listening",
+              "prompt": "Someone hands you something — what do you say?",
+              "correctAnswer": "Obrigado",
+              "options": [
+                "Obrigado",
+                "Não",
+                "Olá",
+                "Por favor"
+              ],
+              "targetLanguage": "Obrigado"
+            },
+            {
+              "id": "S1-L2-E4",
+              "type": "multipleChoice",
+              "prompt": "'De nada' means:",
+              "correctAnswer": "You're welcome",
+              "options": [
+                "Excuse me",
+                "Please",
+                "Sorry",
+                "You're welcome"
+              ],
+              "targetLanguage": "De nada"
+            },
+            {
+              "id": "S1-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Yes please",
+              "correctAnswer": "Sim, por favor",
+              "targetLanguage": "Sim, por favor"
+            },
+            {
+              "id": "S1-L2-E6",
+              "type": "listening",
+              "prompt": "You bump into someone — what do you say?",
+              "correctAnswer": "Desculpe",
+              "options": [
+                "Obrigado",
+                "Por favor",
+                "Olá",
+                "Desculpe"
+              ],
+              "targetLanguage": "Desculpe"
+            },
+            {
+              "id": "S1-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Com licença' is used when:",
+              "correctAnswer": "Excusing yourself or getting past someone",
+              "options": [
+                "Thanking someone",
+                "Greeting someone",
+                "Excusing yourself or getting past someone",
+                "Saying goodbye"
+              ],
+              "targetLanguage": "Com licença"
+            },
+            {
+              "id": "S1-L2-E8",
+              "type": "speaking",
+              "prompt": "Greet someone and say please",
+              "correctAnswer": "Olá, por favor.",
+              "targetLanguage": "Olá, por favor."
+            }
+          ]
+        },
+        {
+          "id": "S1-L3",
+          "title": "Números 1–10",
+          "description": "Números 1–10",
+          "exercises": [
+            {
+              "id": "S1-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "What number is 'cinco'?",
+              "correctAnswer": "5",
+              "options": [
+                "3",
+                "7",
+                "5",
+                "8"
+              ],
+              "targetLanguage": "cinco"
+            },
+            {
+              "id": "S1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "um/uma|1",
+                "dois/duas|2",
+                "três|3",
+                "quatro|4"
+              ]
+            },
+            {
+              "id": "S1-L3-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "cinco|5",
+                "seis|6",
+                "sete|7",
+                "oito|8"
+              ]
+            },
+            {
+              "id": "S1-L3-E4",
+              "type": "multipleChoice",
+              "prompt": "'nove' is:",
+              "correctAnswer": "9",
+              "options": [
+                "6",
+                "7",
+                "9",
+                "10"
+              ],
+              "targetLanguage": "nove"
+            },
+            {
+              "id": "S1-L3-E5",
+              "type": "listening",
+              "prompt": "You hear a number — which is it?",
+              "correctAnswer": "dez",
+              "options": [
+                "três",
+                "dez",
+                "seis",
+                "oito"
+              ],
+              "targetLanguage": "dez"
+            },
+            {
+              "id": "S1-L3-E6",
+              "type": "wordOrder",
+              "prompt": "Count: one two three",
+              "correctAnswer": "um dois três",
+              "targetLanguage": "um dois três"
+            }
+          ]
+        },
+        {
+          "id": "S1-L4",
+          "title": "Cores e formas",
+          "description": "Cores e formas",
+          "exercises": [
+            {
+              "id": "S1-L4-E1",
+              "type": "multipleChoice",
+              "prompt": "'Vermelho' means:",
+              "correctAnswer": "Red",
+              "options": [
+                "Yellow",
+                "Red",
+                "Blue",
+                "Green"
+              ],
+              "targetLanguage": "Vermelho"
+            },
+            {
+              "id": "S1-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "vermelho|red",
+                "azul|blue",
+                "verde|green",
+                "amarelo|yellow"
+              ]
+            },
+            {
+              "id": "S1-L4-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "branco|white",
+                "preto|black",
+                "laranja|orange",
+                "roxo|purple"
+              ]
+            },
+            {
+              "id": "S1-L4-E4",
+              "type": "listening",
+              "prompt": "Which colour do you hear?",
+              "correctAnswer": "azul",
+              "options": [
+                "amarelo",
+                "verde",
+                "vermelho",
+                "azul"
+              ],
+              "targetLanguage": "azul"
+            },
+            {
+              "id": "S1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "The sky is — what colour?",
+              "correctAnswer": "azul",
+              "options": [
+                "verde",
+                "azul",
+                "vermelho",
+                "preto"
+              ],
+              "targetLanguage": "azul"
+            },
+            {
+              "id": "S1-L4-E6",
+              "type": "speaking",
+              "prompt": "Name three colours",
+              "correctAnswer": "Vermelho, azul, verde.",
+              "targetLanguage": "Vermelho, azul, verde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "Sobre mim",
+      "description": "Talk about yourself",
+      "icon": "person.fill",
+      "lessons": [
+        {
+          "id": "S2-L1",
+          "title": "Como você se chama?",
+          "description": "Como você se chama?",
+          "exercises": [
+            {
+              "id": "S2-L1-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask someone's name?",
+              "correctAnswer": "Como você se chama?",
+              "options": [
+                "De onde você é?",
+                "Como você se chama?",
+                "Quantos anos você tem?",
+                "O que você faz?"
+              ],
+              "targetLanguage": "Como você se chama?"
+            },
+            {
+              "id": "S2-L1-E2",
+              "type": "wordOrder",
+              "prompt": "Build: My name is Ana",
+              "correctAnswer": "Meu nome é Ana",
+              "targetLanguage": "Meu nome é Ana"
+            },
+            {
+              "id": "S2-L1-E3",
+              "type": "listening",
+              "prompt": "Someone says 'Meu nome é Pedro' — what did they share?",
+              "correctAnswer": "Their name",
+              "options": [
+                "Their city",
+                "Their job",
+                "Their name",
+                "Their age"
+              ],
+              "targetLanguage": "Meu nome é Pedro"
+            },
+            {
+              "id": "S2-L1-E4",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "Como você se chama?|What is your name?",
+                "Meu nome é …|My name is …",
+                "E você?|And you?",
+                "Prazer|Nice to meet you"
+              ]
+            },
+            {
+              "id": "S2-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Nice to meet you",
+              "correctAnswer": "Prazer",
+              "targetLanguage": "Prazer"
+            },
+            {
+              "id": "S2-L1-E6",
+              "type": "speaking",
+              "prompt": "Introduce yourself",
+              "correctAnswer": "Olá, meu nome é [nome]. Prazer.",
+              "targetLanguage": "Olá, meu nome é [nome]. Prazer."
+            }
+          ]
+        },
+        {
+          "id": "S2-L2",
+          "title": "De onde você é?",
+          "description": "De onde você é?",
+          "exercises": [
+            {
+              "id": "S2-L2-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask where someone is from?",
+              "correctAnswer": "De onde você é?",
+              "options": [
+                "Quantos anos você tem?",
+                "De onde você é?",
+                "O que você faz?",
+                "Como você se chama?"
+              ],
+              "targetLanguage": "De onde você é?"
+            },
+            {
+              "id": "S2-L2-E2",
+              "type": "wordOrder",
+              "prompt": "Build: I am from São Paulo",
+              "correctAnswer": "Eu sou de São Paulo",
+              "targetLanguage": "Eu sou de São Paulo"
+            },
+            {
+              "id": "S2-L2-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "De onde você é?|Where are you from?",
+                "Eu sou de …|I am from …",
+                "Eu moro em …|I live in …",
+                "E você?|And you?"
+              ]
+            },
+            {
+              "id": "S2-L2-E4",
+              "type": "listening",
+              "prompt": "Someone says 'Eu sou do Brasil' — where are they from?",
+              "correctAnswer": "Brazil",
+              "options": [
+                "Portugal",
+                "Brazil",
+                "Rio de Janeiro",
+                "Argentina"
+              ],
+              "targetLanguage": "Eu sou do Brasil"
+            },
+            {
+              "id": "S2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Eu moro no Rio de Janeiro' means:",
+              "correctAnswer": "I live in Rio de Janeiro",
+              "options": [
+                "I work in Rio de Janeiro",
+                "I live in Rio de Janeiro",
+                "I'm from Rio de Janeiro",
+                "I like Rio de Janeiro"
+              ],
+              "targetLanguage": "Eu moro no Rio de Janeiro"
+            },
+            {
+              "id": "S2-L2-E6",
+              "type": "speaking",
+              "prompt": "Say where you're from and where you live",
+              "correctAnswer": "Eu sou de [lugar]. Eu moro em [cidade].",
+              "targetLanguage": "Eu sou de [lugar]. Eu moro em [cidade]."
+            }
+          ]
+        },
+        {
+          "id": "S2-L3",
+          "title": "Quantos anos você tem?",
+          "description": "Quantos anos você tem?",
+          "exercises": [
+            {
+              "id": "S2-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask someone's age?",
+              "correctAnswer": "Quantos anos você tem?",
+              "options": [
+                "Como você se chama?",
+                "Quantos anos você tem?",
+                "O que você faz?",
+                "De onde você é?"
+              ],
+              "targetLanguage": "Quantos anos você tem?"
+            },
+            {
+              "id": "S2-L3-E2",
+              "type": "wordOrder",
+              "prompt": "Build: I am twenty years old",
+              "correctAnswer": "Eu tenho vinte anos",
+              "targetLanguage": "Eu tenho vinte anos"
+            },
+            {
+              "id": "S2-L3-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "onze|11",
+                "doze|12",
+                "treze|13",
+                "quatorze|14"
+              ]
+            },
+            {
+              "id": "S2-L3-E4",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "vinte|20",
+                "trinta|30",
+                "quarenta|40",
+                "cinquenta|50"
+              ]
+            },
+            {
+              "id": "S2-L3-E5",
+              "type": "listening",
+              "prompt": "How old is the speaker?",
+              "correctAnswer": "25",
+              "options": [
+                "35",
+                "20",
+                "25",
+                "30"
+              ],
+              "targetLanguage": "Eu tenho vinte e cinco anos"
+            },
+            {
+              "id": "S2-L3-E6",
+              "type": "speaking",
+              "prompt": "Say how old you are",
+              "correctAnswer": "Eu tenho [número] anos.",
+              "targetLanguage": "Eu tenho [número] anos."
+            }
+          ]
+        },
+        {
+          "id": "S2-L4",
+          "title": "Profissões",
+          "description": "Profissões",
+          "exercises": [
+            {
+              "id": "S2-L4-E1",
+              "type": "multipleChoice",
+              "prompt": "'O que você faz?' means:",
+              "correctAnswer": "What do you do?",
+              "options": [
+                "What do you do?",
+                "Do you like your job?",
+                "How old are you?",
+                "Where do you work?"
+              ],
+              "targetLanguage": "O que você faz?"
+            },
+            {
+              "id": "S2-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "professor/a|teacher",
+                "médico/a|doctor",
+                "engenheiro/a|engineer",
+                "estudante|student"
+              ]
+            },
+            {
+              "id": "S2-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I am a teacher",
+              "correctAnswer": "Eu sou professor",
+              "targetLanguage": "Eu sou professor"
+            },
+            {
+              "id": "S2-L4-E4",
+              "type": "listening",
+              "prompt": "What job does the speaker have?",
+              "correctAnswer": "médico",
+              "options": [
+                "engenheiro",
+                "estudante",
+                "médico",
+                "professor"
+              ],
+              "targetLanguage": "Eu sou médico"
+            },
+            {
+              "id": "S2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Eu estudo medicina' means:",
+              "correctAnswer": "I study medicine",
+              "options": [
+                "I study medicine",
+                "I work in medicine",
+                "I am a doctor",
+                "I teach medicine"
+              ],
+              "targetLanguage": "Eu estudo medicina"
+            },
+            {
+              "id": "S2-L4-E6",
+              "type": "speaking",
+              "prompt": "Say what you do for work",
+              "correctAnswer": "Eu sou [profissão]. Eu trabalho em [lugar].",
+              "targetLanguage": "Eu sou [profissão]. Eu trabalho em [lugar]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "title": "No restaurante",
+      "description": "Ordering food and drinks",
+      "icon": "fork.knife",
+      "lessons": [
+        {
+          "id": "F1-L1",
+          "title": "Pedidos",
+          "description": "Pedidos",
+          "exercises": [
+            {
+              "id": "F1-L1-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you order a coffee?",
+              "correctAnswer": "Eu quero um café, por favor.",
+              "options": [
+                "Por favor café sim?",
+                "Tem café?",
+                "Café bom?",
+                "Eu quero um café, por favor."
+              ],
+              "targetLanguage": "Eu quero um café, por favor."
+            },
+            {
+              "id": "F1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "café|coffee",
+                "chá|tea",
+                "água|water",
+                "suco|juice"
+              ]
+            },
+            {
+              "id": "F1-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I would like a tea please",
+              "correctAnswer": "Eu gostaria de um chá, por favor",
+              "targetLanguage": "Eu gostaria de um chá, por favor"
+            },
+            {
+              "id": "F1-L1-E4",
+              "type": "listening",
+              "prompt": "What did the customer order?",
+              "correctAnswer": "suco de laranja",
+              "options": [
+                "água",
+                "café",
+                "suco de laranja",
+                "chá"
+              ],
+              "targetLanguage": "Eu gostaria de um suco de laranja."
+            },
+            {
+              "id": "F1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'O que você vai querer?' means:",
+              "correctAnswer": "What would you like?",
+              "options": [
+                "What would you like?",
+                "Do you want more?",
+                "Is that all?",
+                "How much is it?"
+              ],
+              "targetLanguage": "O que você vai querer?"
+            },
+            {
+              "id": "F1-L1-E6",
+              "type": "speaking",
+              "prompt": "Order a drink at a café",
+              "correctAnswer": "Boa tarde. Eu quero um [bebida], por favor.",
+              "targetLanguage": "Boa tarde. Eu quero um [bebida], por favor."
+            }
+          ]
+        },
+        {
+          "id": "F1-L2",
+          "title": "Cardápio",
+          "description": "Cardápio",
+          "exercises": [
+            {
+              "id": "F1-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "café da manhã|breakfast",
+                "almoço|lunch",
+                "jantar|dinner",
+                "lanche|snack"
+              ]
+            },
+            {
+              "id": "F1-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu sou vegetariano/a' means:",
+              "correctAnswer": "I am vegetarian",
+              "options": [
+                "I eat fish",
+                "I am vegetarian",
+                "I like vegetables",
+                "I don't like meat dishes"
+              ],
+              "targetLanguage": "Eu sou vegetariano"
+            },
+            {
+              "id": "F1-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The menu please",
+              "correctAnswer": "O cardápio, por favor",
+              "targetLanguage": "O cardápio, por favor"
+            },
+            {
+              "id": "F1-L2-E4",
+              "type": "listening",
+              "prompt": "What does the customer want to know?",
+              "correctAnswer": "What is on the menu",
+              "options": [
+                "The price",
+                "If the restaurant is open",
+                "What is on the menu",
+                "A recommendation"
+              ],
+              "targetLanguage": "Você tem um cardápio?"
+            },
+            {
+              "id": "F1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Eu gostaria de' means:",
+              "correctAnswer": "I would like",
+              "options": [
+                "I would like",
+                "What is",
+                "Give me",
+                "Do you have"
+              ],
+              "targetLanguage": "Eu gostaria de"
+            },
+            {
+              "id": "F1-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask for the menu and say you're vegetarian",
+              "correctAnswer": "Você tem o cardápio? Eu sou vegetariano/a.",
+              "targetLanguage": "Você tem o cardápio? Eu sou vegetariano/a."
+            }
+          ]
+        },
+        {
+          "id": "F1-L3",
+          "title": "Pagar a conta",
+          "description": "Pagar a conta",
+          "exercises": [
+            {
+              "id": "F1-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask for the bill?",
+              "correctAnswer": "A conta, por favor.",
+              "options": [
+                "Obrigado, tchau.",
+                "A conta, por favor.",
+                "Aceita cartão?",
+                "Quanto custa?"
+              ],
+              "targetLanguage": "A conta, por favor."
+            },
+            {
+              "id": "F1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a conta|the bill",
+                "pagar em dinheiro|to pay cash",
+                "pagar no cartão|to pay by card",
+                "a gorjeta|the tip"
+              ]
+            },
+            {
+              "id": "F1-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Can I pay by card?",
+              "correctAnswer": "Posso pagar no cartão?",
+              "targetLanguage": "Posso pagar no cartão?"
+            },
+            {
+              "id": "F1-L3-E4",
+              "type": "listening",
+              "prompt": "How does the customer want to pay?",
+              "correctAnswer": "By card",
+              "options": [
+                "By phone",
+                "Together",
+                "Cash",
+                "By card"
+              ],
+              "targetLanguage": "Vou pagar no cartão."
+            },
+            {
+              "id": "F1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Pode deixar o troco' means:",
+              "correctAnswer": "Keep the change",
+              "options": [
+                "Keep the change",
+                "Can you split it?",
+                "I need change",
+                "Is service included?"
+              ],
+              "targetLanguage": "Pode deixar o troco"
+            },
+            {
+              "id": "F1-L3-E6",
+              "type": "speaking",
+              "prompt": "Ask for the bill and say you'll pay by card",
+              "correctAnswer": "A conta, por favor. Vou pagar no cartão.",
+              "targetLanguage": "A conta, por favor. Vou pagar no cartão."
+            }
+          ]
+        },
+        {
+          "id": "F1-L4",
+          "title": "Gostos",
+          "description": "Gostos",
+          "exercises": [
+            {
+              "id": "F1-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "gostoso|delicious",
+                "não está mal|not bad",
+                "muito salgado|too salty",
+                "muito doce|too sweet"
+              ]
+            },
+            {
+              "id": "F1-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Não gostei' means:",
+              "correctAnswer": "I didn't like it",
+              "options": [
+                "I didn't like it",
+                "I'm not hungry",
+                "I can't eat this",
+                "That's not mine"
+              ],
+              "targetLanguage": "Não gostei"
+            },
+            {
+              "id": "F1-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The coffee is delicious",
+              "correctAnswer": "O café está gostoso",
+              "targetLanguage": "O café está gostoso"
+            },
+            {
+              "id": "F1-L4-E4",
+              "type": "listening",
+              "prompt": "How does the speaker like the food?",
+              "correctAnswer": "Very much",
+              "options": [
+                "Very much",
+                "Not at all",
+                "It's okay",
+                "A little"
+              ],
+              "targetLanguage": "A comida está deliciosa!"
+            },
+            {
+              "id": "F1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Não gosto de açúcar' means:",
+              "correctAnswer": "I don't like sugar",
+              "options": [
+                "I want sugar",
+                "I don't like sugar",
+                "There's no sugar",
+                "I have no sugar"
+              ],
+              "targetLanguage": "Não gosto de açúcar"
+            },
+            {
+              "id": "F1-L4-E6",
+              "type": "speaking",
+              "prompt": "Give your opinion about food you ate",
+              "correctAnswer": "O [prato] estava [gostoso/muito salgado/não estava mal].",
+              "targetLanguage": "O [prato] estava [gostoso/muito salgado/não estava mal]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "title": "Pela cidade",
+      "description": "Getting around",
+      "icon": "map.fill",
+      "lessons": [
+        {
+          "id": "F2-L1",
+          "title": "Onde fica …?",
+          "description": "Onde fica …?",
+          "exercises": [
+            {
+              "id": "F2-L1-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask where the station is?",
+              "correctAnswer": "Onde fica a estação?",
+              "options": [
+                "Qual é a distância?",
+                "Onde fica a estação?",
+                "Tem estacionamento aqui?",
+                "Como eu vou para a escola?"
+              ],
+              "targetLanguage": "Onde fica a estação?"
+            },
+            {
+              "id": "F2-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "em frente|straight ahead",
+                "à esquerda|to the left",
+                "à direita|to the right",
+                "na esquina|on the corner"
+              ]
+            },
+            {
+              "id": "F2-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The supermarket is on the left",
+              "correctAnswer": "O supermercado fica à esquerda",
+              "targetLanguage": "O supermercado fica à esquerda"
+            },
+            {
+              "id": "F2-L1-E4",
+              "type": "listening",
+              "prompt": "Which direction did they give?",
+              "correctAnswer": "Straight ahead then left",
+              "options": [
+                "Straight ahead then left",
+                "Straight ahead",
+                "Right then straight",
+                "Left then right"
+              ],
+              "targetLanguage": "Siga em frente e depois vire à esquerda."
+            },
+            {
+              "id": "F2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Fica longe?' means:",
+              "correctAnswer": "Is it far?",
+              "options": [
+                "How long does it take?",
+                "Where exactly?",
+                "Is it open?",
+                "Is it far?"
+              ],
+              "targetLanguage": "Fica longe?"
+            },
+            {
+              "id": "F2-L1-E6",
+              "type": "speaking",
+              "prompt": "Ask where the nearest supermarket is",
+              "correctAnswer": "Com licença, onde fica o supermercado mais próximo?",
+              "targetLanguage": "Com licença, onde fica o supermercado mais próximo?"
+            }
+          ]
+        },
+        {
+          "id": "F2-L2",
+          "title": "Transportes",
+          "description": "Transportes",
+          "exercises": [
+            {
+              "id": "F2-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o ônibus|bus",
+                "o metrô|metro / underground",
+                "o trem|train",
+                "o táxi|taxi"
+              ]
+            },
+            {
+              "id": "F2-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu vou de metrô' means:",
+              "correctAnswer": "I take the metro",
+              "options": [
+                "I cycle",
+                "I walk",
+                "I drive",
+                "I take the metro"
+              ],
+              "targetLanguage": "Eu vou de metrô"
+            },
+            {
+              "id": "F2-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I take the bus to work",
+              "correctAnswer": "Eu vou de ônibus para o trabalho",
+              "targetLanguage": "Eu vou de ônibus para o trabalho"
+            },
+            {
+              "id": "F2-L2-E4",
+              "type": "listening",
+              "prompt": "How does the speaker get to work?",
+              "correctAnswer": "By train",
+              "options": [
+                "By car",
+                "By train",
+                "On foot",
+                "By bus"
+              ],
+              "targetLanguage": "Eu vou de trem para o trabalho todo dia."
+            },
+            {
+              "id": "F2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Ir a pé' means:",
+              "correctAnswer": "To walk",
+              "options": [
+                "To cycle",
+                "To run",
+                "To walk",
+                "To drive"
+              ],
+              "targetLanguage": "Ir a pé"
+            },
+            {
+              "id": "F2-L2-E6",
+              "type": "speaking",
+              "prompt": "Say how you usually get around",
+              "correctAnswer": "Normalmente eu vou de [transporte].",
+              "targetLanguage": "Normalmente eu vou de [transporte]."
+            }
+          ]
+        },
+        {
+          "id": "F2-L3",
+          "title": "Comprar passagens",
+          "description": "Comprar passagens",
+          "exercises": [
+            {
+              "id": "F2-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask for a ticket to São Paulo?",
+              "correctAnswer": "Uma passagem para São Paulo, por favor.",
+              "options": [
+                "Quando sai o ônibus?",
+                "Uma passagem para São Paulo, por favor.",
+                "O assento está livre?",
+                "Como vou para São Paulo?"
+              ],
+              "targetLanguage": "Uma passagem para São Paulo, por favor."
+            },
+            {
+              "id": "F2-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "só ida|one way",
+                "ida e volta|return",
+                "primeira classe|first class",
+                "segunda classe|second class"
+              ]
+            },
+            {
+              "id": "F2-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: One return ticket to Rio please",
+              "correctAnswer": "Uma passagem de ida e volta para o Rio, por favor",
+              "targetLanguage": "Uma passagem de ida e volta para o Rio, por favor"
+            },
+            {
+              "id": "F2-L3-E4",
+              "type": "listening",
+              "prompt": "What type of ticket does the customer want?",
+              "correctAnswer": "Return",
+              "options": [
+                "One way",
+                "Day ticket",
+                "First class",
+                "Return"
+              ],
+              "targetLanguage": "Eu quero uma passagem de ida e volta."
+            },
+            {
+              "id": "F2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Quando sai o próximo ônibus?' means:",
+              "correctAnswer": "When is the next bus?",
+              "options": [
+                "When is the next bus?",
+                "Where does the bus go?",
+                "Is the bus on time?",
+                "Which platform?"
+              ],
+              "targetLanguage": "Quando sai o próximo ônibus?"
+            },
+            {
+              "id": "F2-L3-E6",
+              "type": "speaking",
+              "prompt": "Buy a bus ticket to a city of your choice",
+              "correctAnswer": "Uma passagem para [cidade], por favor. De ida e volta.",
+              "targetLanguage": "Uma passagem para [cidade], por favor. De ida e volta."
+            }
+          ]
+        },
+        {
+          "id": "F2-L4",
+          "title": "Hospedagem",
+          "description": "Hospedagem",
+          "exercises": [
+            {
+              "id": "F2-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o hotel|hotel",
+                "a pousada|guesthouse / inn",
+                "o albergue|youth hostel",
+                "o apartamento de temporada|holiday apartment"
+              ]
+            },
+            {
+              "id": "F2-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Você tem quarto disponível?' means:",
+              "correctAnswer": "Do you have a room available?",
+              "options": [
+                "I'd like to check in",
+                "Do you have a room available?",
+                "Is breakfast included?",
+                "How much is the room?"
+              ],
+              "targetLanguage": "Você tem quarto disponível?"
+            },
+            {
+              "id": "F2-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: For two nights please",
+              "correctAnswer": "Por duas noites, por favor",
+              "targetLanguage": "Por duas noites, por favor"
+            },
+            {
+              "id": "F2-L4-E4",
+              "type": "listening",
+              "prompt": "What does the guest ask about?",
+              "correctAnswer": "Breakfast",
+              "options": [
+                "Breakfast",
+                "WiFi",
+                "Price",
+                "Parking"
+              ],
+              "targetLanguage": "O café da manhã está incluído?"
+            },
+            {
+              "id": "F2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Quero fazer o check-in' means:",
+              "correctAnswer": "I'd like to check in",
+              "options": [
+                "Where is my room?",
+                "I need a key",
+                "I want to leave",
+                "I'd like to check in"
+              ],
+              "targetLanguage": "Quero fazer o check-in"
+            },
+            {
+              "id": "F2-L4-E6",
+              "type": "speaking",
+              "prompt": "Ask for a room for two nights",
+              "correctAnswer": "Você tem um quarto individual disponível? Por duas noites.",
+              "targetLanguage": "Você tem um quarto individual disponível? Por duas noites."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "title": "Família e lar",
+      "description": "Family and home life",
+      "icon": "house.fill",
+      "lessons": [
+        {
+          "id": "F3-L1",
+          "title": "Membros da família",
+          "description": "Membros da família",
+          "exercises": [
+            {
+              "id": "F3-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a mãe|mother",
+                "o pai|father",
+                "a irmã|sister",
+                "o irmão|brother"
+              ]
+            },
+            {
+              "id": "F3-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu tenho dois irmãos' means:",
+              "correctAnswer": "I have two siblings",
+              "options": [
+                "I have two siblings",
+                "I have two parents",
+                "I have a large family",
+                "I have two children"
+              ],
+              "targetLanguage": "Eu tenho dois irmãos"
+            },
+            {
+              "id": "F3-L1-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a avó|grandmother",
+                "o avô|grandfather",
+                "a tia|aunt",
+                "o tio|uncle"
+              ]
+            },
+            {
+              "id": "F3-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I have a brother and a sister",
+              "correctAnswer": "Eu tenho um irmão e uma irmã",
+              "targetLanguage": "Eu tenho um irmão e uma irmã"
+            },
+            {
+              "id": "F3-L1-E5",
+              "type": "listening",
+              "prompt": "How many siblings does the speaker have?",
+              "correctAnswer": "Three",
+              "options": [
+                "One",
+                "None",
+                "Three",
+                "Two"
+              ],
+              "targetLanguage": "Eu tenho três irmãos."
+            },
+            {
+              "id": "F3-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe your family",
+              "correctAnswer": "Eu tenho [família]. O meu/a minha [familiar] se chama [nome].",
+              "targetLanguage": "Eu tenho [família]. O meu/a minha [familiar] se chama [nome]."
+            }
+          ]
+        },
+        {
+          "id": "F3-L2",
+          "title": "A casa",
+          "description": "A casa",
+          "exercises": [
+            {
+              "id": "F3-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a cozinha|kitchen",
+                "a sala de estar|living room",
+                "o quarto|bedroom",
+                "o banheiro|bathroom"
+              ]
+            },
+            {
+              "id": "F3-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Onde fica o banheiro?' means:",
+              "correctAnswer": "Where is the bathroom?",
+              "options": [
+                "Which floor?",
+                "Where is the bathroom?",
+                "How many rooms?",
+                "Is there a shower?"
+              ],
+              "targetLanguage": "Onde fica o banheiro?"
+            },
+            {
+              "id": "F3-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The kitchen is big",
+              "correctAnswer": "A cozinha é grande",
+              "targetLanguage": "A cozinha é grande"
+            },
+            {
+              "id": "F3-L2-E4",
+              "type": "listening",
+              "prompt": "Which room does the speaker mention?",
+              "correctAnswer": "Living room",
+              "options": [
+                "Kitchen",
+                "Bedroom",
+                "Bathroom",
+                "Living room"
+              ],
+              "targetLanguage": "A sala de estar é muito confortável."
+            },
+            {
+              "id": "F3-L2-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o térreo|ground floor",
+                "o primeiro andar|first floor",
+                "o porão|basement",
+                "o jardim|garden"
+              ]
+            },
+            {
+              "id": "F3-L2-E6",
+              "type": "speaking",
+              "prompt": "Describe your home",
+              "correctAnswer": "Eu moro em [apartamento/casa]. Tem [cômodos].",
+              "targetLanguage": "Eu moro em [apartamento/casa]. Tem [cômodos]."
+            }
+          ]
+        },
+        {
+          "id": "F3-L3",
+          "title": "Rotina em casa",
+          "description": "Rotina em casa",
+          "exercises": [
+            {
+              "id": "F3-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "acordar|to wake up",
+                "tomar café da manhã|to have breakfast",
+                "limpar|to clean",
+                "cozinhar|to cook"
+              ]
+            },
+            {
+              "id": "F3-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu acordo às sete' means:",
+              "correctAnswer": "I wake up at seven",
+              "options": [
+                "I wake up at seven",
+                "I go to bed at seven",
+                "I leave at seven",
+                "I eat at seven"
+              ],
+              "targetLanguage": "Eu acordo às sete"
+            },
+            {
+              "id": "F3-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I cook dinner every evening",
+              "correctAnswer": "Eu cozinho o jantar toda noite",
+              "targetLanguage": "Eu cozinho o jantar toda noite"
+            },
+            {
+              "id": "F3-L3-E4",
+              "type": "listening",
+              "prompt": "What chore does the speaker do?",
+              "correctAnswer": "Cleaning",
+              "options": [
+                "Cooking",
+                "Washing",
+                "Shopping",
+                "Cleaning"
+              ],
+              "targetLanguage": "Eu limpo a casa todo sábado."
+            },
+            {
+              "id": "F3-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Eu durmo cedo' means:",
+              "correctAnswer": "I go to bed early",
+              "options": [
+                "I wake up early",
+                "I go to bed early",
+                "I sleep a lot",
+                "I'm tired"
+              ],
+              "targetLanguage": "Eu durmo cedo"
+            },
+            {
+              "id": "F3-L3-E6",
+              "type": "speaking",
+              "prompt": "Describe your typical morning",
+              "correctAnswer": "Eu acordo às [hora]. Depois [atividade].",
+              "targetLanguage": "Eu acordo às [hora]. Depois [atividade]."
+            }
+          ]
+        },
+        {
+          "id": "F3-L4",
+          "title": "Morar na cidade",
+          "description": "Morar na cidade",
+          "exercises": [
+            {
+              "id": "F3-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "tranquilo|quiet",
+                "barulhento|noisy",
+                "central|central",
+                "barato|cheap / affordable"
+              ]
+            },
+            {
+              "id": "F3-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu moro num apartamento antigo' means:",
+              "correctAnswer": "I live in an old apartment",
+              "options": [
+                "I rent a room",
+                "I live in a new building",
+                "I live in a house",
+                "I live in an old apartment"
+              ],
+              "targetLanguage": "Eu moro num apartamento antigo"
+            },
+            {
+              "id": "F3-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: My apartment is quiet and central",
+              "correctAnswer": "Meu apartamento é tranquilo e central",
+              "targetLanguage": "Meu apartamento é tranquilo e central"
+            },
+            {
+              "id": "F3-L4-E4",
+              "type": "listening",
+              "prompt": "How does the speaker describe their area?",
+              "correctAnswer": "Lively but noisy",
+              "options": [
+                "Far from centre",
+                "Quiet and green",
+                "Cheap and central",
+                "Lively but noisy"
+              ],
+              "targetLanguage": "O bairro é muito animado, mas também barulhento."
+            },
+            {
+              "id": "F3-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'O aluguel está muito caro' means:",
+              "correctAnswer": "The rent is too expensive",
+              "options": [
+                "I can't find a flat",
+                "The rent is too expensive",
+                "The landlord is difficult",
+                "The area is expensive"
+              ],
+              "targetLanguage": "O aluguel está muito caro"
+            },
+            {
+              "id": "F3-L4-E6",
+              "type": "speaking",
+              "prompt": "Describe your neighbourhood",
+              "correctAnswer": "Eu moro em [bairro]. É [adjetivo].",
+              "targetLanguage": "Eu moro em [bairro]. É [adjetivo]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "title": "Trabalho e estudo",
+      "description": "Work and study",
+      "icon": "briefcase.fill",
+      "lessons": [
+        {
+          "id": "F4-L1",
+          "title": "No trabalho",
+          "description": "No trabalho",
+          "exercises": [
+            {
+              "id": "F4-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o escritório|office",
+                "a reunião|meeting",
+                "o colega|colleague",
+                "a chefa|boss (female)"
+              ]
+            },
+            {
+              "id": "F4-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu tenho uma reunião' means:",
+              "correctAnswer": "I have a meeting",
+              "options": [
+                "I am busy",
+                "I have a meeting",
+                "I am working from home",
+                "I need to leave early"
+              ],
+              "targetLanguage": "Eu tenho uma reunião"
+            },
+            {
+              "id": "F4-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The meeting starts at nine",
+              "correctAnswer": "A reunião começa às nove",
+              "targetLanguage": "A reunião começa às nove"
+            },
+            {
+              "id": "F4-L1-E4",
+              "type": "listening",
+              "prompt": "What does the employee ask?",
+              "correctAnswer": "If the meeting was moved",
+              "options": [
+                "When they finish",
+                "Where the office is",
+                "If the meeting was moved",
+                "Who the boss is"
+              ],
+              "targetLanguage": "A reunião foi adiada?"
+            },
+            {
+              "id": "F4-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Estou trabalhando em casa' means:",
+              "correctAnswer": "I'm working from home",
+              "options": [
+                "I'm working from home",
+                "I work at the office",
+                "I work overtime",
+                "I am between jobs"
+              ],
+              "targetLanguage": "Estou trabalhando em casa"
+            },
+            {
+              "id": "F4-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe your typical work day",
+              "correctAnswer": "Eu começo às [hora]. Depois tenho [tarefas].",
+              "targetLanguage": "Eu começo às [hora]. Depois tenho [tarefas]."
+            }
+          ]
+        },
+        {
+          "id": "F4-L2",
+          "title": "Na escola",
+          "description": "Na escola",
+          "exercises": [
+            {
+              "id": "F4-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a matéria|subject",
+                "a lição de casa|homework",
+                "a prova|exam",
+                "a nota|grade"
+              ]
+            },
+            {
+              "id": "F4-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Minha matéria favorita é matemática' means:",
+              "correctAnswer": "My favourite subject is maths",
+              "options": [
+                "I study maths",
+                "I find maths hard",
+                "I'm good at maths",
+                "My favourite subject is maths"
+              ],
+              "targetLanguage": "Minha matéria favorita é matemática"
+            },
+            {
+              "id": "F4-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I have an exam tomorrow",
+              "correctAnswer": "Eu tenho uma prova amanhã",
+              "targetLanguage": "Eu tenho uma prova amanhã"
+            },
+            {
+              "id": "F4-L2-E4",
+              "type": "listening",
+              "prompt": "What does the student say about their homework?",
+              "correctAnswer": "It is finished",
+              "options": [
+                "They forgot it",
+                "It is late",
+                "It is difficult",
+                "It is finished"
+              ],
+              "targetLanguage": "Eu terminei a minha lição de casa."
+            },
+            {
+              "id": "F4-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Estou estudando para a prova' means:",
+              "correctAnswer": "I'm studying for the exam",
+              "options": [
+                "I passed the exam",
+                "I'm writing the exam",
+                "I failed the exam",
+                "I'm studying for the exam"
+              ],
+              "targetLanguage": "Estou estudando para a prova"
+            },
+            {
+              "id": "F4-L2-E6",
+              "type": "speaking",
+              "prompt": "Talk about your studies",
+              "correctAnswer": "Eu estudo [matéria] na [universidade/escola].",
+              "targetLanguage": "Eu estudo [matéria] na [universidade/escola]."
+            }
+          ]
+        },
+        {
+          "id": "F4-L3",
+          "title": "Candidaturas",
+          "description": "Candidaturas",
+          "exercises": [
+            {
+              "id": "F4-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o currículo|CV / résumé",
+                "a carta de apresentação|cover letter",
+                "a entrevista|job interview",
+                "a vaga|position / job opening"
+              ]
+            },
+            {
+              "id": "F4-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'Estou me candidatando para a vaga' means:",
+              "correctAnswer": "I'm applying for the position",
+              "options": [
+                "I got the job",
+                "I was fired",
+                "I'm applying for the position",
+                "I quit the job"
+              ],
+              "targetLanguage": "Estou me candidatando para a vaga"
+            },
+            {
+              "id": "F4-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I have five years of experience",
+              "correctAnswer": "Tenho cinco anos de experiência",
+              "targetLanguage": "Tenho cinco anos de experiência"
+            },
+            {
+              "id": "F4-L3-E4",
+              "type": "listening",
+              "prompt": "What does the candidate mention first?",
+              "correctAnswer": "Their education",
+              "options": [
+                "Their references",
+                "Their education",
+                "Their experience",
+                "Their skills"
+              ],
+              "targetLanguage": "Eu me formei pela Universidade de São Paulo."
+            },
+            {
+              "id": "F4-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Quando você pode começar?' means:",
+              "correctAnswer": "When can you start?",
+              "options": [
+                "When can you start?",
+                "How long have you worked here?",
+                "What are your strengths?",
+                "Where do you see yourself in five years?"
+              ],
+              "targetLanguage": "Quando você pode começar?"
+            },
+            {
+              "id": "F4-L3-E6",
+              "type": "speaking",
+              "prompt": "Briefly introduce yourself in a job interview",
+              "correctAnswer": "Eu sou [nome]. Tenho [experiência]. Estou me candidatando para [vaga].",
+              "targetLanguage": "Eu sou [nome]. Tenho [experiência]. Estou me candidatando para [vaga]."
+            }
+          ]
+        },
+        {
+          "id": "F4-L4",
+          "title": "Colegas e trabalho em equipe",
+          "description": "Colegas e trabalho em equipe",
+          "exercises": [
+            {
+              "id": "F4-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "trabalhar em equipe|to work as a team",
+                "delegar|to delegate",
+                "assumir responsabilidade|to take responsibility",
+                "cumprir um prazo|to meet a deadline"
+              ]
+            },
+            {
+              "id": "F4-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Podemos dividir isso?' means:",
+              "correctAnswer": "Can we split this up?",
+              "options": [
+                "Can you finish it alone?",
+                "Is this your responsibility?",
+                "Can we split this up?",
+                "Should I ask the boss?"
+              ],
+              "targetLanguage": "Podemos dividir isso?"
+            },
+            {
+              "id": "F4-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I'll take care of that",
+              "correctAnswer": "Eu cuido disso",
+              "targetLanguage": "Eu cuido disso"
+            },
+            {
+              "id": "F4-L4-E4",
+              "type": "listening",
+              "prompt": "What does the colleague offer?",
+              "correctAnswer": "To help with the presentation",
+              "options": [
+                "To take over the project",
+                "To speak to the manager",
+                "To help with the presentation",
+                "To reschedule the meeting"
+              ],
+              "targetLanguage": "Posso te ajudar com a apresentação."
+            },
+            {
+              "id": "F4-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'O prazo é amanhã' means:",
+              "correctAnswer": "The deadline is tomorrow",
+              "options": [
+                "The project is finished",
+                "The deadline is tomorrow",
+                "The meeting is tomorrow",
+                "The boss wants an update"
+              ],
+              "targetLanguage": "O prazo é amanhã"
+            },
+            {
+              "id": "F4-L4-E6",
+              "type": "speaking",
+              "prompt": "Offer to help a colleague with a task",
+              "correctAnswer": "Posso te ajudar com [tarefa]?",
+              "targetLanguage": "Posso te ajudar com [tarefa]?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "title": "Lazer e hobbies",
+      "description": "Leisure and hobbies",
+      "icon": "sportscourt.fill",
+      "lessons": [
+        {
+          "id": "F5-L1",
+          "title": "Esportes",
+          "description": "Esportes",
+          "exercises": [
+            {
+              "id": "F5-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "nadar|swimming",
+                "jogar futebol|to play football",
+                "andar de bicicleta|cycling",
+                "correr|running"
+              ]
+            },
+            {
+              "id": "F5-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu gosto de fazer esporte' means:",
+              "correctAnswer": "I like doing sport",
+              "options": [
+                "I train every day",
+                "I like doing sport",
+                "I play football",
+                "I watch sport"
+              ],
+              "targetLanguage": "Eu gosto de fazer esporte"
+            },
+            {
+              "id": "F5-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I play tennis twice a week",
+              "correctAnswer": "Eu jogo tênis duas vezes por semana",
+              "targetLanguage": "Eu jogo tênis duas vezes por semana"
+            },
+            {
+              "id": "F5-L1-E4",
+              "type": "listening",
+              "prompt": "Which sport does the speaker do?",
+              "correctAnswer": "Swimming",
+              "options": [
+                "Running",
+                "Football",
+                "Cycling",
+                "Swimming"
+              ],
+              "targetLanguage": "Eu nado toda manhã."
+            },
+            {
+              "id": "F5-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Não sou muito esportivo/a' means:",
+              "correctAnswer": "I'm not very sporty",
+              "options": [
+                "I have a sports injury",
+                "I prefer indoor sports",
+                "I don't watch sport",
+                "I'm not very sporty"
+              ],
+              "targetLanguage": "Não sou muito esportivo"
+            },
+            {
+              "id": "F5-L1-E6",
+              "type": "speaking",
+              "prompt": "Talk about a sport you do or watch",
+              "correctAnswer": "Eu [pratico/assisto] [esporte].",
+              "targetLanguage": "Eu [pratico/assisto] [esporte]."
+            }
+          ]
+        },
+        {
+          "id": "F5-L2",
+          "title": "Cultura e arte",
+          "description": "Cultura e arte",
+          "exercises": [
+            {
+              "id": "F5-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o show|concert / show",
+                "o museu|museum",
+                "o teatro|theatre",
+                "a exposição|exhibition"
+              ]
+            },
+            {
+              "id": "F5-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu gosto de ir ao cinema' means:",
+              "correctAnswer": "I like going to the cinema",
+              "options": [
+                "I work in cinema",
+                "I like watching TV",
+                "I like going to the cinema",
+                "I prefer theatre"
+              ],
+              "targetLanguage": "Eu gosto de ir ao cinema"
+            },
+            {
+              "id": "F5-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The show was fantastic",
+              "correctAnswer": "O show foi fantástico",
+              "targetLanguage": "O show foi fantástico"
+            },
+            {
+              "id": "F5-L2-E4",
+              "type": "listening",
+              "prompt": "Where does the speaker want to go?",
+              "correctAnswer": "To the museum",
+              "options": [
+                "To the cinema",
+                "To a show",
+                "To the theatre",
+                "To the museum"
+              ],
+              "targetLanguage": "Eu gostaria de ir ao museu."
+            },
+            {
+              "id": "F5-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Me interesso por arte' means:",
+              "correctAnswer": "I'm interested in art",
+              "options": [
+                "I'm interested in art",
+                "I sell art",
+                "I make art",
+                "I study art"
+              ],
+              "targetLanguage": "Me interesso por arte"
+            },
+            {
+              "id": "F5-L2-E6",
+              "type": "speaking",
+              "prompt": "Suggest a cultural activity to a friend",
+              "correctAnswer": "Você quer ir [atividade] comigo?",
+              "targetLanguage": "Você quer ir [atividade] comigo?"
+            }
+          ]
+        },
+        {
+          "id": "F5-L3",
+          "title": "Música e leitura",
+          "description": "Música e leitura",
+          "exercises": [
+            {
+              "id": "F5-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "tocar violão|to play guitar",
+                "tocar piano|to play piano",
+                "cantar|to sing",
+                "ler|to read"
+              ]
+            },
+            {
+              "id": "F5-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu gosto de ouvir música clássica' means:",
+              "correctAnswer": "I like listening to classical music",
+              "options": [
+                "I play classical music",
+                "I study music",
+                "I like listening to classical music",
+                "I dislike classical music"
+              ],
+              "targetLanguage": "Eu gosto de ouvir música clássica"
+            },
+            {
+              "id": "F5-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I read every evening before sleep",
+              "correctAnswer": "Eu leio toda noite antes de dormir",
+              "targetLanguage": "Eu leio toda noite antes de dormir"
+            },
+            {
+              "id": "F5-L3-E4",
+              "type": "listening",
+              "prompt": "What instrument does the speaker play?",
+              "correctAnswer": "Piano",
+              "options": [
+                "Piano",
+                "Guitar",
+                "Drums",
+                "Violin"
+              ],
+              "targetLanguage": "Eu toco piano há dez anos."
+            },
+            {
+              "id": "F5-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Meu livro favorito é …' means:",
+              "correctAnswer": "My favourite book is …",
+              "options": [
+                "I'm reading …",
+                "My favourite book is …",
+                "I wrote …",
+                "I recommend …"
+              ],
+              "targetLanguage": "Meu livro favorito é …"
+            },
+            {
+              "id": "F5-L3-E6",
+              "type": "speaking",
+              "prompt": "Describe a hobby you enjoy in your free time",
+              "correctAnswer": "No meu tempo livre, eu [atividade]. Eu gosto porque [motivo].",
+              "targetLanguage": "No meu tempo livre, eu [atividade]. Eu gosto porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "F5-L4",
+          "title": "Fazer planos",
+          "description": "Fazer planos",
+          "exercises": [
+            {
+              "id": "F5-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ter vontade de|to feel like",
+                "planejar|to plan",
+                "combinar|to arrange",
+                "cancelar|to cancel"
+              ]
+            },
+            {
+              "id": "F5-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Você está livre no sábado?' means:",
+              "correctAnswer": "Are you free on Saturday?",
+              "options": [
+                "When do you finish Saturday?",
+                "What are you doing Saturday?",
+                "Do you work on Saturday?",
+                "Are you free on Saturday?"
+              ],
+              "targetLanguage": "Você está livre no sábado?"
+            },
+            {
+              "id": "F5-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: We could meet at seven",
+              "correctAnswer": "Podemos nos encontrar às sete",
+              "targetLanguage": "Podemos nos encontrar às sete"
+            },
+            {
+              "id": "F5-L4-E4",
+              "type": "listening",
+              "prompt": "What does the friend suggest?",
+              "correctAnswer": "Going to the cinema on Friday",
+              "options": [
+                "Going to the cinema on Friday",
+                "A football match",
+                "Going out on Saturday",
+                "A museum visit"
+              ],
+              "targetLanguage": "Vamos ao cinema na sexta?"
+            },
+            {
+              "id": "F5-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Infelizmente preciso cancelar' means:",
+              "correctAnswer": "I'm afraid I have to cancel",
+              "options": [
+                "I'm afraid I have to cancel",
+                "I'd love to come",
+                "I'll be a bit late",
+                "I can't decide"
+              ],
+              "targetLanguage": "Infelizmente preciso cancelar"
+            },
+            {
+              "id": "F5-L4-E6",
+              "type": "speaking",
+              "prompt": "Invite a friend to do something at the weekend",
+              "correctAnswer": "Você quer [atividade] no fim de semana?",
+              "targetLanguage": "Você quer [atividade] no fim de semana?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "title": "Saúde",
+      "description": "Health and wellbeing",
+      "icon": "heart.fill",
+      "lessons": [
+        {
+          "id": "F6-L1",
+          "title": "No médico",
+          "description": "No médico",
+          "exercises": [
+            {
+              "id": "F6-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ter dor de cabeça|to have a headache",
+                "ter febre|to have a fever",
+                "tossir|to cough",
+                "estar resfriado/a|to have a cold"
+              ]
+            },
+            {
+              "id": "F6-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'Não estou me sentindo bem' means:",
+              "correctAnswer": "I don't feel well",
+              "options": [
+                "I need medicine",
+                "I am tired",
+                "I have pain",
+                "I don't feel well"
+              ],
+              "targetLanguage": "Não estou me sentindo bem"
+            },
+            {
+              "id": "F6-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I have a headache and a fever",
+              "correctAnswer": "Tenho dor de cabeça e febre",
+              "targetLanguage": "Tenho dor de cabeça e febre"
+            },
+            {
+              "id": "F6-L1-E4",
+              "type": "listening",
+              "prompt": "What symptom does the patient describe?",
+              "correctAnswer": "Sore throat",
+              "options": [
+                "Cough",
+                "Fever",
+                "Sore throat",
+                "Headache"
+              ],
+              "targetLanguage": "Estou com dor de garganta."
+            },
+            {
+              "id": "F6-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Há quanto tempo você está assim?' means:",
+              "correctAnswer": "How long have you been feeling like this?",
+              "options": [
+                "Do you have allergies?",
+                "How long have you been feeling like this?",
+                "Does it hurt when you breathe?",
+                "What medicine do you take?"
+              ],
+              "targetLanguage": "Há quanto tempo você está assim?"
+            },
+            {
+              "id": "F6-L1-E6",
+              "type": "speaking",
+              "prompt": "Tell the doctor how you feel",
+              "correctAnswer": "Não estou me sentindo bem. Estou com [sintomas].",
+              "targetLanguage": "Não estou me sentindo bem. Estou com [sintomas]."
+            }
+          ]
+        },
+        {
+          "id": "F6-L2",
+          "title": "Na farmácia",
+          "description": "Na farmácia",
+          "exercises": [
+            {
+              "id": "F6-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o analgésico|painkiller",
+                "o antibiótico|antibiotic",
+                "o curativo|plaster / bandaid",
+                "a pomada|ointment / cream"
+              ]
+            },
+            {
+              "id": "F6-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Você tem algo para dor de cabeça?' means:",
+              "correctAnswer": "Do you have something for headaches?",
+              "options": [
+                "Is this prescription only?",
+                "Do you have something for headaches?",
+                "What do you recommend?",
+                "How often should I take this?"
+              ],
+              "targetLanguage": "Você tem algo para dor de cabeça?"
+            },
+            {
+              "id": "F6-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I need something for a cough",
+              "correctAnswer": "Preciso de algo para tosse",
+              "targetLanguage": "Preciso de algo para tosse"
+            },
+            {
+              "id": "F6-L2-E4",
+              "type": "listening",
+              "prompt": "What does the pharmacist say about the medicine?",
+              "correctAnswer": "Take it three times a day",
+              "options": [
+                "It requires a prescription",
+                "Take it with food",
+                "Take it three times a day",
+                "It can cause drowsiness"
+              ],
+              "targetLanguage": "Tome três vezes ao dia."
+            },
+            {
+              "id": "F6-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'É necessária receita médica' means:",
+              "correctAnswer": "A prescription is required",
+              "options": [
+                "This is over the counter",
+                "This is out of stock",
+                "This is very strong",
+                "A prescription is required"
+              ],
+              "targetLanguage": "É necessária receita médica"
+            },
+            {
+              "id": "F6-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask the pharmacist for advice",
+              "correctAnswer": "Você tem algo para [sintoma]? Estou com [detalhes].",
+              "targetLanguage": "Você tem algo para [sintoma]? Estou com [detalhes]."
+            }
+          ]
+        },
+        {
+          "id": "F6-L3",
+          "title": "Esporte e bem-estar",
+          "description": "Esporte e bem-estar",
+          "exercises": [
+            {
+              "id": "F6-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "alongar|to stretch",
+                "descansar|to rest",
+                "se alimentar bem|to eat healthily",
+                "dormir|to sleep"
+              ]
+            },
+            {
+              "id": "F6-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'Tento me alimentar bem' means:",
+              "correctAnswer": "I try to eat healthily",
+              "options": [
+                "I am on a diet",
+                "I always eat well",
+                "I don't eat meat",
+                "I try to eat healthily"
+              ],
+              "targetLanguage": "Tento me alimentar bem"
+            },
+            {
+              "id": "F6-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I sleep eight hours a night",
+              "correctAnswer": "Durmo oito horas por noite",
+              "targetLanguage": "Durmo oito horas por noite"
+            },
+            {
+              "id": "F6-L3-E4",
+              "type": "listening",
+              "prompt": "What healthy habit does the speaker mention?",
+              "correctAnswer": "Drinking enough water",
+              "options": [
+                "Exercising daily",
+                "Eating less sugar",
+                "Going to bed early",
+                "Drinking enough water"
+              ],
+              "targetLanguage": "Procuro beber água suficiente ao longo do dia."
+            },
+            {
+              "id": "F6-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Estou em forma' means:",
+              "correctAnswer": "I'm in good shape",
+              "options": [
+                "I need rest",
+                "I am exhausted",
+                "I am ill",
+                "I'm in good shape"
+              ],
+              "targetLanguage": "Estou em forma"
+            },
+            {
+              "id": "F6-L3-E6",
+              "type": "speaking",
+              "prompt": "Talk about a healthy habit you have",
+              "correctAnswer": "Eu [hábito]. Isso me ajuda a me sentir [bem/em forma/descansado].",
+              "targetLanguage": "Eu [hábito]. Isso me ajuda a me sentir [bem/em forma/descansado]."
+            }
+          ]
+        },
+        {
+          "id": "F6-L4",
+          "title": "Emergências",
+          "description": "Emergências",
+          "exercises": [
+            {
+              "id": "F6-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a emergência|emergency",
+                "a ambulância|ambulance",
+                "os bombeiros|fire brigade",
+                "a polícia|police"
+              ]
+            },
+            {
+              "id": "F6-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Chame uma ambulância!' means:",
+              "correctAnswer": "Call an ambulance!",
+              "options": [
+                "Stay calm!",
+                "Call the fire brigade!",
+                "Call an ambulance!",
+                "Call the police!"
+              ],
+              "targetLanguage": "Chame uma ambulância!"
+            },
+            {
+              "id": "F6-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: There has been an accident",
+              "correctAnswer": "Houve um acidente",
+              "targetLanguage": "Houve um acidente"
+            },
+            {
+              "id": "F6-L4-E4",
+              "type": "listening",
+              "prompt": "What does the caller report?",
+              "correctAnswer": "Someone has fainted",
+              "options": [
+                "Someone has fainted",
+                "Someone is injured",
+                "There is a fire",
+                "A car has crashed"
+              ],
+              "targetLanguage": "Uma pessoa desmaiou."
+            },
+            {
+              "id": "F6-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "The emergency number in Brazil is:",
+              "correctAnswer": "192 (SAMU) or 190 (Police)",
+              "options": [
+                "999",
+                "000",
+                "911",
+                "192 (SAMU) or 190 (Police)"
+              ],
+              "explanation": "192 is SAMU (ambulance) and 190 is the police in Brazil.",
+              "targetLanguage": "192"
+            },
+            {
+              "id": "F6-L4-E6",
+              "type": "speaking",
+              "prompt": "Report an emergency",
+              "correctAnswer": "Preciso de uma ambulância! [Situação] na [Rua].",
+              "targetLanguage": "Preciso de uma ambulância! [Situação] na [Rua]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7",
+      "title": "Compras",
+      "description": "Shopping and errands",
+      "icon": "cart.fill",
+      "lessons": [
+        {
+          "id": "F7-L1",
+          "title": "No supermercado",
+          "description": "No supermercado",
+          "exercises": [
+            {
+              "id": "F7-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o legume|vegetable",
+                "a fruta|fruit",
+                "a carne|meat",
+                "o laticínio|dairy product"
+              ]
+            },
+            {
+              "id": "F7-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'Onde fica o leite?' means:",
+              "correctAnswer": "Where can I find the milk?",
+              "options": [
+                "Where can I find the milk?",
+                "Do you sell milk?",
+                "How much is the milk?",
+                "Is the milk fresh?"
+              ],
+              "targetLanguage": "Onde fica o leite?"
+            },
+            {
+              "id": "F7-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I need bread and butter",
+              "correctAnswer": "Preciso de pão e manteiga",
+              "targetLanguage": "Preciso de pão e manteiga"
+            },
+            {
+              "id": "F7-L1-E4",
+              "type": "listening",
+              "prompt": "What does the shopper ask for?",
+              "correctAnswer": "A bag",
+              "options": [
+                "The price",
+                "A discount",
+                "A bag",
+                "The receipt"
+              ],
+              "targetLanguage": "Você tem uma sacola?"
+            },
+            {
+              "id": "F7-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Está em promoção' means:",
+              "correctAnswer": "That's on sale",
+              "options": [
+                "That's already paid for",
+                "That's on sale",
+                "That's out of stock",
+                "That's very expensive"
+              ],
+              "targetLanguage": "Está em promoção"
+            },
+            {
+              "id": "F7-L1-E6",
+              "type": "speaking",
+              "prompt": "Ask a shop assistant where to find a product",
+              "correctAnswer": "Com licença, onde fica [produto]?",
+              "targetLanguage": "Com licença, onde fica [produto]?"
+            }
+          ]
+        },
+        {
+          "id": "F7-L2",
+          "title": "Na loja de roupas",
+          "description": "Na loja de roupas",
+          "exercises": [
+            {
+              "id": "F7-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o tamanho|size",
+                "experimentar|to try on",
+                "me serve|it fits me",
+                "o provador|fitting room"
+              ]
+            },
+            {
+              "id": "F7-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Você tem no tamanho M?' means:",
+              "correctAnswer": "Do you have this in size M?",
+              "options": [
+                "Where is the fitting room?",
+                "Do you have this in size M?",
+                "Can I try this on?",
+                "Is this on sale?"
+              ],
+              "targetLanguage": "Você tem no tamanho M?"
+            },
+            {
+              "id": "F7-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Can I try this on?",
+              "correctAnswer": "Posso experimentar?",
+              "targetLanguage": "Posso experimentar?"
+            },
+            {
+              "id": "F7-L2-E4",
+              "type": "listening",
+              "prompt": "Why does the customer not buy the item?",
+              "correctAnswer": "It doesn't fit",
+              "options": [
+                "It doesn't fit",
+                "Wrong colour",
+                "Out of stock",
+                "Too expensive"
+              ],
+              "targetLanguage": "Infelizmente não me serve."
+            },
+            {
+              "id": "F7-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Estou procurando algo para um casamento' means:",
+              "correctAnswer": "I'm looking for something for a wedding",
+              "options": [
+                "I'm looking for a white dress",
+                "I'm looking for something for a wedding",
+                "I want a party outfit",
+                "I need something formal"
+              ],
+              "targetLanguage": "Estou procurando algo para um casamento"
+            },
+            {
+              "id": "F7-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask for a different size in a shop",
+              "correctAnswer": "Você tem no tamanho [número]? Posso experimentar?",
+              "targetLanguage": "Você tem no tamanho [número]? Posso experimentar?"
+            }
+          ]
+        },
+        {
+          "id": "F7-L3",
+          "title": "Preços e pagamento",
+          "description": "Preços e pagamento",
+          "exercises": [
+            {
+              "id": "F7-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "barato|cheap / affordable",
+                "caro|expensive",
+                "o preço|price",
+                "o desconto|discount"
+              ]
+            },
+            {
+              "id": "F7-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'Quanto custa?' means:",
+              "correctAnswer": "How much does that cost?",
+              "options": [
+                "Can I pay by card?",
+                "Do you give discounts?",
+                "Is that for sale?",
+                "How much does that cost?"
+              ],
+              "targetLanguage": "Quanto custa?"
+            },
+            {
+              "id": "F7-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: That is too expensive for me",
+              "correctAnswer": "Está muito caro para mim",
+              "targetLanguage": "Está muito caro para mim"
+            },
+            {
+              "id": "F7-L3-E4",
+              "type": "listening",
+              "prompt": "What does the customer say about the price?",
+              "correctAnswer": "It's reasonable",
+              "options": [
+                "They want a discount",
+                "They don't have cash",
+                "It's too expensive",
+                "It's reasonable"
+              ],
+              "targetLanguage": "O preço está bom."
+            },
+            {
+              "id": "F7-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Tem desconto?' means:",
+              "correctAnswer": "Is there a discount?",
+              "options": [
+                "Is this the final price?",
+                "Is there a discount?",
+                "Can I return this?",
+                "Do you accept vouchers?"
+              ],
+              "targetLanguage": "Tem desconto?"
+            },
+            {
+              "id": "F7-L3-E6",
+              "type": "speaking",
+              "prompt": "Negotiate a price in a market",
+              "correctAnswer": "Quanto custa isso? Está um pouco caro — pode dar um desconto?",
+              "targetLanguage": "Quanto custa isso? Está um pouco caro — pode dar um desconto?"
+            }
+          ]
+        },
+        {
+          "id": "F7-L4",
+          "title": "Reclamações",
+          "description": "Reclamações",
+          "exercises": [
+            {
+              "id": "F7-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o defeito|defect",
+                "trocar|to exchange",
+                "devolver|to return",
+                "o recibo|receipt"
+              ]
+            },
+            {
+              "id": "F7-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Quero trocar' means:",
+              "correctAnswer": "I'd like to exchange this",
+              "options": [
+                "I'd like to exchange this",
+                "I need the manager",
+                "I'd like a refund",
+                "I want to complain"
+              ],
+              "targetLanguage": "Quero trocar"
+            },
+            {
+              "id": "F7-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The product is defective",
+              "correctAnswer": "O produto está com defeito",
+              "targetLanguage": "O produto está com defeito"
+            },
+            {
+              "id": "F7-L4-E4",
+              "type": "listening",
+              "prompt": "What problem does the customer have?",
+              "correctAnswer": "The item is broken",
+              "options": [
+                "The item is broken",
+                "Wrong colour",
+                "Item missing",
+                "Wrong size"
+              ],
+              "targetLanguage": "O aparelho não está funcionando."
+            },
+            {
+              "id": "F7-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Você ainda tem o recibo?' means:",
+              "correctAnswer": "Do you still have the receipt?",
+              "options": [
+                "Do you still have the receipt?",
+                "What is the problem?",
+                "Did you buy this here?",
+                "When did you buy this?"
+              ],
+              "targetLanguage": "Você ainda tem o recibo?"
+            },
+            {
+              "id": "F7-L4-E6",
+              "type": "speaking",
+              "prompt": "Return a defective item to a shop",
+              "correctAnswer": "Quero devolver este [produto]. Ele está [defeito].",
+              "targetLanguage": "Quero devolver este [produto]. Ele está [defeito]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "title": "Natureza e meio ambiente",
+      "description": "Nature and the environment",
+      "icon": "leaf.fill",
+      "lessons": [
+        {
+          "id": "F8-L1",
+          "title": "Tempo",
+          "description": "Tempo",
+          "exercises": [
+            {
+              "id": "F8-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "está chovendo|it's raining",
+                "está nevando|it's snowing",
+                "está ensolarado|it's sunny",
+                "está nublado|it's cloudy"
+              ]
+            },
+            {
+              "id": "F8-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'Como está o tempo hoje?' means:",
+              "correctAnswer": "What is the weather like today?",
+              "options": [
+                "Is it cold?",
+                "What's the forecast?",
+                "What is the weather like today?",
+                "Will it rain?"
+              ],
+              "targetLanguage": "Como está o tempo hoje?"
+            },
+            {
+              "id": "F8-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: It is cold and rainy",
+              "correctAnswer": "Está frio e chuvoso",
+              "targetLanguage": "Está frio e chuvoso"
+            },
+            {
+              "id": "F8-L1-E4",
+              "type": "listening",
+              "prompt": "What is the weather like according to the speaker?",
+              "correctAnswer": "Sunny and warm",
+              "options": [
+                "Rainy",
+                "Cold and cloudy",
+                "Sunny and warm",
+                "Snowing"
+              ],
+              "targetLanguage": "Hoje está ensolarado e quente."
+            },
+            {
+              "id": "F8-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'A previsão do tempo diz que vai chover' means:",
+              "correctAnswer": "The forecast predicts rain",
+              "options": [
+                "No rain expected",
+                "It's raining now",
+                "The forecast predicts rain",
+                "Rain is possible"
+              ],
+              "targetLanguage": "A previsão do tempo diz que vai chover"
+            },
+            {
+              "id": "F8-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe today's weather",
+              "correctAnswer": "Hoje está [tempo]. A temperatura é de [graus] graus.",
+              "targetLanguage": "Hoje está [tempo]. A temperatura é de [graus] graus."
+            }
+          ]
+        },
+        {
+          "id": "F8-L2",
+          "title": "Estações do ano",
+          "description": "Estações do ano",
+          "exercises": [
+            {
+              "id": "F8-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a primavera|spring",
+                "o verão|summer",
+                "o outono|autumn",
+                "o inverno|winter"
+              ]
+            },
+            {
+              "id": "F8-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Minha estação favorita é o outono' means:",
+              "correctAnswer": "My favourite season is autumn",
+              "options": [
+                "My favourite season is autumn",
+                "I enjoy spring most",
+                "I like all seasons",
+                "I prefer winter"
+              ],
+              "targetLanguage": "Minha estação favorita é o outono"
+            },
+            {
+              "id": "F8-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: In winter it often rains here",
+              "correctAnswer": "No inverno costuma chover bastante aqui",
+              "targetLanguage": "No inverno costuma chover bastante aqui"
+            },
+            {
+              "id": "F8-L2-E4",
+              "type": "listening",
+              "prompt": "Which season does the speaker prefer?",
+              "correctAnswer": "Summer",
+              "options": [
+                "Summer",
+                "Spring",
+                "Winter",
+                "Autumn"
+              ],
+              "targetLanguage": "Prefiro o verão."
+            },
+            {
+              "id": "F8-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Na primavera as flores desabrocham' means:",
+              "correctAnswer": "In spring the flowers bloom",
+              "options": [
+                "In spring the flowers bloom",
+                "In spring it's warm",
+                "In spring it rains a lot",
+                "In spring there are many festivals"
+              ],
+              "targetLanguage": "Na primavera as flores desabrocham"
+            },
+            {
+              "id": "F8-L2-E6",
+              "type": "speaking",
+              "prompt": "Describe your favourite season and why",
+              "correctAnswer": "Minha estação favorita é [estação] porque [motivo].",
+              "targetLanguage": "Minha estação favorita é [estação] porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "F8-L3",
+          "title": "Meio ambiente",
+          "description": "Meio ambiente",
+          "exercises": [
+            {
+              "id": "F8-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "separar o lixo|to sort waste",
+                "economizar energia|to save energy",
+                "reciclar|to recycle",
+                "a mudança climática|climate change"
+              ]
+            },
+            {
+              "id": "F8-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'Precisamos proteger o meio ambiente' means:",
+              "correctAnswer": "We must protect the environment",
+              "options": [
+                "The environment is clean",
+                "We need more green spaces",
+                "We must protect the environment",
+                "We recycle everything"
+              ],
+              "targetLanguage": "Precisamos proteger o meio ambiente"
+            },
+            {
+              "id": "F8-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I always separate my rubbish",
+              "correctAnswer": "Eu sempre separo o lixo",
+              "targetLanguage": "Eu sempre separo o lixo"
+            },
+            {
+              "id": "F8-L3-E4",
+              "type": "listening",
+              "prompt": "What eco-action does the speaker mention?",
+              "correctAnswer": "Using public transport",
+              "options": [
+                "Solar panels",
+                "Using public transport",
+                "Recycling",
+                "Buying less"
+              ],
+              "targetLanguage": "Uso transporte público para reduzir as emissões."
+            },
+            {
+              "id": "F8-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Energias renováveis' means:",
+              "correctAnswer": "Renewable energies",
+              "options": [
+                "Nuclear energy",
+                "Fossil fuels",
+                "Natural gas",
+                "Renewable energies"
+              ],
+              "targetLanguage": "Energias renováveis"
+            },
+            {
+              "id": "F8-L3-E6",
+              "type": "speaking",
+              "prompt": "Name two things you do to help the environment",
+              "correctAnswer": "Eu [ação 1] e [ação 2] para ajudar o meio ambiente.",
+              "targetLanguage": "Eu [ação 1] e [ação 2] para ajudar o meio ambiente."
+            }
+          ]
+        },
+        {
+          "id": "F8-L4",
+          "title": "Animais e natureza",
+          "description": "Animais e natureza",
+          "exercises": [
+            {
+              "id": "F8-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a floresta|forest",
+                "o lago|lake",
+                "a costa|coast",
+                "a montanha|mountain"
+              ]
+            },
+            {
+              "id": "F8-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'Eu gosto de fazer trilhas' means:",
+              "correctAnswer": "I enjoy hiking",
+              "options": [
+                "I enjoy hiking",
+                "I like camping",
+                "I cycle in nature",
+                "I love nature"
+              ],
+              "targetLanguage": "Eu gosto de fazer trilhas"
+            },
+            {
+              "id": "F8-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The forest is beautiful in autumn",
+              "correctAnswer": "A floresta é linda no outono",
+              "targetLanguage": "A floresta é linda no outono"
+            },
+            {
+              "id": "F8-L4-E4",
+              "type": "listening",
+              "prompt": "What natural landscape does the speaker describe?",
+              "correctAnswer": "Mountains",
+              "options": [
+                "Mountains",
+                "Coast",
+                "Forest",
+                "Lake"
+              ],
+              "targetLanguage": "As montanhas são especialmente bonitas no inverno."
+            },
+            {
+              "id": "F8-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Espécies ameaçadas' means:",
+              "correctAnswer": "Endangered species",
+              "options": [
+                "Endangered species",
+                "Wild animals",
+                "Protected areas",
+                "Native plants"
+              ],
+              "targetLanguage": "Espécies ameaçadas"
+            },
+            {
+              "id": "F8-L4-E6",
+              "type": "speaking",
+              "prompt": "Describe a place in nature you love",
+              "correctAnswer": "Eu adoro [lugar]. É [descrição].",
+              "targetLanguage": "Eu adoro [lugar]. É [descrição]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "title": "Sociedade e cultura",
+      "description": "Society and culture",
+      "icon": "globe.americas.fill",
+      "lessons": [
+        {
+          "id": "E1-L1",
+          "title": "Tradições",
+          "description": "Tradições",
+          "exercises": [
+            {
+              "id": "E1-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o Carnaval|Carnival",
+                "a Festa Junina|June festival",
+                "o Natal|Christmas",
+                "a Páscoa|Easter"
+              ]
+            },
+            {
+              "id": "E1-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'O Carnaval acontece todos os anos em fevereiro ou março' means:",
+              "correctAnswer": "Carnival takes place every year in February or March",
+              "options": [
+                "Carnival takes place every year in February or March",
+                "Carnival is a national holiday",
+                "Carnival is only in Rio",
+                "Carnival was created recently"
+              ],
+              "targetLanguage": "O Carnaval acontece todos os anos em fevereiro ou março"
+            },
+            {
+              "id": "E1-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: The Festa Junina is a traditional celebration in the Brazilian northeast",
+              "correctAnswer": "A Festa Junina é uma celebração tradicional no nordeste brasileiro",
+              "targetLanguage": "A Festa Junina é uma celebração tradicional no nordeste brasileiro"
+            },
+            {
+              "id": "E1-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: Many families get together for Christmas dinner",
+              "correctAnswer": "Muitas famílias se reúnem para o jantar de Natal",
+              "targetLanguage": "Muitas famílias se reúnem para o jantar de Natal"
+            },
+            {
+              "id": "E1-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Traditions vary greatly from region to region",
+              "correctAnswer": "As tradições variam muito de região para região",
+              "targetLanguage": "As tradições variam muito de região para região"
+            },
+            {
+              "id": "E1-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "'Costumes' means:",
+              "correctAnswer": "Customs / traditions",
+              "options": [
+                "Customs / traditions",
+                "Regions",
+                "Festivities",
+                "Laws"
+              ],
+              "targetLanguage": "Costumes"
+            },
+            {
+              "id": "E1-L1-E7",
+              "type": "listening",
+              "prompt": "What Brazilian tradition does the speaker describe?",
+              "correctAnswer": "Samba at Carnival",
+              "options": [
+                "Festa Junina",
+                "Christmas dinner",
+                "Easter eggs",
+                "Samba at Carnival"
+              ],
+              "targetLanguage": "No Carnaval as pessoas dançam samba nas ruas."
+            },
+            {
+              "id": "E1-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe a tradition from your own country",
+              "correctAnswer": "No meu país celebramos [festa]. Nós [tradição].",
+              "targetLanguage": "No meu país celebramos [festa]. Nós [tradição]."
+            }
+          ]
+        },
+        {
+          "id": "E1-L2",
+          "title": "Temas sociais",
+          "description": "Temas sociais",
+          "exercises": [
+            {
+              "id": "E1-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a igualdade|equality",
+                "a diversidade|diversity",
+                "a integração|integration",
+                "a sustentabilidade|sustainability"
+              ]
+            },
+            {
+              "id": "E1-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: Equality between men and women is an important social goal",
+              "correctAnswer": "A igualdade entre homens e mulheres é um objetivo social importante",
+              "targetLanguage": "A igualdade entre homens e mulheres é um objetivo social importante"
+            },
+            {
+              "id": "E1-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Diversity in the workplace leads to more creativity",
+              "correctAnswer": "A diversidade no local de trabalho leva a mais criatividade",
+              "targetLanguage": "A diversidade no local de trabalho leva a mais criatividade"
+            },
+            {
+              "id": "E1-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Social cohesion is important for a functioning society",
+              "correctAnswer": "A coesão social é importante para uma sociedade que funciona",
+              "targetLanguage": "A coesão social é importante para uma sociedade que funciona"
+            },
+            {
+              "id": "E1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Voluntariado' means:",
+              "correctAnswer": "Volunteer work",
+              "options": [
+                "Paid charity work",
+                "Volunteer work",
+                "Government work",
+                "Religious service"
+              ],
+              "targetLanguage": "Voluntariado"
+            },
+            {
+              "id": "E1-L2-E6",
+              "type": "listening",
+              "prompt": "What social topic does the speaker discuss?",
+              "correctAnswer": "Integration of migrants",
+              "options": [
+                "Integration of migrants",
+                "Environmental policy",
+                "Gender equality",
+                "Education reform"
+              ],
+              "targetLanguage": "A integração de migrantes é uma tarefa social importante."
+            },
+            {
+              "id": "E1-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Sem fins lucrativos' means:",
+              "correctAnswer": "Non-profit",
+              "options": [
+                "State-funded",
+                "Non-profit",
+                "International",
+                "Private"
+              ],
+              "targetLanguage": "Sem fins lucrativos"
+            },
+            {
+              "id": "E1-L2-E8",
+              "type": "speaking",
+              "prompt": "Share your view on a social topic",
+              "correctAnswer": "Eu acho que [tema] é importante porque [motivo].",
+              "targetLanguage": "Eu acho que [tema] é importante porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "E1-L3",
+          "title": "Mídia e comunicação",
+          "description": "Mídia e comunicação",
+          "exercises": [
+            {
+              "id": "E1-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "as notícias|news",
+                "o podcast|podcast",
+                "as redes sociais|social networks",
+                "o jornal|newspaper"
+              ]
+            },
+            {
+              "id": "E1-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Social media has a great influence on public opinion",
+              "correctAnswer": "As redes sociais têm uma grande influência na opinião pública",
+              "targetLanguage": "As redes sociais têm uma grande influência na opinião pública"
+            },
+            {
+              "id": "E1-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: It is important to check the reliability of sources",
+              "correctAnswer": "É importante verificar a confiabilidade das fontes",
+              "targetLanguage": "É importante verificar a confiabilidade das fontes"
+            },
+            {
+              "id": "E1-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I read the news online every morning",
+              "correctAnswer": "Eu leio as notícias online toda manhã",
+              "targetLanguage": "Eu leio as notícias online toda manhã"
+            },
+            {
+              "id": "E1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Fake news' describes:",
+              "correctAnswer": "False or misleading information presented as news",
+              "options": [
+                "Paid advertising content",
+                "Opinion pieces",
+                "False or misleading information presented as news",
+                "Sensational but true stories"
+              ],
+              "targetLanguage": "Fake news"
+            },
+            {
+              "id": "E1-L3-E6",
+              "type": "listening",
+              "prompt": "What does the speaker say about their media habits?",
+              "correctAnswer": "They use several sources to inform themselves",
+              "options": [
+                "They only trust TV",
+                "They avoid the news",
+                "They use several sources to inform themselves",
+                "They only read newspapers"
+              ],
+              "targetLanguage": "Me informo por várias fontes para ter uma visão equilibrada."
+            },
+            {
+              "id": "E1-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'Liberdade de imprensa' means:",
+              "correctAnswer": "Freedom of the press",
+              "options": [
+                "State broadcasting",
+                "Freedom of the press",
+                "Journalism ethics",
+                "Media regulation"
+              ],
+              "targetLanguage": "Liberdade de imprensa"
+            },
+            {
+              "id": "E1-L3-E8",
+              "type": "speaking",
+              "prompt": "Describe how you stay informed",
+              "correctAnswer": "Me informo por [fonte] porque [motivo].",
+              "targetLanguage": "Me informo por [fonte] porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "E1-L4",
+          "title": "História e identidade",
+          "description": "História e identidade",
+          "exercises": [
+            {
+              "id": "E1-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o passado|the past",
+                "o presente|the present",
+                "o futuro|the future",
+                "o legado|legacy"
+              ]
+            },
+            {
+              "id": "E1-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Brazil's colonial history has shaped modern society in many ways",
+              "correctAnswer": "A história colonial do Brasil moldou a sociedade moderna de várias formas",
+              "targetLanguage": "A história colonial do Brasil moldou a sociedade moderna de várias formas"
+            },
+            {
+              "id": "E1-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Confronting the past is an important part of building national identity",
+              "correctAnswer": "Enfrentar o passado é uma parte importante de construir a identidade nacional",
+              "targetLanguage": "Enfrentar o passado é uma parte importante de construir a identidade nacional"
+            },
+            {
+              "id": "E1-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The abolition of slavery in 1888 was a landmark moment in Brazilian history",
+              "correctAnswer": "A abolição da escravatura em 1888 foi um momento marcante na história brasileira",
+              "targetLanguage": "A abolição da escravatura em 1888 foi um momento marcante na história brasileira"
+            },
+            {
+              "id": "E1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Independência' means:",
+              "correctAnswer": "Independence",
+              "options": [
+                "Revolution",
+                "Independence",
+                "Liberation movement",
+                "Colony"
+              ],
+              "targetLanguage": "Independência"
+            },
+            {
+              "id": "E1-L4-E6",
+              "type": "listening",
+              "prompt": "What historical event does the speaker mention?",
+              "correctAnswer": "Brazilian independence in 1822",
+              "options": [
+                "End of slavery",
+                "Brazilian independence in 1822",
+                "Proclamation of the Republic",
+                "Military dictatorship"
+              ],
+              "targetLanguage": "O Brasil proclamou sua independência em 1822."
+            },
+            {
+              "id": "E1-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'Memória histórica' means:",
+              "correctAnswer": "Historical memory",
+              "options": [
+                "Historical memory",
+                "War memorials",
+                "History lessons",
+                "Political tradition"
+              ],
+              "targetLanguage": "Memória histórica"
+            },
+            {
+              "id": "E1-L4-E8",
+              "type": "speaking",
+              "prompt": "Talk about a historical event that shaped your country",
+              "correctAnswer": "[Evento] influenciou muito o meu país porque [motivo].",
+              "targetLanguage": "[Evento] influenciou muito o meu país porque [motivo]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2",
+      "title": "Economia e finanças",
+      "description": "Economy and finances",
+      "icon": "chart.bar.fill",
+      "lessons": [
+        {
+          "id": "E2-L1",
+          "title": "Finanças pessoais",
+          "description": "Finanças pessoais",
+          "exercises": [
+            {
+              "id": "E2-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o salário|salary",
+                "as despesas|expenses",
+                "poupar|to save",
+                "o empréstimo|loan"
+              ]
+            },
+            {
+              "id": "E2-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: I try to save at least ten percent of my salary each month",
+              "correctAnswer": "Tento poupar pelo menos dez por cento do meu salário por mês",
+              "targetLanguage": "Tento poupar pelo menos dez por cento do meu salário por mês"
+            },
+            {
+              "id": "E2-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: My monthly expenses are higher than expected",
+              "correctAnswer": "Minhas despesas mensais estão mais altas do que o esperado",
+              "targetLanguage": "Minhas despesas mensais estão mais altas do que o esperado"
+            },
+            {
+              "id": "E2-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I have to pay back a loan",
+              "correctAnswer": "Preciso pagar um empréstimo",
+              "targetLanguage": "Preciso pagar um empréstimo"
+            },
+            {
+              "id": "E2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Fazer um orçamento' means:",
+              "correctAnswer": "To make a budget",
+              "options": [
+                "To apply for a loan",
+                "To open a bank account",
+                "To do your taxes",
+                "To make a budget"
+              ],
+              "targetLanguage": "Fazer um orçamento"
+            },
+            {
+              "id": "E2-L1-E6",
+              "type": "listening",
+              "prompt": "What financial goal does the speaker mention?",
+              "correctAnswer": "Saving for a house",
+              "options": [
+                "Saving for a house",
+                "Investing in stocks",
+                "Starting a business",
+                "Paying off debt"
+              ],
+              "targetLanguage": "Estou poupando para comprar um imóvel."
+            },
+            {
+              "id": "E2-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'Juros' means:",
+              "correctAnswer": "Interest (on loans or savings)",
+              "options": [
+                "Dividends",
+                "Taxes",
+                "Interest (on loans or savings)",
+                "Fees"
+              ],
+              "targetLanguage": "Juros"
+            },
+            {
+              "id": "E2-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe your approach to personal finances",
+              "correctAnswer": "Tento [meta financeira]. Para isso [ação].",
+              "targetLanguage": "Tento [meta financeira]. Para isso [ação]."
+            }
+          ]
+        },
+        {
+          "id": "E2-L2",
+          "title": "A economia brasileira",
+          "description": "A economia brasileira",
+          "exercises": [
+            {
+              "id": "E2-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "as exportações|exports",
+                "o agronegócio|agribusiness",
+                "o desemprego|unemployment",
+                "o PIB|GDP"
+              ]
+            },
+            {
+              "id": "E2-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: Brazil is one of the largest agricultural exporters in the world",
+              "correctAnswer": "O Brasil é um dos maiores exportadores agrícolas do mundo",
+              "targetLanguage": "O Brasil é um dos maiores exportadores agrícolas do mundo"
+            },
+            {
+              "id": "E2-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: The service sector now accounts for more than half of Brazilian GDP",
+              "correctAnswer": "O setor de serviços representa agora mais da metade do PIB brasileiro",
+              "targetLanguage": "O setor de serviços representa agora mais da metade do PIB brasileiro"
+            },
+            {
+              "id": "E2-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The unemployment rate has fallen in recent years",
+              "correctAnswer": "A taxa de desemprego caiu nos últimos anos",
+              "targetLanguage": "A taxa de desemprego caiu nos últimos anos"
+            },
+            {
+              "id": "E2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Inflação' means:",
+              "correctAnswer": "Inflation",
+              "options": [
+                "Trade balance",
+                "Government spending",
+                "Inflation",
+                "Tax policy"
+              ],
+              "targetLanguage": "Inflação"
+            },
+            {
+              "id": "E2-L2-E6",
+              "type": "listening",
+              "prompt": "What economic challenge does the speaker describe?",
+              "correctAnswer": "Income inequality",
+              "options": [
+                "High inflation",
+                "Trade deficit",
+                "Low growth rate",
+                "Income inequality"
+              ],
+              "targetLanguage": "A desigualdade de renda ainda é um grande desafio no Brasil."
+            },
+            {
+              "id": "E2-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Balança comercial' means:",
+              "correctAnswer": "Trade balance",
+              "options": [
+                "Trade balance",
+                "Import tariff",
+                "Trade agreement",
+                "Trade deficit"
+              ],
+              "targetLanguage": "Balança comercial"
+            },
+            {
+              "id": "E2-L2-E8",
+              "type": "speaking",
+              "prompt": "Comment on an economic topic in Brazil or your country",
+              "correctAnswer": "[País] tem uma economia [descrição]. Um desafio é [tema].",
+              "targetLanguage": "[País] tem uma economia [descrição]. Um desafio é [tema]."
+            }
+          ]
+        },
+        {
+          "id": "E2-L3",
+          "title": "Empreendedorismo",
+          "description": "Empreendedorismo",
+          "exercises": [
+            {
+              "id": "E2-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "fundar|to found / start",
+                "a startup|startup",
+                "o investidor|investor",
+                "a margem de lucro|profit margin"
+              ]
+            },
+            {
+              "id": "E2-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Starting a business requires a solid business plan and sufficient capital",
+              "correctAnswer": "Abrir um negócio requer um plano de negócios sólido e capital suficiente",
+              "targetLanguage": "Abrir um negócio requer um plano de negócios sólido e capital suficiente"
+            },
+            {
+              "id": "E2-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Many startups fail in the first three years due to cash flow problems",
+              "correctAnswer": "Muitas startups fecham nos primeiros três anos por problemas de fluxo de caixa",
+              "targetLanguage": "Muitas startups fecham nos primeiros três anos por problemas de fluxo de caixa"
+            },
+            {
+              "id": "E2-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: We are looking for investors for our project",
+              "correctAnswer": "Estamos procurando investidores para o nosso projeto",
+              "targetLanguage": "Estamos procurando investidores para o nosso projeto"
+            },
+            {
+              "id": "E2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "A business plan typically includes:",
+              "correctAnswer": "Goals, market analysis, financial projections",
+              "options": [
+                "Goals, market analysis, financial projections",
+                "Company history",
+                "Only financial data",
+                "Product description only"
+              ],
+              "targetLanguage": "Goals, market analysis, financial projections"
+            },
+            {
+              "id": "E2-L3-E6",
+              "type": "listening",
+              "prompt": "What challenge does the entrepreneur describe?",
+              "correctAnswer": "Finding the right team",
+              "options": [
+                "Legal issues",
+                "Financing",
+                "Finding the right team",
+                "Marketing"
+              ],
+              "targetLanguage": "O maior desafio foi montar a equipe certa."
+            },
+            {
+              "id": "E2-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'Escalável' means:",
+              "correctAnswer": "Scalable",
+              "options": [
+                "Sustainable",
+                "Innovative",
+                "Scalable",
+                "Profitable"
+              ],
+              "targetLanguage": "Escalável"
+            },
+            {
+              "id": "E2-L3-E8",
+              "type": "speaking",
+              "prompt": "Describe a business idea",
+              "correctAnswer": "Minha ideia de negócio é [ideia]. O público-alvo é [grupo].",
+              "targetLanguage": "Minha ideia de negócio é [ideia]. O público-alvo é [grupo]."
+            }
+          ]
+        },
+        {
+          "id": "E2-L4",
+          "title": "Globalização",
+          "description": "Globalização",
+          "exercises": [
+            {
+              "id": "E2-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a cadeia de fornecimento|supply chain",
+                "o livre comércio|free trade",
+                "o protecionismo|protectionism",
+                "terceirizar|to outsource"
+              ]
+            },
+            {
+              "id": "E2-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Globalisation has both advantages and disadvantages for workers",
+              "correctAnswer": "A globalização tem vantagens e desvantagens para os trabalhadores",
+              "targetLanguage": "A globalização tem vantagens e desvantagens para os trabalhadores"
+            },
+            {
+              "id": "E2-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Many companies outsource production to countries with lower labour costs",
+              "correctAnswer": "Muitas empresas terceirizam a produção para países com menores custos trabalhistas",
+              "targetLanguage": "Muitas empresas terceirizam a produção para países com menores custos trabalhistas"
+            },
+            {
+              "id": "E2-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Free trade promotes economic growth",
+              "correctAnswer": "O livre comércio promove o crescimento econômico",
+              "targetLanguage": "O livre comércio promove o crescimento econômico"
+            },
+            {
+              "id": "E2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Barreiras comerciais' means:",
+              "correctAnswer": "Trade barriers",
+              "options": [
+                "Trade barriers",
+                "Export subsidies",
+                "Trade deals",
+                "Tariff reductions"
+              ],
+              "targetLanguage": "Barreiras comerciais"
+            },
+            {
+              "id": "E2-L4-E6",
+              "type": "listening",
+              "prompt": "What argument does the speaker make about globalisation?",
+              "correctAnswer": "It increases inequality within countries",
+              "options": [
+                "It always benefits workers",
+                "It reduces global poverty",
+                "It increases inequality within countries",
+                "It makes supply chains more resilient"
+              ],
+              "targetLanguage": "A globalização frequentemente aumenta a desigualdade dentro dos países."
+            },
+            {
+              "id": "E2-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'Cadeia de valor' means:",
+              "correctAnswer": "Value chain",
+              "options": [
+                "Value chain",
+                "Market segment",
+                "Production line",
+                "Trade route"
+              ],
+              "targetLanguage": "Cadeia de valor"
+            },
+            {
+              "id": "E2-L4-E8",
+              "type": "speaking",
+              "prompt": "Give your view on globalisation",
+              "correctAnswer": "Acho que a globalização [impacto positivo/negativo] porque [motivo].",
+              "targetLanguage": "Acho que a globalização [impacto positivo/negativo] porque [motivo]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E3",
+      "title": "Educação e ciência",
+      "description": "Education and science",
+      "icon": "graduationcap.fill",
+      "lessons": [
+        {
+          "id": "E3-L1",
+          "title": "O sistema educacional",
+          "description": "O sistema educacional",
+          "exercises": [
+            {
+              "id": "E3-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a escola primária|primary school",
+                "o ensino médio|secondary school",
+                "a universidade|university",
+                "o mestrado|master's degree"
+              ]
+            },
+            {
+              "id": "E3-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: The Brazilian education system faces challenges of quality and access",
+              "correctAnswer": "O sistema educacional brasileiro enfrenta desafios de qualidade e acesso",
+              "targetLanguage": "O sistema educacional brasileiro enfrenta desafios de qualidade e acesso"
+            },
+            {
+              "id": "E3-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: After finishing high school students can take the ENEM to enter university",
+              "correctAnswer": "Após concluir o ensino médio os alunos podem fazer o ENEM para entrar na universidade",
+              "targetLanguage": "Após concluir o ensino médio os alunos podem fazer o ENEM para entrar na universidade"
+            },
+            {
+              "id": "E3-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Education is the foundation of equal opportunities",
+              "correctAnswer": "A educação é a base da igualdade de oportunidades",
+              "targetLanguage": "A educação é a base da igualdade de oportunidades"
+            },
+            {
+              "id": "E3-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'ENEM' is:",
+              "correctAnswer": "A national exam used for university admission in Brazil",
+              "options": [
+                "A university entrance test only for public universities",
+                "A literacy test",
+                "A national exam used for university admission in Brazil",
+                "A school qualification"
+              ],
+              "targetLanguage": "A national exam used for university admission in Brazil"
+            },
+            {
+              "id": "E3-L1-E6",
+              "type": "listening",
+              "prompt": "What does the speaker say about their educational path?",
+              "correctAnswer": "They studied at a federal university",
+              "options": [
+                "They studied at a federal university",
+                "They dropped out",
+                "They studied abroad",
+                "They did a technical course"
+              ],
+              "targetLanguage": "Eu me formei em uma universidade federal."
+            },
+            {
+              "id": "E3-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'Bolsa de estudos' means:",
+              "correctAnswer": "Scholarship",
+              "options": [
+                "Academic grade",
+                "Student loan",
+                "Scholarship",
+                "Tuition fee"
+              ],
+              "targetLanguage": "Bolsa de estudos"
+            },
+            {
+              "id": "E3-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe your educational background",
+              "correctAnswer": "Eu estudei [escola/universidade] e fiz [curso/área].",
+              "targetLanguage": "Eu estudei [escola/universidade] e fiz [curso/área]."
+            }
+          ]
+        },
+        {
+          "id": "E3-L2",
+          "title": "Descobertas científicas",
+          "description": "Descobertas científicas",
+          "exercises": [
+            {
+              "id": "E3-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a hipótese|hypothesis",
+                "o experimento|experiment",
+                "a descoberta|finding / discovery",
+                "comprovar|to prove / to confirm"
+              ]
+            },
+            {
+              "id": "E3-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: The researchers tested their hypothesis with a controlled experiment",
+              "correctAnswer": "Os pesquisadores testaram sua hipótese com um experimento controlado",
+              "targetLanguage": "Os pesquisadores testaram sua hipótese com um experimento controlado"
+            },
+            {
+              "id": "E3-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: The study shows that regular exercise improves cognitive performance",
+              "correctAnswer": "O estudo mostra que a prática regular de exercício melhora o desempenho cognitivo",
+              "targetLanguage": "O estudo mostra que a prática regular de exercício melhora o desempenho cognitivo"
+            },
+            {
+              "id": "E3-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Scientists are still investigating the causes of this phenomenon",
+              "correctAnswer": "Cientistas ainda estão investigando as causas desse fenômeno",
+              "targetLanguage": "Cientistas ainda estão investigando as causas desse fenômeno"
+            },
+            {
+              "id": "E3-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Revisão por pares' ensures:",
+              "correctAnswer": "That research is reviewed by independent experts before publication",
+              "options": [
+                "That only popular topics are published",
+                "That studies are fully funded",
+                "That data is publicly available",
+                "That research is reviewed by independent experts before publication"
+              ],
+              "targetLanguage": "That research is reviewed by independent experts before publication"
+            },
+            {
+              "id": "E3-L2-E6",
+              "type": "listening",
+              "prompt": "What does the researcher conclude?",
+              "correctAnswer": "More data is needed before drawing firm conclusions",
+              "options": [
+                "The results are definitive",
+                "The study should be repeated",
+                "More data is needed before drawing firm conclusions",
+                "The experiment was successful"
+              ],
+              "targetLanguage": "Os resultados são promissores, mas mais pesquisa é necessária."
+            },
+            {
+              "id": "E3-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Replicação' in science means:",
+              "correctAnswer": "Repeating an experiment to verify results",
+              "options": [
+                "Publishing the same findings twice",
+                "Adjusting methodology",
+                "Repeating an experiment to verify results",
+                "Copying another study"
+              ],
+              "targetLanguage": "Repeating an experiment to verify results"
+            },
+            {
+              "id": "E3-L2-E8",
+              "type": "speaking",
+              "prompt": "Describe a scientific finding that interested you",
+              "correctAnswer": "Eu achei [descoberta] interessante porque [motivo].",
+              "targetLanguage": "Eu achei [descoberta] interessante porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "E3-L3",
+          "title": "Digitalização",
+          "description": "Digitalização",
+          "exercises": [
+            {
+              "id": "E3-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "inteligência artificial|artificial intelligence",
+                "o algoritmo|algorithm",
+                "a segurança de dados|data security",
+                "automatizar|to automate"
+              ]
+            },
+            {
+              "id": "E3-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Artificial intelligence is increasingly used in medicine and research",
+              "correctAnswer": "A inteligência artificial é cada vez mais usada na medicina e na pesquisa",
+              "targetLanguage": "A inteligência artificial é cada vez mais usada na medicina e na pesquisa"
+            },
+            {
+              "id": "E3-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Automation creates new jobs but also makes others redundant",
+              "correctAnswer": "A automação cria novos empregos mas também torna outros obsoletos",
+              "targetLanguage": "A automação cria novos empregos mas também torna outros obsoletos"
+            },
+            {
+              "id": "E3-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Data protection is a fundamental right",
+              "correctAnswer": "A proteção de dados é um direito fundamental",
+              "targetLanguage": "A proteção de dados é um direito fundamental"
+            },
+            {
+              "id": "E3-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Big Data' refers to:",
+              "correctAnswer": "Very large datasets analysed to reveal patterns and trends",
+              "options": [
+                "Government data collection",
+                "Secure cloud storage",
+                "Very large datasets analysed to reveal patterns and trends",
+                "A single large database"
+              ],
+              "targetLanguage": "Very large datasets analysed to reveal patterns and trends"
+            },
+            {
+              "id": "E3-L3-E6",
+              "type": "listening",
+              "prompt": "What concern does the speaker raise about AI?",
+              "correctAnswer": "Bias in algorithms disadvantaging certain groups",
+              "options": [
+                "AI is too slow",
+                "Bias in algorithms disadvantaging certain groups",
+                "AI cannot replace humans",
+                "AI is not yet reliable"
+              ],
+              "targetLanguage": "Preconceitos algorítmicos podem prejudicar grupos específicos."
+            },
+            {
+              "id": "E3-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'LGPD' in Brazil is:",
+              "correctAnswer": "The General Data Protection Law (Lei Geral de Proteção de Dados)",
+              "options": [
+                "An e-commerce standard",
+                "A digital tax",
+                "A cybersecurity protocol",
+                "The General Data Protection Law (Lei Geral de Proteção de Dados)"
+              ],
+              "targetLanguage": "The General Data Protection Law"
+            },
+            {
+              "id": "E3-L3-E8",
+              "type": "speaking",
+              "prompt": "Share your view on digitalisation and its impact on society",
+              "correctAnswer": "Acho que a digitalização [impacto] porque [motivo].",
+              "targetLanguage": "Acho que a digitalização [impacto] porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "E3-L4",
+          "title": "Pesquisa e inovação",
+          "description": "Pesquisa e inovação",
+          "exercises": [
+            {
+              "id": "E3-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a pesquisa básica|fundamental research",
+                "a pesquisa aplicada|applied research",
+                "a patente|patent",
+                "a inovação|innovation"
+              ]
+            },
+            {
+              "id": "E3-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Brazil invests in research and development in key sectors",
+              "correctAnswer": "O Brasil investe em pesquisa e desenvolvimento em setores estratégicos",
+              "targetLanguage": "O Brasil investe em pesquisa e desenvolvimento em setores estratégicos"
+            },
+            {
+              "id": "E3-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Without basic research many applied technologies would not exist",
+              "correctAnswer": "Sem pesquisa básica muitas tecnologias aplicadas não existiriam",
+              "targetLanguage": "Sem pesquisa básica muitas tecnologias aplicadas não existiriam"
+            },
+            {
+              "id": "E3-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The company has applied for a patent for its invention",
+              "correctAnswer": "A empresa solicitou uma patente para sua invenção",
+              "targetLanguage": "A empresa solicitou uma patente para sua invenção"
+            },
+            {
+              "id": "E3-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Spin-off' in a research context means:",
+              "correctAnswer": "A company created from a university or research institution",
+              "options": [
+                "A company created from a university or research institution",
+                "A government grant",
+                "A research collaboration",
+                "A branch office"
+              ],
+              "targetLanguage": "A company created from a university or research institution"
+            },
+            {
+              "id": "E3-L4-E6",
+              "type": "listening",
+              "prompt": "What innovation does the speaker describe?",
+              "correctAnswer": "A new battery technology for electric vehicles",
+              "options": [
+                "Software for education",
+                "A new battery technology for electric vehicles",
+                "A medical device",
+                "A renewable energy source"
+              ],
+              "targetLanguage": "Desenvolvemos uma nova tecnologia de bateria para veículos elétricos."
+            },
+            {
+              "id": "E3-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'Fomento à pesquisa' means:",
+              "correctAnswer": "Research funding",
+              "options": [
+                "Research ethics",
+                "Research results",
+                "Research funding",
+                "Research institute"
+              ],
+              "targetLanguage": "Fomento à pesquisa"
+            },
+            {
+              "id": "E3-L4-E8",
+              "type": "speaking",
+              "prompt": "Describe an innovation that has changed everyday life",
+              "correctAnswer": "[Inovação] mudou nossa vida porque [impacto].",
+              "targetLanguage": "[Inovação] mudou nossa vida porque [impacto]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E4",
+      "title": "Política e direito",
+      "description": "Politics and law",
+      "icon": "building.columns.fill",
+      "lessons": [
+        {
+          "id": "E4-L1",
+          "title": "O sistema político",
+          "description": "O sistema político",
+          "exercises": [
+            {
+              "id": "E4-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a Câmara dos Deputados|Chamber of Deputies",
+                "o Senado|Senate",
+                "o governo federal|Federal Government",
+                "a Constituição|Constitution"
+              ]
+            },
+            {
+              "id": "E4-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: Brazil is a federal republic with three branches of government",
+              "correctAnswer": "O Brasil é uma república federal com três poderes",
+              "targetLanguage": "O Brasil é uma república federal com três poderes"
+            },
+            {
+              "id": "E4-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: Every Brazilian citizen has the right to vote from the age of sixteen",
+              "correctAnswer": "Todo cidadão brasileiro tem o direito de votar a partir dos dezesseis anos",
+              "targetLanguage": "Todo cidadão brasileiro tem o direito de votar a partir dos dezesseis anos"
+            },
+            {
+              "id": "E4-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The President is the head of state and government",
+              "correctAnswer": "O Presidente é o chefe de Estado e de governo",
+              "targetLanguage": "O Presidente é o chefe de Estado e de governo"
+            },
+            {
+              "id": "E4-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Coalizão' means:",
+              "correctAnswer": "Coalition",
+              "options": [
+                "An election",
+                "Coalition",
+                "A manifesto",
+                "A party"
+              ],
+              "targetLanguage": "Coalizão"
+            },
+            {
+              "id": "E4-L1-E6",
+              "type": "listening",
+              "prompt": "What does the speaker say about Brazilian elections?",
+              "correctAnswer": "Voting is compulsory for citizens aged 18-70",
+              "options": [
+                "The president appoints parliament",
+                "There is a two-party system",
+                "Only proportional representation is used",
+                "Voting is compulsory for citizens aged 18-70"
+              ],
+              "targetLanguage": "No Brasil o voto é obrigatório para cidadãos entre 18 e 70 anos."
+            },
+            {
+              "id": "E4-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'Separação dos poderes' means:",
+              "correctAnswer": "Separation of powers",
+              "options": [
+                "Parliamentary immunity",
+                "Rule of law",
+                "Separation of powers",
+                "Freedom of speech"
+              ],
+              "targetLanguage": "Separação dos poderes"
+            },
+            {
+              "id": "E4-L1-E8",
+              "type": "speaking",
+              "prompt": "Compare the political system of your country with Brazil's",
+              "correctAnswer": "No meu país [descrição]. No Brasil [diferença/semelhança].",
+              "targetLanguage": "No meu país [descrição]. No Brasil [diferença/semelhança]."
+            }
+          ]
+        },
+        {
+          "id": "E4-L2",
+          "title": "Leis e direitos",
+          "description": "Leis e direitos",
+          "exercises": [
+            {
+              "id": "E4-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o direito fundamental|fundamental right",
+                "a liberdade de expressão|freedom of speech",
+                "o Estado de Direito|rule of law",
+                "processar|to sue / to take legal action"
+              ]
+            },
+            {
+              "id": "E4-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: In a democratic state everyone is equal before the law",
+              "correctAnswer": "Em um Estado democrático todos são iguais perante a lei",
+              "targetLanguage": "Em um Estado democrático todos são iguais perante a lei"
+            },
+            {
+              "id": "E4-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Freedom of expression includes the right to criticise the government",
+              "correctAnswer": "A liberdade de expressão inclui o direito de criticar o governo",
+              "targetLanguage": "A liberdade de expressão inclui o direito de criticar o governo"
+            },
+            {
+              "id": "E4-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The court ruled in favour of the plaintiff",
+              "correctAnswer": "O tribunal decidiu a favor do autor",
+              "targetLanguage": "O tribunal decidiu a favor do autor"
+            },
+            {
+              "id": "E4-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Advogado' means:",
+              "correctAnswer": "Lawyer / solicitor",
+              "options": [
+                "Notary",
+                "Prosecutor",
+                "Lawyer / solicitor",
+                "Judge"
+              ],
+              "targetLanguage": "Advogado"
+            },
+            {
+              "id": "E4-L2-E6",
+              "type": "listening",
+              "prompt": "What legal issue does the speaker raise?",
+              "correctAnswer": "Right to privacy versus security",
+              "options": [
+                "Consumer protection",
+                "Freedom of the press",
+                "Workers' rights",
+                "Right to privacy versus security"
+              ],
+              "targetLanguage": "Há uma tensão entre o direito à privacidade e a segurança pública."
+            },
+            {
+              "id": "E4-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Ação civil' means:",
+              "correctAnswer": "Civil lawsuit",
+              "options": [
+                "Administrative hearing",
+                "Civil lawsuit",
+                "Constitutional complaint",
+                "Criminal case"
+              ],
+              "targetLanguage": "Ação civil"
+            },
+            {
+              "id": "E4-L2-E8",
+              "type": "speaking",
+              "prompt": "Discuss a law you think is important and why",
+              "correctAnswer": "Acho que a lei sobre [tema] é importante porque [motivo].",
+              "targetLanguage": "Acho que a lei sobre [tema] é importante porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "E4-L3",
+          "title": "Política internacional",
+          "description": "Política internacional",
+          "exercises": [
+            {
+              "id": "E4-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a diplomacia|diplomacy",
+                "o multilateralismo|multilateralism",
+                "as sanções|sanctions",
+                "o direito internacional|international law"
+              ]
+            },
+            {
+              "id": "E4-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Diplomacy is the preferred means of resolving international conflicts",
+              "correctAnswer": "A diplomacia é o meio preferido para resolver conflitos internacionais",
+              "targetLanguage": "A diplomacia é o meio preferido para resolver conflitos internacionais"
+            },
+            {
+              "id": "E4-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: International law sets binding norms for the behaviour of states",
+              "correctAnswer": "O direito internacional estabelece normas vinculativas para o comportamento dos Estados",
+              "targetLanguage": "O direito internacional estabelece normas vinculativas para o comportamento dos Estados"
+            },
+            {
+              "id": "E4-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Economic sanctions can put pressure on authoritarian regimes",
+              "correctAnswer": "Sanções econômicas podem exercer pressão sobre regimes autoritários",
+              "targetLanguage": "Sanções econômicas podem exercer pressão sobre regimes autoritários"
+            },
+            {
+              "id": "E4-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Direito de veto' in the UN Security Council means:",
+              "correctAnswer": "The right of permanent members to block resolutions",
+              "options": [
+                "The right to withdraw from the UN",
+                "The right to abstain from voting",
+                "The right to propose resolutions",
+                "The right of permanent members to block resolutions"
+              ],
+              "targetLanguage": "The right of permanent members to block resolutions"
+            },
+            {
+              "id": "E4-L3-E6",
+              "type": "listening",
+              "prompt": "What global challenge does the speaker address?",
+              "correctAnswer": "Climate change requires binding international agreements",
+              "options": [
+                "Climate change requires binding international agreements",
+                "Nuclear disarmament",
+                "Migration policy",
+                "Trade disputes"
+              ],
+              "targetLanguage": "A mudança climática exige acordos internacionais vinculantes."
+            },
+            {
+              "id": "E4-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'Soberania' means:",
+              "correctAnswer": "Sovereignty",
+              "options": [
+                "Territory",
+                "Sovereignty",
+                "Citizenship",
+                "Nationality"
+              ],
+              "targetLanguage": "Soberania"
+            },
+            {
+              "id": "E4-L3-E8",
+              "type": "speaking",
+              "prompt": "Give your view on an international political issue",
+              "correctAnswer": "Acho que [problema] só pode ser resolvido com cooperação internacional porque [motivo].",
+              "targetLanguage": "Acho que [problema] só pode ser resolvido com cooperação internacional porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "E4-L4",
+          "title": "MERCOSUL e integração regional",
+          "description": "MERCOSUL e integração regional",
+          "exercises": [
+            {
+              "id": "E4-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o mercado comum|common market",
+                "a livre circulação|freedom of movement",
+                "a união aduaneira|customs union",
+                "a integração regional|regional integration"
+              ]
+            },
+            {
+              "id": "E4-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: MERCOSUL promotes trade and economic integration among South American countries",
+              "correctAnswer": "O MERCOSUL promove o comércio e a integração econômica entre países sul-americanos",
+              "targetLanguage": "O MERCOSUL promove o comércio e a integração econômica entre países sul-americanos"
+            },
+            {
+              "id": "E4-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Citizens of member states can cross borders freely within the bloc",
+              "correctAnswer": "Cidadãos dos países membros podem circular livremente dentro do bloco",
+              "targetLanguage": "Cidadãos dos países membros podem circular livremente dentro do bloco"
+            },
+            {
+              "id": "E4-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Regional integration can boost economic growth",
+              "correctAnswer": "A integração regional pode impulsionar o crescimento econômico",
+              "targetLanguage": "A integração regional pode impulsionar o crescimento econômico"
+            },
+            {
+              "id": "E4-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Tarifa externa comum' means:",
+              "correctAnswer": "Common external tariff",
+              "options": [
+                "Bilateral agreement",
+                "Free trade area",
+                "Common external tariff",
+                "Currency union"
+              ],
+              "targetLanguage": "Tarifa externa comum"
+            },
+            {
+              "id": "E4-L4-E6",
+              "type": "listening",
+              "prompt": "What benefit of MERCOSUL does the speaker highlight?",
+              "correctAnswer": "Simplified trade between member states",
+              "options": [
+                "Freedom of movement",
+                "Single currency",
+                "Simplified trade between member states",
+                "Common foreign policy"
+              ],
+              "targetLanguage": "O MERCOSUL simplifica o comércio entre os países membros."
+            },
+            {
+              "id": "E4-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'Bloco econômico' means:",
+              "correctAnswer": "Economic bloc",
+              "options": [
+                "Currency union",
+                "Economic bloc",
+                "Free trade zone",
+                "Trade agreement"
+              ],
+              "targetLanguage": "Bloco econômico"
+            },
+            {
+              "id": "E4-L4-E8",
+              "type": "speaking",
+              "prompt": "Discuss one advantage and one challenge of MERCOSUL",
+              "correctAnswer": "Uma vantagem do MERCOSUL é [vantagem]. Um desafio é [desafio].",
+              "targetLanguage": "Uma vantagem do MERCOSUL é [vantagem]. Um desafio é [desafio]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "title": "Opiniões e debates",
+      "description": "Arguing and debating in Portuguese",
+      "icon": "bubble.left.and.bubble.right.fill",
+      "lessons": [
+        {
+          "id": "B1-L1",
+          "title": "Expressar pontos de vista",
+          "description": "Expressar pontos de vista",
+          "exercises": [
+            {
+              "id": "B1-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "na minha opinião|in my opinion",
+                "sou da opinião que|I am of the view that",
+                "por um lado … por outro|on the one hand … on the other",
+                "pode-se argumentar que|it can be argued that"
+              ]
+            },
+            {
+              "id": "B1-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: In my opinion the advantages outweigh the disadvantages in this case",
+              "correctAnswer": "Na minha opinião as vantagens superam as desvantagens neste caso",
+              "targetLanguage": "Na minha opinião as vantagens superam as desvantagens neste caso"
+            },
+            {
+              "id": "B1-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: On the one hand this policy creates jobs, on the other it increases public debt",
+              "correctAnswer": "Por um lado essa política cria empregos, por outro aumenta a dívida pública",
+              "targetLanguage": "Por um lado essa política cria empregos, por outro aumenta a dívida pública"
+            },
+            {
+              "id": "B1-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: It can be argued that renewable energy is the key to a sustainable future",
+              "correctAnswer": "Pode-se argumentar que a energia renovável é a chave para um futuro sustentável",
+              "targetLanguage": "Pode-se argumentar que a energia renovável é a chave para um futuro sustentável"
+            },
+            {
+              "id": "B1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Discordo disso' is used to:",
+              "correctAnswer": "Politely disagree",
+              "options": [
+                "Strongly agree",
+                "Politely disagree",
+                "Ask for clarification",
+                "Change the subject"
+              ],
+              "targetLanguage": "Discordo disso"
+            },
+            {
+              "id": "B1-L1-E6",
+              "type": "listening",
+              "prompt": "What rhetorical structure does the speaker use?",
+              "correctAnswer": "Concession then counter-argument",
+              "options": [
+                "A question-and-answer format",
+                "Pure agreement",
+                "A list of facts",
+                "Concession then counter-argument"
+              ],
+              "targetLanguage": "Embora seja verdade que … não se pode ignorar que …"
+            },
+            {
+              "id": "B1-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'Embora … no entanto …' is equivalent to:",
+              "correctAnswer": "Although … nevertheless …",
+              "options": [
+                "Although … nevertheless …",
+                "Neither … nor …",
+                "Either … or …",
+                "Both … and …"
+              ],
+              "targetLanguage": "Embora … no entanto …"
+            },
+            {
+              "id": "B1-L1-E8",
+              "type": "speaking",
+              "prompt": "Present a balanced view on a current debate",
+              "correctAnswer": "Por um lado [argumento]. Por outro [contra-argumento]. Na minha opinião [conclusão].",
+              "targetLanguage": "Por um lado [argumento]. Por outro [contra-argumento]. Na minha opinião [conclusão]."
+            }
+          ]
+        },
+        {
+          "id": "B1-L2",
+          "title": "Contra-argumentos",
+          "description": "Contra-argumentos",
+          "exercises": [
+            {
+              "id": "B1-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "contradizer|to contradict",
+                "contestar|to challenge / contest",
+                "levantar uma objeção|to raise an objection",
+                "relativizar|to put in perspective"
+              ]
+            },
+            {
+              "id": "B1-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: I disagree with your conclusion because the data does not support it",
+              "correctAnswer": "Discordo da sua conclusão porque os dados não a apoiam",
+              "targetLanguage": "Discordo da sua conclusão porque os dados não a apoiam"
+            },
+            {
+              "id": "B1-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: You raise a valid point but we should also consider the long-term consequences",
+              "correctAnswer": "Você levanta um ponto válido mas também devemos considerar as consequências de longo prazo",
+              "targetLanguage": "Você levanta um ponto válido mas também devemos considerar as consequências de longo prazo"
+            },
+            {
+              "id": "B1-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: That argument overlooks important factors",
+              "correctAnswer": "Esse argumento ignora fatores importantes",
+              "targetLanguage": "Esse argumento ignora fatores importantes"
+            },
+            {
+              "id": "B1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Não se pode generalizar assim' means:",
+              "correctAnswer": "That cannot be generalised so broadly",
+              "options": [
+                "That is an extreme view",
+                "That is already well known",
+                "That cannot be generalised so broadly",
+                "That is not verifiable"
+              ],
+              "targetLanguage": "Não se pode generalizar assim"
+            },
+            {
+              "id": "B1-L2-E6",
+              "type": "listening",
+              "prompt": "How does the speaker challenge the previous argument?",
+              "correctAnswer": "By citing a counterexample",
+              "options": [
+                "By agreeing but adding nuance",
+                "By dismissing it entirely",
+                "By citing a counterexample",
+                "By asking a rhetorical question"
+              ],
+              "targetLanguage": "Isso pode ser verdade em alguns casos, mas a maioria dos estudos chega a uma conclusão diferente."
+            },
+            {
+              "id": "B1-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Objeção' means:",
+              "correctAnswer": "Objection",
+              "options": [
+                "Evidence",
+                "Objection",
+                "Exception",
+                "Example"
+              ],
+              "targetLanguage": "Objeção"
+            },
+            {
+              "id": "B1-L2-E8",
+              "type": "speaking",
+              "prompt": "Respond to an argument you disagree with",
+              "correctAnswer": "Entendo seu ponto de vista, porém [contra-argumento] porque [motivo].",
+              "targetLanguage": "Entendo seu ponto de vista, porém [contra-argumento] porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "B1-L3",
+          "title": "Argumentação escrita",
+          "description": "Argumentação escrita",
+          "exercises": [
+            {
+              "id": "B1-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a tese|thesis",
+                "a argumentação|line of argument",
+                "a conclusão|conclusion",
+                "a citação|citation / source reference"
+              ]
+            },
+            {
+              "id": "B1-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: A well-structured essay begins with a clear thesis statement",
+              "correctAnswer": "Uma redação bem estruturada começa com uma tese clara",
+              "targetLanguage": "Uma redação bem estruturada começa com uma tese clara"
+            },
+            {
+              "id": "B1-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Each paragraph should develop one central idea and be supported by evidence",
+              "correctAnswer": "Cada parágrafo deve desenvolver uma ideia central e ser apoiado por evidências",
+              "targetLanguage": "Cada parágrafo deve desenvolver uma ideia central e ser apoiado por evidências"
+            },
+            {
+              "id": "B1-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The conclusion should summarise the main arguments and restate the thesis",
+              "correctAnswer": "A conclusão deve resumir os principais argumentos e retomar a tese",
+              "targetLanguage": "A conclusão deve resumir os principais argumentos e retomar a tese"
+            },
+            {
+              "id": "B1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Coerência' in writing means:",
+              "correctAnswer": "Logical flow and consistency throughout a text",
+              "options": [
+                "Varied vocabulary",
+                "Formal register",
+                "Correct spelling",
+                "Logical flow and consistency throughout a text"
+              ],
+              "targetLanguage": "Logical flow and consistency throughout a text"
+            },
+            {
+              "id": "B1-L3-E6",
+              "type": "listening",
+              "prompt": "What advice does the speaker give about essay writing?",
+              "correctAnswer": "Revise and edit your text at least once before submitting",
+              "options": [
+                "Revise and edit your text at least once before submitting",
+                "Use bullet points",
+                "Write as much as possible",
+                "Include personal anecdotes"
+              ],
+              "targetLanguage": "Revise seu texto pelo menos uma vez antes de entregar."
+            },
+            {
+              "id": "B1-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "A 'dissertação argumentativa' is a text type that:",
+              "correctAnswer": "Analyses a topic by presenting and weighing different arguments",
+              "options": [
+                "Tells a story with a moral",
+                "Describes a personal experience",
+                "Reports on events objectively",
+                "Analyses a topic by presenting and weighing different arguments"
+              ],
+              "targetLanguage": "Analyses a topic by presenting and weighing different arguments"
+            },
+            {
+              "id": "B1-L3-E8",
+              "type": "speaking",
+              "prompt": "Outline an essay on a topic of your choice",
+              "correctAnswer": "No meu texto vou defender a tese de que [tese]. Meus argumentos principais são [argumentos].",
+              "targetLanguage": "No meu texto vou defender a tese de que [tese]. Meus argumentos principais são [argumentos]."
+            }
+          ]
+        },
+        {
+          "id": "B1-L4",
+          "title": "Recursos retóricos",
+          "description": "Recursos retóricos",
+          "exercises": [
+            {
+              "id": "B1-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a metáfora|metaphor",
+                "a ironia|irony",
+                "a citação|quotation",
+                "a repetição|repetition"
+              ]
+            },
+            {
+              "id": "B1-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Politicians often use metaphors to make abstract ideas more tangible",
+              "correctAnswer": "Políticos frequentemente usam metáforas para tornar ideias abstratas mais concretas",
+              "targetLanguage": "Políticos frequentemente usam metáforas para tornar ideias abstratas mais concretas"
+            },
+            {
+              "id": "B1-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Repetition is a powerful rhetorical tool that reinforces a message",
+              "correctAnswer": "A repetição é um poderoso recurso retórico que reforça uma mensagem",
+              "targetLanguage": "A repetição é um poderoso recurso retórico que reforça uma mensagem"
+            },
+            {
+              "id": "B1-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Irony can be used to criticise without directly attacking",
+              "correctAnswer": "A ironia pode ser usada para criticar sem atacar diretamente",
+              "targetLanguage": "A ironia pode ser usada para criticar sem atacar diretamente"
+            },
+            {
+              "id": "B1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Clímax' as a rhetorical device means:",
+              "correctAnswer": "Building up to a peak for emphasis",
+              "options": [
+                "A humorous remark",
+                "An unexpected twist",
+                "A direct comparison",
+                "Building up to a peak for emphasis"
+              ],
+              "targetLanguage": "Building up to a peak for emphasis"
+            },
+            {
+              "id": "B1-L4-E6",
+              "type": "listening",
+              "prompt": "Which rhetorical device does the speaker identify?",
+              "correctAnswer": "Repetition of key words",
+              "options": [
+                "A metaphor",
+                "Repetition of key words",
+                "A rhetorical question",
+                "An ironic remark"
+              ],
+              "targetLanguage": "O orador repete a mesma frase três vezes para dar ênfase."
+            },
+            {
+              "id": "B1-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'Ethos, Pathos, Logos' are:",
+              "correctAnswer": "Three modes of persuasion (credibility, emotion, logic)",
+              "options": [
+                "Three debate formats",
+                "Three text types",
+                "Three modes of persuasion (credibility, emotion, logic)",
+                "Three logical fallacies"
+              ],
+              "targetLanguage": "Three modes of persuasion (credibility, emotion, logic)"
+            },
+            {
+              "id": "B1-L4-E8",
+              "type": "speaking",
+              "prompt": "Use at least two rhetorical devices in a short speech",
+              "correctAnswer": "[Tema]. [Metáfora/Repetição/Pergunta retórica]. Portanto [conclusão].",
+              "targetLanguage": "[Tema]. [Metáfora/Repetição/Pergunta retórica]. Portanto [conclusão]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "title": "Temas avançados",
+      "description": "Advanced discussions",
+      "icon": "brain.head.profile",
+      "lessons": [
+        {
+          "id": "B2-L1",
+          "title": "Questões éticas",
+          "description": "Questões éticas",
+          "exercises": [
+            {
+              "id": "B2-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a ética|ethics",
+                "o dilema|dilemma",
+                "ponderar|to weigh up",
+                "a consequência|consequence"
+              ]
+            },
+            {
+              "id": "B2-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: Ethical dilemmas often have no clearly correct answer",
+              "correctAnswer": "Dilemas éticos frequentemente não têm uma resposta claramente correta",
+              "targetLanguage": "Dilemas éticos frequentemente não têm uma resposta claramente correta"
+            },
+            {
+              "id": "B2-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: We must weigh the individual benefit against the social costs",
+              "correctAnswer": "Devemos ponderar o benefício individual contra os custos sociais",
+              "targetLanguage": "Devemos ponderar o benefício individual contra os custos sociais"
+            },
+            {
+              "id": "B2-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The end does not always justify the means",
+              "correctAnswer": "Os fins nem sempre justificam os meios",
+              "targetLanguage": "Os fins nem sempre justificam os meios"
+            },
+            {
+              "id": "B2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'Utilitarismo' holds that the right action is:",
+              "correctAnswer": "The one that produces the greatest good for the greatest number",
+              "options": [
+                "The one that produces the greatest good for the greatest number",
+                "The one that respects individual rights",
+                "The one that corresponds to natural law",
+                "The one that follows moral rules"
+              ],
+              "targetLanguage": "The one that produces the greatest good for the greatest number"
+            },
+            {
+              "id": "B2-L1-E6",
+              "type": "listening",
+              "prompt": "What ethical issue does the speaker address?",
+              "correctAnswer": "Limits of genetic engineering in humans",
+              "options": [
+                "Limits of genetic engineering in humans",
+                "Environmental responsibility",
+                "Data privacy",
+                "Animal welfare"
+              ],
+              "targetLanguage": "Os limites da engenharia genética em seres humanos são uma questão bioética central."
+            },
+            {
+              "id": "B2-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'Ética deontológica' bases moral judgement on:",
+              "correctAnswer": "Duties and rules regardless of outcome",
+              "options": [
+                "Virtues",
+                "Social norms",
+                "Duties and rules regardless of outcome",
+                "Consequences"
+              ],
+              "targetLanguage": "Duties and rules regardless of outcome"
+            },
+            {
+              "id": "B2-L1-E8",
+              "type": "speaking",
+              "prompt": "Present an ethical dilemma and your view on how to resolve it",
+              "correctAnswer": "O dilema é [situação]. Eu tomaria a decisão de [decisão] porque [motivo].",
+              "targetLanguage": "O dilema é [situação]. Eu tomaria a decisão de [decisão] porque [motivo]."
+            }
+          ]
+        },
+        {
+          "id": "B2-L2",
+          "title": "Literatura e linguagem",
+          "description": "Literatura e linguagem",
+          "exercises": [
+            {
+              "id": "B2-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "o narrador|narrator",
+                "o simbolismo|symbolism",
+                "o motivo|motif",
+                "a recepção|reception / how a work was received"
+              ]
+            },
+            {
+              "id": "B2-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: The narrator is unreliable which creates ambiguity throughout the novel",
+              "correctAnswer": "O narrador é não confiável o que cria ambiguidade ao longo do romance",
+              "targetLanguage": "O narrador é não confiável o que cria ambiguidade ao longo do romance"
+            },
+            {
+              "id": "B2-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Machado de Assis is considered one of the greatest Brazilian writers of all time",
+              "correctAnswer": "Machado de Assis é considerado um dos maiores escritores brasileiros de todos os tempos",
+              "targetLanguage": "Machado de Assis é considerado um dos maiores escritores brasileiros de todos os tempos"
+            },
+            {
+              "id": "B2-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The motif of the journey represents a search for identity",
+              "correctAnswer": "O motivo da viagem representa uma busca por identidade",
+              "targetLanguage": "O motivo da viagem representa uma busca por identidade"
+            },
+            {
+              "id": "B2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'Realismo mágico' in Latin American literature is characterised by:",
+              "correctAnswer": "Magical elements presented as part of ordinary reality",
+              "options": [
+                "Magical elements presented as part of ordinary reality",
+                "Romantic ideals",
+                "Objective realism",
+                "Historical themes"
+              ],
+              "targetLanguage": "Magical elements presented as part of ordinary reality"
+            },
+            {
+              "id": "B2-L2-E6",
+              "type": "listening",
+              "prompt": "What literary technique does the speaker describe?",
+              "correctAnswer": "Stream of consciousness",
+              "options": [
+                "Third-person narration",
+                "Dramatic monologue",
+                "Unreliable narrator",
+                "Stream of consciousness"
+              ],
+              "targetLanguage": "O pensamento interno da personagem é apresentado de forma direta e não estruturada."
+            },
+            {
+              "id": "B2-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'Narrador não confiável' describes:",
+              "correctAnswer": "A narrator whose credibility is compromised",
+              "options": [
+                "An objective narrator",
+                "A first-person narrator",
+                "A narrator whose credibility is compromised",
+                "An omniscient narrator"
+              ],
+              "targetLanguage": "A narrator whose credibility is compromised"
+            },
+            {
+              "id": "B2-L2-E8",
+              "type": "speaking",
+              "prompt": "Analyse a book or film using literary concepts",
+              "correctAnswer": "Em [obra] o autor usa [motivo/técnica] para retratar [tema].",
+              "targetLanguage": "Em [obra] o autor usa [motivo/técnica] para retratar [tema]."
+            }
+          ]
+        },
+        {
+          "id": "B2-L3",
+          "title": "Conceitos filosóficos",
+          "description": "Conceitos filosóficos",
+          "exercises": [
+            {
+              "id": "B2-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "a epistemologia|epistemology",
+                "a ontologia|ontology",
+                "o livre-arbítrio|free will",
+                "o determinismo|determinism"
+              ]
+            },
+            {
+              "id": "B2-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Epistemology asks what we can know and how we can justify our beliefs",
+              "correctAnswer": "A epistemologia pergunta o que podemos saber e como podemos justificar nossas crenças",
+              "targetLanguage": "A epistemologia pergunta o que podemos saber e como podemos justificar nossas crenças"
+            },
+            {
+              "id": "B2-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Kant argued that moral duty exists independently of consequences",
+              "correctAnswer": "Kant argumentou que o dever moral existe independentemente das consequências",
+              "targetLanguage": "Kant argumentou que o dever moral existe independentemente das consequências"
+            },
+            {
+              "id": "B2-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The question of free will versus determinism has occupied philosophers for centuries",
+              "correctAnswer": "A questão do livre-arbítrio versus determinismo ocupa filósofos há séculos",
+              "targetLanguage": "A questão do livre-arbítrio versus determinismo ocupa filósofos há séculos"
+            },
+            {
+              "id": "B2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'Existencialismo' holds that:",
+              "correctAnswer": "Existence precedes essence and individuals create their own meaning",
+              "options": [
+                "Society determines individual identity",
+                "Existence precedes essence and individuals create their own meaning",
+                "There is an objective moral order",
+                "Reason is the highest human faculty"
+              ],
+              "targetLanguage": "Existence precedes essence and individuals create their own meaning"
+            },
+            {
+              "id": "B2-L3-E6",
+              "type": "listening",
+              "prompt": "What philosophical question does the speaker raise?",
+              "correctAnswer": "Can we ever truly know another person's inner experience?",
+              "options": [
+                "Can we ever truly know another person's inner experience?",
+                "Does God exist?",
+                "What is the nature of time?",
+                "What is the meaning of life?"
+              ],
+              "targetLanguage": "Podemos realmente conhecer a experiência interna de outra pessoa?"
+            },
+            {
+              "id": "B2-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'Fenomenologia' studies:",
+              "correctAnswer": "Structures of experience and consciousness from a first-person perspective",
+              "options": [
+                "Social behaviour patterns",
+                "Historical causes of events",
+                "The nature of physical reality",
+                "Structures of experience and consciousness from a first-person perspective"
+              ],
+              "targetLanguage": "Structures of experience and consciousness from a first-person perspective"
+            },
+            {
+              "id": "B2-L3-E8",
+              "type": "speaking",
+              "prompt": "Discuss a philosophical question that interests you",
+              "correctAnswer": "A questão filosófica que me interessa é [questão]. Eu acho que [minha perspectiva].",
+              "targetLanguage": "A questão filosófica que me interessa é [questão]. Eu acho que [minha perspectiva]."
+            }
+          ]
+        },
+        {
+          "id": "B2-L4",
+          "title": "Negociação e persuasão",
+          "description": "Negociação e persuasão",
+          "exercises": [
+            {
+              "id": "B2-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "propor um compromisso|to propose a compromise",
+                "fazer uma concessão|to make a concession",
+                "insistir em|to insist on",
+                "chegar a um acordo|to reach an agreement"
+              ]
+            },
+            {
+              "id": "B2-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: I understand your position but perhaps we can find a middle ground",
+              "correctAnswer": "Entendo a sua posição mas talvez possamos encontrar um meio-termo",
+              "targetLanguage": "Entendo a sua posição mas talvez possamos encontrar um meio-termo"
+            },
+            {
+              "id": "B2-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: If you can reduce the price slightly I am prepared to confirm the order today",
+              "correctAnswer": "Se você puder reduzir um pouco o preço estou preparado para confirmar o pedido hoje",
+              "targetLanguage": "Se você puder reduzir um pouco o preço estou preparado para confirmar o pedido hoje"
+            },
+            {
+              "id": "B2-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I am prepared to make a concession if you are too",
+              "correctAnswer": "Estou pronto para fazer uma concessão se você também estiver",
+              "targetLanguage": "Estou pronto para fazer uma concessão se você também estiver"
+            },
+            {
+              "id": "B2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'Uma solução ganha-ganha' is:",
+              "correctAnswer": "An outcome beneficial to all parties",
+              "options": [
+                "A one-sided agreement",
+                "A temporary fix",
+                "An outcome beneficial to all parties",
+                "A compromise where both sides lose something"
+              ],
+              "targetLanguage": "An outcome beneficial to all parties"
+            },
+            {
+              "id": "B2-L4-E6",
+              "type": "listening",
+              "prompt": "What concession does the speaker offer?",
+              "correctAnswer": "Paying in advance if the price is reduced",
+              "options": [
+                "Providing a guarantee",
+                "Reducing the order size",
+                "Extending the contract",
+                "Paying in advance if the price is reduced"
+              ],
+              "targetLanguage": "Poderia pagar adiantado se você baixasse o preço."
+            },
+            {
+              "id": "B2-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'Habilidade de negociação' means:",
+              "correctAnswer": "Negotiation skill",
+              "options": [
+                "Patience",
+                "Persuasion",
+                "Negotiation skill",
+                "Compromise"
+              ],
+              "targetLanguage": "Habilidade de negociação"
+            },
+            {
+              "id": "B2-L4-E8",
+              "type": "speaking",
+              "prompt": "Negotiate: state your position, offer a concession, propose a compromise",
+              "correctAnswer": "Minha posição é [X]. Estou disposto a [concessão] se [condição]. Podemos encontrar um meio-termo?",
+              "targetLanguage": "Minha posição é [X]. Estou disposto a [concessão] se [condição]. Podemos encontrar um meio-termo?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

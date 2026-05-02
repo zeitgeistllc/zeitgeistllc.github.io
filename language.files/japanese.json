@@ -1,0 +1,5119 @@
+{
+  "id": "japanese",
+  "name": "Japanese",
+  "nativeName": "日本語",
+  "flag": "🇯🇵",
+  "units": [
+    {
+      "id": "S1",
+      "title": "はじめのことば",
+      "description": "Your first Japanese words",
+      "icon": "hand.wave.fill",
+      "lessons": [
+        {
+          "id": "S1-L1",
+          "title": "あいさつ (Greetings)",
+          "description": "あいさつ (Greetings)",
+          "exercises": [
+            {
+              "id": "S1-L1-E1",
+              "type": "listening",
+              "prompt": "You hear a greeting — what did they say?",
+              "correctAnswer": "こんにちは (Konnichiwa)",
+              "options": [
+                "ありがとう (Arigatō)",
+                "こんにちは (Konnichiwa)",
+                "さようなら (Sayōnara)",
+                "すみません (Sumimasen)"
+              ],
+              "targetLanguage": "こんにちは"
+            },
+            {
+              "id": "S1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おはようございます|Good morning",
+                "こんにちは|Hello / Good afternoon",
+                "こんばんは|Good evening",
+                "さようなら|Goodbye"
+              ]
+            },
+            {
+              "id": "S1-L1-E3",
+              "type": "multipleChoice",
+              "prompt": "It's morning — which greeting fits?",
+              "correctAnswer": "おはようございます",
+              "options": [
+                "またね",
+                "さようなら",
+                "おはようございます",
+                "こんばんは"
+              ],
+              "targetLanguage": "おはようございます"
+            },
+            {
+              "id": "S1-L1-E4",
+              "type": "listening",
+              "prompt": "Which is a casual farewell?",
+              "correctAnswer": "またね",
+              "options": [
+                "こんにちは",
+                "さようなら",
+                "またね",
+                "おはようございます"
+              ],
+              "targetLanguage": "またね"
+            },
+            {
+              "id": "S1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "It's evening — which greeting fits?",
+              "correctAnswer": "こんばんは",
+              "options": [
+                "おはようございます",
+                "こんばんは",
+                "こんにちは",
+                "さようなら"
+              ],
+              "targetLanguage": "こんばんは"
+            },
+            {
+              "id": "S1-L1-E6",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "またね|See you (casual)",
+                "またあとで|See you later",
+                "じゃあね|Bye then (casual)",
+                "お元気で|Take care (formal)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "S1-L2",
+          "title": "はい、いいえ、ありがとう",
+          "description": "はい、いいえ、ありがとう",
+          "exercises": [
+            {
+              "id": "S1-L2-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you say 'yes' in Japanese?",
+              "correctAnswer": "はい (Hai)",
+              "options": [
+                "おねがいします",
+                "いいえ (Iie)",
+                "はい (Hai)",
+                "ありがとう"
+              ],
+              "targetLanguage": "はい"
+            },
+            {
+              "id": "S1-L2-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "はい|Yes",
+                "いいえ|No",
+                "おねがいします|Please",
+                "ありがとうございます|Thank you (formal)"
+              ]
+            },
+            {
+              "id": "S1-L2-E3",
+              "type": "listening",
+              "prompt": "Someone hands you something — what do you say?",
+              "correctAnswer": "ありがとうございます",
+              "options": [
+                "ありがとうございます",
+                "おねがいします",
+                "こんにちは",
+                "いいえ"
+              ],
+              "targetLanguage": "ありがとうございます"
+            },
+            {
+              "id": "S1-L2-E4",
+              "type": "multipleChoice",
+              "prompt": "'どういたしまして' means:",
+              "correctAnswer": "You're welcome",
+              "options": [
+                "Sorry",
+                "Excuse me",
+                "You're welcome",
+                "Please"
+              ],
+              "targetLanguage": "どういたしまして"
+            },
+            {
+              "id": "S1-L2-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Yes please",
+              "correctAnswer": "はい、おねがいします",
+              "targetLanguage": "はい、おねがいします"
+            },
+            {
+              "id": "S1-L2-E6",
+              "type": "listening",
+              "prompt": "You bump into someone — what do you say?",
+              "correctAnswer": "すみません",
+              "options": [
+                "すみません",
+                "こんにちは",
+                "おねがいします",
+                "ありがとう"
+              ],
+              "targetLanguage": "すみません"
+            },
+            {
+              "id": "S1-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'すみません' is used to:",
+              "correctAnswer": "Excuse yourself or get someone's attention",
+              "options": [
+                "Thank someone",
+                "Say goodbye",
+                "Greet someone",
+                "Excuse yourself or get someone's attention"
+              ],
+              "targetLanguage": "すみません"
+            },
+            {
+              "id": "S1-L2-E8",
+              "type": "speaking",
+              "prompt": "Greet someone and say thank you",
+              "correctAnswer": "こんにちは。ありがとうございます。",
+              "targetLanguage": "こんにちは。ありがとうございます。"
+            }
+          ]
+        },
+        {
+          "id": "S1-L3",
+          "title": "数字 1〜10",
+          "description": "数字 1〜10",
+          "exercises": [
+            {
+              "id": "S1-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "What number is 'ご (go)'?",
+              "correctAnswer": "5",
+              "options": [
+                "5",
+                "7",
+                "3",
+                "8"
+              ],
+              "targetLanguage": "ご"
+            },
+            {
+              "id": "S1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "いち|1",
+                "に|2",
+                "さん|3",
+                "し/よん|4"
+              ]
+            },
+            {
+              "id": "S1-L3-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ご|5",
+                "ろく|6",
+                "しち/なな|7",
+                "はち|8"
+              ]
+            },
+            {
+              "id": "S1-L3-E4",
+              "type": "multipleChoice",
+              "prompt": "'きゅう (kyū)' is:",
+              "correctAnswer": "9",
+              "options": [
+                "7",
+                "10",
+                "6",
+                "9"
+              ],
+              "targetLanguage": "きゅう"
+            },
+            {
+              "id": "S1-L3-E5",
+              "type": "listening",
+              "prompt": "You hear a number — which is it?",
+              "correctAnswer": "じゅう",
+              "options": [
+                "さん",
+                "はち",
+                "じゅう",
+                "ろく"
+              ],
+              "targetLanguage": "じゅう"
+            },
+            {
+              "id": "S1-L3-E6",
+              "type": "wordOrder",
+              "prompt": "Count: one two three",
+              "correctAnswer": "いち に さん",
+              "targetLanguage": "いち に さん"
+            }
+          ]
+        },
+        {
+          "id": "S1-L4",
+          "title": "いろ (Colours)",
+          "description": "いろ (Colours)",
+          "exercises": [
+            {
+              "id": "S1-L4-E1",
+              "type": "multipleChoice",
+              "prompt": "'あか (aka)' means:",
+              "correctAnswer": "Red",
+              "options": [
+                "Green",
+                "Yellow",
+                "Blue",
+                "Red"
+              ],
+              "targetLanguage": "あか"
+            },
+            {
+              "id": "S1-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "あか|red",
+                "あお|blue",
+                "みどり|green",
+                "きいろ|yellow"
+              ]
+            },
+            {
+              "id": "S1-L4-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "しろ|white",
+                "くろ|black",
+                "オレンジ|orange",
+                "むらさき|purple"
+              ]
+            },
+            {
+              "id": "S1-L4-E4",
+              "type": "listening",
+              "prompt": "Which colour do you hear?",
+              "correctAnswer": "あお",
+              "options": [
+                "みどり",
+                "あか",
+                "あお",
+                "きいろ"
+              ],
+              "targetLanguage": "あお"
+            },
+            {
+              "id": "S1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "The sky is — what colour?",
+              "correctAnswer": "あお",
+              "options": [
+                "みどり",
+                "くろ",
+                "あお",
+                "あか"
+              ],
+              "targetLanguage": "あお"
+            },
+            {
+              "id": "S1-L4-E6",
+              "type": "speaking",
+              "prompt": "Name three colours",
+              "correctAnswer": "あか、あお、みどり。",
+              "targetLanguage": "あか、あお、みどり。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "じこしょうかい",
+      "description": "Introduce yourself",
+      "icon": "person.fill",
+      "lessons": [
+        {
+          "id": "S2-L1",
+          "title": "なまえ (Name)",
+          "description": "なまえ (Name)",
+          "exercises": [
+            {
+              "id": "S2-L1-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask someone's name?",
+              "correctAnswer": "おなまえは なんですか？",
+              "options": [
+                "おしごとは？",
+                "おなまえは なんですか？",
+                "どこから きましたか？",
+                "おいくつですか？"
+              ],
+              "targetLanguage": "おなまえは なんですか？"
+            },
+            {
+              "id": "S2-L1-E2",
+              "type": "wordOrder",
+              "prompt": "Build: My name is Yuki",
+              "correctAnswer": "わたしの なまえは ゆきです",
+              "targetLanguage": "わたしの なまえは ゆきです"
+            },
+            {
+              "id": "S2-L1-E3",
+              "type": "listening",
+              "prompt": "Someone says 'わたしは けんじです' — what did they share?",
+              "correctAnswer": "Their name",
+              "options": [
+                "Their job",
+                "Their city",
+                "Their name",
+                "Their age"
+              ],
+              "targetLanguage": "わたしは けんじです"
+            },
+            {
+              "id": "S2-L1-E4",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おなまえは？|What is your name?",
+                "わたしは … です|My name is …",
+                "あなたは？|And you?",
+                "よろしくおねがいします|Nice to meet you"
+              ]
+            },
+            {
+              "id": "S2-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Nice to meet you",
+              "correctAnswer": "よろしくおねがいします",
+              "targetLanguage": "よろしくおねがいします"
+            },
+            {
+              "id": "S2-L1-E6",
+              "type": "speaking",
+              "prompt": "Introduce yourself",
+              "correctAnswer": "はじめまして。わたしは [なまえ] です。よろしくおねがいします。",
+              "targetLanguage": "はじめまして。わたしは [なまえ] です。よろしくおねがいします。"
+            }
+          ]
+        },
+        {
+          "id": "S2-L2",
+          "title": "どこから？ (Where from?)",
+          "description": "どこから？ (Where from?)",
+          "exercises": [
+            {
+              "id": "S2-L2-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask where someone is from?",
+              "correctAnswer": "どこから きましたか？",
+              "options": [
+                "おいくつですか？",
+                "おなまえは？",
+                "おしごとは？",
+                "どこから きましたか？"
+              ],
+              "targetLanguage": "どこから きましたか？"
+            },
+            {
+              "id": "S2-L2-E2",
+              "type": "wordOrder",
+              "prompt": "Build: I am from Tokyo",
+              "correctAnswer": "わたしは とうきょうから きました",
+              "targetLanguage": "わたしは とうきょうから きました"
+            },
+            {
+              "id": "S2-L2-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "どこから きましたか？|Where are you from?",
+                "… から きました|I am from …",
+                "… に すんでいます|I live in …",
+                "あなたは？|And you?"
+              ]
+            },
+            {
+              "id": "S2-L2-E4",
+              "type": "listening",
+              "prompt": "Someone says 'にほんから きました' — where are they from?",
+              "correctAnswer": "Japan",
+              "options": [
+                "China",
+                "Korea",
+                "Japan",
+                "Osaka"
+              ],
+              "targetLanguage": "にほんから きました"
+            },
+            {
+              "id": "S2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'おおさかに すんでいます' means:",
+              "correctAnswer": "I live in Osaka",
+              "options": [
+                "I work in Osaka",
+                "I'm from Osaka",
+                "I like Osaka",
+                "I live in Osaka"
+              ],
+              "targetLanguage": "おおさかに すんでいます"
+            },
+            {
+              "id": "S2-L2-E6",
+              "type": "speaking",
+              "prompt": "Say where you're from and where you live",
+              "correctAnswer": "… から きました。… に すんでいます。",
+              "targetLanguage": "… から きました。… に すんでいます。"
+            }
+          ]
+        },
+        {
+          "id": "S2-L3",
+          "title": "なんさいですか？ (Age?)",
+          "description": "なんさいですか？ (Age?)",
+          "exercises": [
+            {
+              "id": "S2-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask someone's age?",
+              "correctAnswer": "おいくつですか？",
+              "options": [
+                "どこから？",
+                "おしごとは？",
+                "おなまえは？",
+                "おいくつですか？"
+              ],
+              "targetLanguage": "おいくつですか？"
+            },
+            {
+              "id": "S2-L3-E2",
+              "type": "wordOrder",
+              "prompt": "Build: I am twenty years old",
+              "correctAnswer": "わたしは にじゅっさい です",
+              "targetLanguage": "わたしは にじゅっさい です"
+            },
+            {
+              "id": "S2-L3-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "じゅういっさい|11",
+                "じゅうにさい|12",
+                "じゅうさんさい|13",
+                "じゅうよんさい|14"
+              ]
+            },
+            {
+              "id": "S2-L3-E4",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "にじゅっさい|20",
+                "さんじゅっさい|30",
+                "よんじゅっさい|40",
+                "ごじゅっさい|50"
+              ]
+            },
+            {
+              "id": "S2-L3-E5",
+              "type": "listening",
+              "prompt": "How old is the speaker?",
+              "correctAnswer": "25",
+              "options": [
+                "25",
+                "35",
+                "30",
+                "20"
+              ],
+              "targetLanguage": "にじゅうごさい です"
+            },
+            {
+              "id": "S2-L3-E6",
+              "type": "speaking",
+              "prompt": "Say how old you are",
+              "correctAnswer": "わたしは [かず]さい です。",
+              "targetLanguage": "わたしは [かず]さい です。"
+            }
+          ]
+        },
+        {
+          "id": "S2-L4",
+          "title": "しごと (Occupation)",
+          "description": "しごと (Occupation)",
+          "exercises": [
+            {
+              "id": "S2-L4-E1",
+              "type": "multipleChoice",
+              "prompt": "'おしごとは なんですか？' means:",
+              "correctAnswer": "What is your job?",
+              "options": [
+                "Do you like your job?",
+                "Where do you work?",
+                "What is your job?",
+                "How old are you?"
+              ],
+              "targetLanguage": "おしごとは なんですか？"
+            },
+            {
+              "id": "S2-L4-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "せんせい|teacher",
+                "いしゃ|doctor",
+                "エンジニア|engineer",
+                "がくせい|student"
+              ]
+            },
+            {
+              "id": "S2-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I am a teacher",
+              "correctAnswer": "わたしは せんせい です",
+              "targetLanguage": "わたしは せんせい です"
+            },
+            {
+              "id": "S2-L4-E4",
+              "type": "listening",
+              "prompt": "What job does the speaker have?",
+              "correctAnswer": "いしゃ",
+              "options": [
+                "いしゃ",
+                "エンジニア",
+                "せんせい",
+                "がくせい"
+              ],
+              "targetLanguage": "わたしは いしゃ です"
+            },
+            {
+              "id": "S2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'いがくを べんきょうしています' means:",
+              "correctAnswer": "I study medicine",
+              "options": [
+                "I study medicine",
+                "I work in medicine",
+                "I teach medicine",
+                "I am a doctor"
+              ],
+              "targetLanguage": "いがくを べんきょうしています"
+            },
+            {
+              "id": "S2-L4-E6",
+              "type": "speaking",
+              "prompt": "Say what you do for work",
+              "correctAnswer": "わたしは [しごと] です。[かいしゃ] に つとめています。",
+              "targetLanguage": "わたしは [しごと] です。[かいしゃ] に つとめています。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "title": "レストランで",
+      "description": "At a restaurant",
+      "icon": "fork.knife",
+      "lessons": [
+        {
+          "id": "F1-L1",
+          "title": "ちゅうもん (Ordering)",
+          "description": "ちゅうもん (Ordering)",
+          "exercises": [
+            {
+              "id": "F1-L1-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you order a coffee?",
+              "correctAnswer": "コーヒーを ください。",
+              "options": [
+                "コーヒー いいですか？",
+                "コーヒー ある？",
+                "コーヒー おねがい？",
+                "コーヒーを ください。"
+              ],
+              "targetLanguage": "コーヒーを ください。"
+            },
+            {
+              "id": "F1-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "コーヒー|coffee",
+                "おちゃ|green tea",
+                "みず|water",
+                "ジュース|juice"
+              ]
+            },
+            {
+              "id": "F1-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I would like a tea please",
+              "correctAnswer": "おちゃを ください",
+              "targetLanguage": "おちゃを ください"
+            },
+            {
+              "id": "F1-L1-E4",
+              "type": "listening",
+              "prompt": "What did the customer order?",
+              "correctAnswer": "オレンジジュース",
+              "options": [
+                "コーヒー",
+                "おちゃ",
+                "オレンジジュース",
+                "みず"
+              ],
+              "targetLanguage": "オレンジジュースを ください。"
+            },
+            {
+              "id": "F1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'ごちゅうもんは？' means:",
+              "correctAnswer": "May I take your order?",
+              "options": [
+                "Do you want more?",
+                "How much is it?",
+                "Is that all?",
+                "May I take your order?"
+              ],
+              "targetLanguage": "ごちゅうもんは？"
+            },
+            {
+              "id": "F1-L1-E6",
+              "type": "speaking",
+              "prompt": "Order a drink at a café",
+              "correctAnswer": "[飲み物]を ください。",
+              "targetLanguage": "[飲み物]を ください。"
+            }
+          ]
+        },
+        {
+          "id": "F1-L2",
+          "title": "メニュー (Menu)",
+          "description": "メニュー (Menu)",
+          "exercises": [
+            {
+              "id": "F1-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "あさごはん|breakfast",
+                "ひるごはん|lunch",
+                "ばんごはん|dinner",
+                "おやつ|snack"
+              ]
+            },
+            {
+              "id": "F1-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'わたしは ベジタリアン です' means:",
+              "correctAnswer": "I am vegetarian",
+              "options": [
+                "I like vegetables",
+                "I don't like meat dishes",
+                "I am vegetarian",
+                "I eat fish"
+              ],
+              "targetLanguage": "わたしは ベジタリアン です"
+            },
+            {
+              "id": "F1-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The menu please",
+              "correctAnswer": "メニューを ください",
+              "targetLanguage": "メニューを ください"
+            },
+            {
+              "id": "F1-L2-E4",
+              "type": "listening",
+              "prompt": "What does the customer want to know?",
+              "correctAnswer": "What is on the menu",
+              "options": [
+                "A recommendation",
+                "If the restaurant is open",
+                "What is on the menu",
+                "The price"
+              ],
+              "targetLanguage": "メニューは ありますか？"
+            },
+            {
+              "id": "F1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'… を おねがいします' means:",
+              "correctAnswer": "I would like …",
+              "options": [
+                "Do you have",
+                "Give me",
+                "I would like …",
+                "What is"
+              ],
+              "targetLanguage": "… を おねがいします"
+            },
+            {
+              "id": "F1-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask for the menu and say you're vegetarian",
+              "correctAnswer": "メニューを ください。わたしは ベジタリアン です。",
+              "targetLanguage": "メニューを ください。わたしは ベジタリアン です。"
+            }
+          ]
+        },
+        {
+          "id": "F1-L3",
+          "title": "おかいけい (Paying)",
+          "description": "おかいけい (Paying)",
+          "exercises": [
+            {
+              "id": "F1-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask for the bill?",
+              "correctAnswer": "おかいけいを おねがいします。",
+              "options": [
+                "いくらですか？",
+                "カードで はらえますか？",
+                "ありがとうございました。",
+                "おかいけいを おねがいします。"
+              ],
+              "targetLanguage": "おかいけいを おねがいします。"
+            },
+            {
+              "id": "F1-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おかいけい|the bill",
+                "げんきんで はらう|to pay cash",
+                "カードで はらう|to pay by card",
+                "チップ|tip"
+              ]
+            },
+            {
+              "id": "F1-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Can I pay by card?",
+              "correctAnswer": "カードで はらえますか？",
+              "targetLanguage": "カードで はらえますか？"
+            },
+            {
+              "id": "F1-L3-E4",
+              "type": "listening",
+              "prompt": "How does the customer want to pay?",
+              "correctAnswer": "By card",
+              "options": [
+                "Together",
+                "Cash",
+                "By phone",
+                "By card"
+              ],
+              "targetLanguage": "カードで はらいます。"
+            },
+            {
+              "id": "F1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'べつべつに おねがいします' means:",
+              "correctAnswer": "Separate bills please",
+              "options": [
+                "Keep the change",
+                "I'll pay for everyone",
+                "All together please",
+                "Separate bills please"
+              ],
+              "targetLanguage": "べつべつに おねがいします"
+            },
+            {
+              "id": "F1-L3-E6",
+              "type": "speaking",
+              "prompt": "Ask for the bill and say you'll pay by card",
+              "correctAnswer": "おかいけいを おねがいします。カードで はらいます。",
+              "targetLanguage": "おかいけいを おねがいします。カードで はらいます。"
+            }
+          ]
+        },
+        {
+          "id": "F1-L4",
+          "title": "すきなもの (Likes)",
+          "description": "すきなもの (Likes)",
+          "exercises": [
+            {
+              "id": "F1-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おいしい|delicious",
+                "まあまあ|not bad",
+                "しょっぱすぎる|too salty",
+                "あますぎる|too sweet"
+              ]
+            },
+            {
+              "id": "F1-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'あまり すきじゃないです' means:",
+              "correctAnswer": "I don't really like it",
+              "options": [
+                "I can't eat this",
+                "I'm not hungry",
+                "I don't really like it",
+                "That's not mine"
+              ],
+              "targetLanguage": "あまり すきじゃないです"
+            },
+            {
+              "id": "F1-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The coffee is delicious",
+              "correctAnswer": "コーヒーが おいしいです",
+              "targetLanguage": "コーヒーが おいしいです"
+            },
+            {
+              "id": "F1-L4-E4",
+              "type": "listening",
+              "prompt": "How does the speaker like the food?",
+              "correctAnswer": "Very much",
+              "options": [
+                "Very much",
+                "A little",
+                "Not at all",
+                "It's okay"
+              ],
+              "targetLanguage": "とても おいしいです！"
+            },
+            {
+              "id": "F1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'さとうは にがてです' means:",
+              "correctAnswer": "I'm not good with sugar / I don't like sugar",
+              "options": [
+                "I'm not good with sugar / I don't like sugar",
+                "There's no sugar",
+                "I have no sugar",
+                "I want sugar"
+              ],
+              "targetLanguage": "さとうは にがてです"
+            },
+            {
+              "id": "F1-L4-E6",
+              "type": "speaking",
+              "prompt": "Give your opinion about food you ate",
+              "correctAnswer": "[りょうり]は [おいしい/しょっぱすぎた/まあまあ] でした。",
+              "targetLanguage": "[りょうり]は [おいしい/しょっぱすぎた/まあまあ] でした。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "title": "まちで",
+      "description": "Getting around the city",
+      "icon": "map.fill",
+      "lessons": [
+        {
+          "id": "F2-L1",
+          "title": "どこですか？ (Where is …?)",
+          "description": "どこですか？ (Where is …?)",
+          "exercises": [
+            {
+              "id": "F2-L1-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask where the station is?",
+              "correctAnswer": "えきは どこですか？",
+              "options": [
+                "がっこうへは どう いきますか？",
+                "ちゅうしゃじょうは ありますか？",
+                "どのくらい とおいですか？",
+                "えきは どこですか？"
+              ],
+              "targetLanguage": "えきは どこですか？"
+            },
+            {
+              "id": "F2-L1-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "まっすぐ|straight ahead",
+                "ひだり|left",
+                "みぎ|right",
+                "かどを まがって|turn the corner"
+              ]
+            },
+            {
+              "id": "F2-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The supermarket is on the left",
+              "correctAnswer": "スーパーは ひだりに あります",
+              "targetLanguage": "スーパーは ひだりに あります"
+            },
+            {
+              "id": "F2-L1-E4",
+              "type": "listening",
+              "prompt": "Which direction did they give?",
+              "correctAnswer": "Straight ahead then left",
+              "options": [
+                "Straight ahead then left",
+                "Right then straight",
+                "Straight ahead",
+                "Left then right"
+              ],
+              "targetLanguage": "まっすぐ いって、ひだりに まがってください。"
+            },
+            {
+              "id": "F2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'とおいですか？' means:",
+              "correctAnswer": "Is it far?",
+              "options": [
+                "Is it open?",
+                "How long does it take?",
+                "Is it far?",
+                "Where exactly?"
+              ],
+              "targetLanguage": "とおいですか？"
+            },
+            {
+              "id": "F2-L1-E6",
+              "type": "speaking",
+              "prompt": "Ask where the nearest supermarket is",
+              "correctAnswer": "すみません、いちばん ちかい スーパーは どこですか？",
+              "targetLanguage": "すみません、いちばん ちかい スーパーは どこですか？"
+            }
+          ]
+        },
+        {
+          "id": "F2-L2",
+          "title": "こうつう (Transport)",
+          "description": "こうつう (Transport)",
+          "exercises": [
+            {
+              "id": "F2-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "バス|bus",
+                "ちかてつ|underground / metro",
+                "でんしゃ|train",
+                "タクシー|taxi"
+              ]
+            },
+            {
+              "id": "F2-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'ちかてつで いきます' means:",
+              "correctAnswer": "I take the underground",
+              "options": [
+                "I take the underground",
+                "I cycle",
+                "I drive",
+                "I walk"
+              ],
+              "targetLanguage": "ちかてつで いきます"
+            },
+            {
+              "id": "F2-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I take the bus to work",
+              "correctAnswer": "しごとに バスで いきます",
+              "targetLanguage": "しごとに バスで いきます"
+            },
+            {
+              "id": "F2-L2-E4",
+              "type": "listening",
+              "prompt": "How does the speaker get to work?",
+              "correctAnswer": "By train",
+              "options": [
+                "On foot",
+                "By bus",
+                "By car",
+                "By train"
+              ],
+              "targetLanguage": "まいにち でんしゃで しごとに いきます。"
+            },
+            {
+              "id": "F2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'あるいて いきます' means:",
+              "correctAnswer": "I walk there",
+              "options": [
+                "I drive",
+                "I walk there",
+                "I cycle",
+                "I run"
+              ],
+              "targetLanguage": "あるいて いきます"
+            },
+            {
+              "id": "F2-L2-E6",
+              "type": "speaking",
+              "prompt": "Say how you usually get around",
+              "correctAnswer": "ふつう [こうつうしゅだん]で いきます。",
+              "targetLanguage": "ふつう [こうつうしゅだん]で いきます。"
+            }
+          ]
+        },
+        {
+          "id": "F2-L3",
+          "title": "きっぷ (Tickets)",
+          "description": "きっぷ (Tickets)",
+          "exercises": [
+            {
+              "id": "F2-L3-E1",
+              "type": "multipleChoice",
+              "prompt": "How do you ask for a ticket to Kyoto?",
+              "correctAnswer": "きょうとまで いちまい ください。",
+              "options": [
+                "きょうとまで いちまい ください。",
+                "でんしゃは いつ でますか？",
+                "きょうとへは どう いきますか？",
+                "せきは あいていますか？"
+              ],
+              "targetLanguage": "きょうとまで いちまい ください。"
+            },
+            {
+              "id": "F2-L3-E2",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "かたみち|one way",
+                "おうふく|return",
+                "じゆうせき|unreserved seat",
+                "していせき|reserved seat"
+              ]
+            },
+            {
+              "id": "F2-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: One return to Osaka please",
+              "correctAnswer": "おおさかまで おうふく いちまい ください",
+              "targetLanguage": "おおさかまで おうふく いちまい ください"
+            },
+            {
+              "id": "F2-L3-E4",
+              "type": "listening",
+              "prompt": "What type of ticket does the customer want?",
+              "correctAnswer": "Return",
+              "options": [
+                "Day ticket",
+                "Reserved seat",
+                "One way",
+                "Return"
+              ],
+              "targetLanguage": "おうふくきっぷを ください。"
+            },
+            {
+              "id": "F2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'つぎの でんしゃは なんじですか？' means:",
+              "correctAnswer": "What time is the next train?",
+              "options": [
+                "Which platform?",
+                "Where does the train go?",
+                "What time is the next train?",
+                "Is the train on time?"
+              ],
+              "targetLanguage": "つぎの でんしゃは なんじですか？"
+            },
+            {
+              "id": "F2-L3-E6",
+              "type": "speaking",
+              "prompt": "Buy a train ticket to a city of your choice",
+              "correctAnswer": "[まち]まで おうふく いちまい ください。",
+              "targetLanguage": "[まち]まで おうふく いちまい ください。"
+            }
+          ]
+        },
+        {
+          "id": "F2-L4",
+          "title": "ホテル (Hotel)",
+          "description": "ホテル (Hotel)",
+          "exercises": [
+            {
+              "id": "F2-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ホテル|hotel",
+                "りょかん|Japanese inn",
+                "ゲストハウス|guesthouse",
+                "ホステル|hostel"
+              ]
+            },
+            {
+              "id": "F2-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'あきべやは ありますか？' means:",
+              "correctAnswer": "Do you have a room available?",
+              "options": [
+                "Is breakfast included?",
+                "Do you have a room available?",
+                "How much is the room?",
+                "I'd like to check in"
+              ],
+              "targetLanguage": "あきべやは ありますか？"
+            },
+            {
+              "id": "F2-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: For two nights please",
+              "correctAnswer": "ふたばん おねがいします",
+              "targetLanguage": "ふたばん おねがいします"
+            },
+            {
+              "id": "F2-L4-E4",
+              "type": "listening",
+              "prompt": "What does the guest ask about?",
+              "correctAnswer": "Breakfast",
+              "options": [
+                "Breakfast",
+                "WiFi",
+                "Price",
+                "Parking"
+              ],
+              "targetLanguage": "ちょうしょくは ついていますか？"
+            },
+            {
+              "id": "F2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'チェックインを おねがいします' means:",
+              "correctAnswer": "I'd like to check in",
+              "options": [
+                "I want to leave",
+                "I'd like to check in",
+                "I need a key",
+                "Where is my room?"
+              ],
+              "targetLanguage": "チェックインを おねがいします"
+            },
+            {
+              "id": "F2-L4-E6",
+              "type": "speaking",
+              "prompt": "Ask for a room for two nights",
+              "correctAnswer": "シングルルームは ありますか？ふたばん おねがいします。",
+              "targetLanguage": "シングルルームは ありますか？ふたばん おねがいします。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "title": "かぞくと いえ",
+      "description": "Family and home life",
+      "icon": "house.fill",
+      "lessons": [
+        {
+          "id": "F3-L1",
+          "title": "かぞく (Family)",
+          "description": "かぞく (Family)",
+          "exercises": [
+            {
+              "id": "F3-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "はは (母)|mother",
+                "ちち (父)|father",
+                "いもうと (妹)|younger sister",
+                "おとうと (弟)|younger brother"
+              ]
+            },
+            {
+              "id": "F3-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'きょうだいが ふたりいます' means:",
+              "correctAnswer": "I have two siblings",
+              "options": [
+                "I have two siblings",
+                "I have two children",
+                "I have two parents",
+                "I have a large family"
+              ],
+              "targetLanguage": "きょうだいが ふたりいます"
+            },
+            {
+              "id": "F3-L1-E3",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おばあさん|grandmother",
+                "おじいさん|grandfather",
+                "おばさん|aunt",
+                "おじさん|uncle"
+              ]
+            },
+            {
+              "id": "F3-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I have an older brother and a younger sister",
+              "correctAnswer": "あにと いもうとが います",
+              "targetLanguage": "あにと いもうとが います"
+            },
+            {
+              "id": "F3-L1-E5",
+              "type": "listening",
+              "prompt": "How many siblings does the speaker have?",
+              "correctAnswer": "Three",
+              "options": [
+                "Three",
+                "Two",
+                "None",
+                "One"
+              ],
+              "targetLanguage": "きょうだいが さんにん います。"
+            },
+            {
+              "id": "F3-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe your family",
+              "correctAnswer": "[かぞく]が います。[かぞくの なまえ]は [なまえ]です。",
+              "targetLanguage": "[かぞく]が います。[かぞくの なまえ]は [なまえ]です。"
+            }
+          ]
+        },
+        {
+          "id": "F3-L2",
+          "title": "いえ (Home)",
+          "description": "いえ (Home)",
+          "exercises": [
+            {
+              "id": "F3-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "だいどころ (台所)|kitchen",
+                "リビング|living room",
+                "しんしつ (寝室)|bedroom",
+                "おてあらい (お手洗い)|bathroom / toilet"
+              ]
+            },
+            {
+              "id": "F3-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'トイレは どこですか？' means:",
+              "correctAnswer": "Where is the toilet?",
+              "options": [
+                "Which floor?",
+                "Where is the toilet?",
+                "How many rooms?",
+                "Is there a shower?"
+              ],
+              "targetLanguage": "トイレは どこですか？"
+            },
+            {
+              "id": "F3-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The kitchen is big",
+              "correctAnswer": "だいどころは ひろいです",
+              "targetLanguage": "だいどころは ひろいです"
+            },
+            {
+              "id": "F3-L2-E4",
+              "type": "listening",
+              "prompt": "Which room does the speaker mention?",
+              "correctAnswer": "Living room",
+              "options": [
+                "Living room",
+                "Kitchen",
+                "Bathroom",
+                "Bedroom"
+              ],
+              "targetLanguage": "リビングは とても ひろいです。"
+            },
+            {
+              "id": "F3-L2-E5",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "いっかい (1階)|ground floor",
+                "にかい (2階)|first/second floor",
+                "ちかしつ (地下室)|basement",
+                "にわ (庭)|garden"
+              ]
+            },
+            {
+              "id": "F3-L2-E6",
+              "type": "speaking",
+              "prompt": "Describe your home",
+              "correctAnswer": "[アパート/いえ]に すんでいます。[へや]が あります。",
+              "targetLanguage": "[アパート/いえ]に すんでいます。[へや]が あります。"
+            }
+          ]
+        },
+        {
+          "id": "F3-L3",
+          "title": "にちじょう (Daily life)",
+          "description": "にちじょう (Daily life)",
+          "exercises": [
+            {
+              "id": "F3-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おきる (起きる)|to get up",
+                "あさごはんを たべる|to have breakfast",
+                "そうじする|to clean",
+                "りょうりする|to cook"
+              ]
+            },
+            {
+              "id": "F3-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'しちじに おきます' means:",
+              "correctAnswer": "I get up at seven",
+              "options": [
+                "I leave at seven",
+                "I get up at seven",
+                "I eat at seven",
+                "I go to bed at seven"
+              ],
+              "targetLanguage": "しちじに おきます"
+            },
+            {
+              "id": "F3-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I cook dinner every evening",
+              "correctAnswer": "まいばん ばんごはんを つくります",
+              "targetLanguage": "まいばん ばんごはんを つくります"
+            },
+            {
+              "id": "F3-L3-E4",
+              "type": "listening",
+              "prompt": "What chore does the speaker do?",
+              "correctAnswer": "Cleaning",
+              "options": [
+                "Cleaning",
+                "Cooking",
+                "Washing",
+                "Shopping"
+              ],
+              "targetLanguage": "まいしゅう どようびに そうじします。"
+            },
+            {
+              "id": "F3-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'はやく ねます' means:",
+              "correctAnswer": "I go to bed early",
+              "options": [
+                "I go to bed early",
+                "I sleep a lot",
+                "I'm tired",
+                "I wake up early"
+              ],
+              "targetLanguage": "はやく ねます"
+            },
+            {
+              "id": "F3-L3-E6",
+              "type": "speaking",
+              "prompt": "Describe your typical morning",
+              "correctAnswer": "[じかん]に おきます。それから [こうどう]します。",
+              "targetLanguage": "[じかん]に おきます。それから [こうどう]します。"
+            }
+          ]
+        },
+        {
+          "id": "F3-L4",
+          "title": "まちに すむ (Living in the city)",
+          "description": "まちに すむ (Living in the city)",
+          "exercises": [
+            {
+              "id": "F3-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "しずか (静か)|quiet",
+                "うるさい|noisy",
+                "べんり (便利)|convenient",
+                "やすい (安い)|cheap / affordable"
+              ]
+            },
+            {
+              "id": "F3-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'ふるい アパートに すんでいます' means:",
+              "correctAnswer": "I live in an old apartment",
+              "options": [
+                "I live in a new building",
+                "I live in a house",
+                "I live in an old apartment",
+                "I rent a room"
+              ],
+              "targetLanguage": "ふるい アパートに すんでいます"
+            },
+            {
+              "id": "F3-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: My apartment is quiet and convenient",
+              "correctAnswer": "わたしの アパートは しずかで べんりです",
+              "targetLanguage": "わたしの アパートは しずかで べんりです"
+            },
+            {
+              "id": "F3-L4-E4",
+              "type": "listening",
+              "prompt": "How does the speaker describe their area?",
+              "correctAnswer": "Lively but noisy",
+              "options": [
+                "Far from centre",
+                "Cheap and central",
+                "Lively but noisy",
+                "Quiet and green"
+              ],
+              "targetLanguage": "まちは にぎやかですが うるさいです。"
+            },
+            {
+              "id": "F3-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'やちんが たかすぎます' means:",
+              "correctAnswer": "The rent is too high",
+              "options": [
+                "The rent is too high",
+                "The area is expensive",
+                "The landlord is difficult",
+                "I can't find a flat"
+              ],
+              "targetLanguage": "やちんが たかすぎます"
+            },
+            {
+              "id": "F3-L4-E6",
+              "type": "speaking",
+              "prompt": "Describe your neighbourhood",
+              "correctAnswer": "[まち/ちく]に すんでいます。[せつめい]です。",
+              "targetLanguage": "[まち/ちく]に すんでいます。[せつめい]です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "title": "しごとと べんきょう",
+      "description": "Work and study",
+      "icon": "briefcase.fill",
+      "lessons": [
+        {
+          "id": "F4-L1",
+          "title": "しょくば (Workplace)",
+          "description": "しょくば (Workplace)",
+          "exercises": [
+            {
+              "id": "F4-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "オフィス|office",
+                "かいぎ (会議)|meeting",
+                "どうりょう (同僚)|colleague",
+                "じょうし (上司)|boss / supervisor"
+              ]
+            },
+            {
+              "id": "F4-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'よていが あります' means:",
+              "correctAnswer": "I have an appointment / plan",
+              "options": [
+                "I have an appointment / plan",
+                "I am working from home",
+                "I need to leave early",
+                "I am busy"
+              ],
+              "targetLanguage": "よていが あります"
+            },
+            {
+              "id": "F4-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The meeting starts at nine",
+              "correctAnswer": "かいぎは くじに はじまります",
+              "targetLanguage": "かいぎは くじに はじまります"
+            },
+            {
+              "id": "F4-L1-E4",
+              "type": "listening",
+              "prompt": "What does the employee ask?",
+              "correctAnswer": "If the meeting was moved",
+              "options": [
+                "If the meeting was moved",
+                "When they finish",
+                "Who the boss is",
+                "Where the office is"
+              ],
+              "targetLanguage": "かいぎは うつりましたか？"
+            },
+            {
+              "id": "F4-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'テレワークを しています' means:",
+              "correctAnswer": "I'm working from home",
+              "options": [
+                "I work overtime",
+                "I'm working from home",
+                "I am between jobs",
+                "I work at the office"
+              ],
+              "targetLanguage": "テレワークを しています"
+            },
+            {
+              "id": "F4-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe your typical work day",
+              "correctAnswer": "[じかん]に しごとを はじめます。それから [こうどう]します。",
+              "targetLanguage": "[じかん]に しごとを はじめます。それから [こうどう]します。"
+            }
+          ]
+        },
+        {
+          "id": "F4-L2",
+          "title": "がっこう (School)",
+          "description": "がっこう (School)",
+          "exercises": [
+            {
+              "id": "F4-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "かもく (科目)|subject",
+                "しゅくだい (宿題)|homework",
+                "しけん (試験)|exam",
+                "せいせき (成績)|grade"
+              ]
+            },
+            {
+              "id": "F4-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'すきな かもくは すうがく です' means:",
+              "correctAnswer": "My favourite subject is maths",
+              "options": [
+                "I find maths hard",
+                "I study maths",
+                "I'm good at maths",
+                "My favourite subject is maths"
+              ],
+              "targetLanguage": "すきな かもくは すうがく です"
+            },
+            {
+              "id": "F4-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I have an exam tomorrow",
+              "correctAnswer": "あした しけんが あります",
+              "targetLanguage": "あした しけんが あります"
+            },
+            {
+              "id": "F4-L2-E4",
+              "type": "listening",
+              "prompt": "What does the student say about their homework?",
+              "correctAnswer": "It is finished",
+              "options": [
+                "They forgot it",
+                "It is difficult",
+                "It is late",
+                "It is finished"
+              ],
+              "targetLanguage": "しゅくだいを おわりました。"
+            },
+            {
+              "id": "F4-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'しけんの ために べんきょうしています' means:",
+              "correctAnswer": "I'm studying for the exam",
+              "options": [
+                "I'm studying for the exam",
+                "I'm writing the exam",
+                "I passed the exam",
+                "I failed the exam"
+              ],
+              "targetLanguage": "しけんの ために べんきょうしています"
+            },
+            {
+              "id": "F4-L2-E6",
+              "type": "speaking",
+              "prompt": "Talk about your studies",
+              "correctAnswer": "[だいがく/がっこう]で [かもく]を べんきょうしています。",
+              "targetLanguage": "[だいがく/がっこう]で [かもく]を べんきょうしています。"
+            }
+          ]
+        },
+        {
+          "id": "F4-L3",
+          "title": "おうぼ (Applications)",
+          "description": "おうぼ (Applications)",
+          "exercises": [
+            {
+              "id": "F4-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "りれきしょ (履歴書)|CV / résumé",
+                "しぼうどうき|cover letter / motivation",
+                "めんせつ (面接)|job interview",
+                "きゅうじん (求人)|job opening"
+              ]
+            },
+            {
+              "id": "F4-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'このきゅうじんに おうぼしました' means:",
+              "correctAnswer": "I applied for this job opening",
+              "options": [
+                "I quit the job",
+                "I was fired",
+                "I applied for this job opening",
+                "I got the job"
+              ],
+              "targetLanguage": "このきゅうじんに おうぼしました"
+            },
+            {
+              "id": "F4-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I have five years of experience",
+              "correctAnswer": "ごねんの けいけんが あります",
+              "targetLanguage": "ごねんの けいけんが あります"
+            },
+            {
+              "id": "F4-L3-E4",
+              "type": "listening",
+              "prompt": "What does the candidate mention first?",
+              "correctAnswer": "Their education",
+              "options": [
+                "Their experience",
+                "Their skills",
+                "Their education",
+                "Their references"
+              ],
+              "targetLanguage": "だいがくで けいえいがくを せんこうしました。"
+            },
+            {
+              "id": "F4-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'いつから しごとが できますか？' means:",
+              "correctAnswer": "When can you start?",
+              "options": [
+                "What are your strengths?",
+                "When can you start?",
+                "How long have you worked here?",
+                "Where do you see yourself in five years?"
+              ],
+              "targetLanguage": "いつから しごとが できますか？"
+            },
+            {
+              "id": "F4-L3-E6",
+              "type": "speaking",
+              "prompt": "Briefly introduce yourself in a job interview",
+              "correctAnswer": "わたしは [なまえ]です。[けいけん]が あります。[きゅうじん]に おうぼしました。",
+              "targetLanguage": "わたしは [なまえ]です。[けいけん]が あります。[きゅうじん]に おうぼしました。"
+            }
+          ]
+        },
+        {
+          "id": "F4-L4",
+          "title": "チームワーク",
+          "description": "チームワーク",
+          "exercises": [
+            {
+              "id": "F4-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きょうりょくする|to cooperate / work together",
+                "まかせる|to delegate",
+                "せきにんを とる|to take responsibility",
+                "しめきりを まもる|to meet a deadline"
+              ]
+            },
+            {
+              "id": "F4-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'これを わけましょうか？' means:",
+              "correctAnswer": "Shall we split this up?",
+              "options": [
+                "Shall we split this up?",
+                "Should I ask the boss?",
+                "Is this your responsibility?",
+                "Can you finish it alone?"
+              ],
+              "targetLanguage": "これを わけましょうか？"
+            },
+            {
+              "id": "F4-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I'll take care of that",
+              "correctAnswer": "わたしが やります",
+              "targetLanguage": "わたしが やります"
+            },
+            {
+              "id": "F4-L4-E4",
+              "type": "listening",
+              "prompt": "What does the colleague offer?",
+              "correctAnswer": "To help with the presentation",
+              "options": [
+                "To take over the project",
+                "To help with the presentation",
+                "To speak to the manager",
+                "To reschedule the meeting"
+              ],
+              "targetLanguage": "プレゼンを てつだいましょうか？"
+            },
+            {
+              "id": "F4-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'しめきりは あした です' means:",
+              "correctAnswer": "The deadline is tomorrow",
+              "options": [
+                "The boss wants an update",
+                "The deadline is tomorrow",
+                "The meeting is tomorrow",
+                "The project is finished"
+              ],
+              "targetLanguage": "しめきりは あした です"
+            },
+            {
+              "id": "F4-L4-E6",
+              "type": "speaking",
+              "prompt": "Offer to help a colleague with a task",
+              "correctAnswer": "[こうどう]を てつだいましょうか？",
+              "targetLanguage": "[こうどう]を てつだいましょうか？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "title": "レジャーと しゅみ",
+      "description": "Leisure and hobbies",
+      "icon": "sportscourt.fill",
+      "lessons": [
+        {
+          "id": "F5-L1",
+          "title": "スポーツ",
+          "description": "スポーツ",
+          "exercises": [
+            {
+              "id": "F5-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "およぐ (泳ぐ)|swimming",
+                "サッカーを する|to play football",
+                "じてんしゃに のる|cycling",
+                "はしる (走る)|running"
+              ]
+            },
+            {
+              "id": "F5-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'スポーツが すきです' means:",
+              "correctAnswer": "I like sport",
+              "options": [
+                "I like sport",
+                "I train every day",
+                "I play football",
+                "I watch sport"
+              ],
+              "targetLanguage": "スポーツが すきです"
+            },
+            {
+              "id": "F5-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I play tennis twice a week",
+              "correctAnswer": "しゅうに にかい テニスを します",
+              "targetLanguage": "しゅうに にかい テニスを します"
+            },
+            {
+              "id": "F5-L1-E4",
+              "type": "listening",
+              "prompt": "Which sport does the speaker do?",
+              "correctAnswer": "Swimming",
+              "options": [
+                "Swimming",
+                "Football",
+                "Cycling",
+                "Running"
+              ],
+              "targetLanguage": "まいあさ およいでいます。"
+            },
+            {
+              "id": "F5-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'あまり うんどうは しません' means:",
+              "correctAnswer": "I don't really exercise much",
+              "options": [
+                "I have a sports injury",
+                "I prefer indoor sports",
+                "I don't really exercise much",
+                "I don't watch sport"
+              ],
+              "targetLanguage": "あまり うんどうは しません"
+            },
+            {
+              "id": "F5-L1-E6",
+              "type": "speaking",
+              "prompt": "Talk about a sport you do or watch",
+              "correctAnswer": "[スポーツ]を [します/みます]。",
+              "targetLanguage": "[スポーツ]を [します/みます]。"
+            }
+          ]
+        },
+        {
+          "id": "F5-L2",
+          "title": "ぶんか と げいじゅつ (Culture & Art)",
+          "description": "ぶんか と げいじゅつ (Culture & Art)",
+          "exercises": [
+            {
+              "id": "F5-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "コンサート|concert",
+                "びじゅつかん (美術館)|museum",
+                "げきじょう (劇場)|theatre",
+                "てんらんかい (展覧会)|exhibition"
+              ]
+            },
+            {
+              "id": "F5-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'えいがを みるのが すきです' means:",
+              "correctAnswer": "I like watching films",
+              "options": [
+                "I like watching TV",
+                "I like watching films",
+                "I prefer theatre",
+                "I work in cinema"
+              ],
+              "targetLanguage": "えいがを みるのが すきです"
+            },
+            {
+              "id": "F5-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The concert was fantastic",
+              "correctAnswer": "コンサートは すばらしかった です",
+              "targetLanguage": "コンサートは すばらしかった です"
+            },
+            {
+              "id": "F5-L2-E4",
+              "type": "listening",
+              "prompt": "Where does the speaker want to go?",
+              "correctAnswer": "To the museum",
+              "options": [
+                "To the theatre",
+                "To a concert",
+                "To the cinema",
+                "To the museum"
+              ],
+              "targetLanguage": "びじゅつかんに いきたいです。"
+            },
+            {
+              "id": "F5-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'げいじゅつに きょうみが あります' means:",
+              "correctAnswer": "I'm interested in art",
+              "options": [
+                "I study art",
+                "I sell art",
+                "I make art",
+                "I'm interested in art"
+              ],
+              "targetLanguage": "げいじゅつに きょうみが あります"
+            },
+            {
+              "id": "F5-L2-E6",
+              "type": "speaking",
+              "prompt": "Suggest a cultural activity to a friend",
+              "correctAnswer": "[こうどう]に いきませんか？",
+              "targetLanguage": "[こうどう]に いきませんか？"
+            }
+          ]
+        },
+        {
+          "id": "F5-L3",
+          "title": "おんがくと よむ (Music & Reading)",
+          "description": "おんがくと よむ (Music & Reading)",
+          "exercises": [
+            {
+              "id": "F5-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ギターを ひく|to play guitar",
+                "ピアノを ひく|to play piano",
+                "うたう (歌う)|to sing",
+                "ほんを よむ|to read books"
+              ]
+            },
+            {
+              "id": "F5-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'クラシックを きくのが すきです' means:",
+              "correctAnswer": "I like listening to classical music",
+              "options": [
+                "I play classical music",
+                "I like listening to classical music",
+                "I dislike classical music",
+                "I study music"
+              ],
+              "targetLanguage": "クラシックを きくのが すきです"
+            },
+            {
+              "id": "F5-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I read every evening before sleep",
+              "correctAnswer": "まいばん ねる まえに ほんを よみます",
+              "targetLanguage": "まいばん ねる まえに ほんを よみます"
+            },
+            {
+              "id": "F5-L3-E4",
+              "type": "listening",
+              "prompt": "What instrument does the speaker play?",
+              "correctAnswer": "Piano",
+              "options": [
+                "Piano",
+                "Drums",
+                "Guitar",
+                "Violin"
+              ],
+              "targetLanguage": "じゅうねん ピアノを ひいています。"
+            },
+            {
+              "id": "F5-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'いちばん すきな ほんは …' means:",
+              "correctAnswer": "My favourite book is …",
+              "options": [
+                "I wrote …",
+                "I recommend …",
+                "My favourite book is …",
+                "I'm reading …"
+              ],
+              "targetLanguage": "いちばん すきな ほんは …"
+            },
+            {
+              "id": "F5-L3-E6",
+              "type": "speaking",
+              "prompt": "Describe a hobby you enjoy in your free time",
+              "correctAnswer": "じゆうな じかんに [しゅみ]を します。[りゆう]が すきです。",
+              "targetLanguage": "じゆうな じかんに [しゅみ]を します。[りゆう]が すきです。"
+            }
+          ]
+        },
+        {
+          "id": "F5-L4",
+          "title": "よていを たてる (Making plans)",
+          "description": "よていを たてる (Making plans)",
+          "exercises": [
+            {
+              "id": "F5-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "〜したい|want to do ~",
+                "よていが ある|have a plan",
+                "やくそくする|to make an appointment",
+                "キャンセルする|to cancel"
+              ]
+            },
+            {
+              "id": "F5-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'どようびは あいていますか？' means:",
+              "correctAnswer": "Are you free on Saturday?",
+              "options": [
+                "What are you doing Saturday?",
+                "Do you work on Saturday?",
+                "Are you free on Saturday?",
+                "When do you finish Saturday?"
+              ],
+              "targetLanguage": "どようびは あいていますか？"
+            },
+            {
+              "id": "F5-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: We could meet at seven",
+              "correctAnswer": "しちじに あえますか",
+              "targetLanguage": "しちじに あえますか"
+            },
+            {
+              "id": "F5-L4-E4",
+              "type": "listening",
+              "prompt": "What does the friend suggest?",
+              "correctAnswer": "Going to the cinema on Friday",
+              "options": [
+                "Going out on Saturday",
+                "Going to the cinema on Friday",
+                "A museum visit",
+                "A football match"
+              ],
+              "targetLanguage": "きんようびに えいがを みに いきませんか？"
+            },
+            {
+              "id": "F5-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'キャンセルしなければ なりません' means:",
+              "correctAnswer": "I have to cancel",
+              "options": [
+                "I'll be a bit late",
+                "I'd love to come",
+                "I have to cancel",
+                "I can't decide"
+              ],
+              "targetLanguage": "キャンセルしなければ なりません"
+            },
+            {
+              "id": "F5-L4-E6",
+              "type": "speaking",
+              "prompt": "Invite a friend to do something at the weekend",
+              "correctAnswer": "しゅうまつに [こうどう]に いきませんか？",
+              "targetLanguage": "しゅうまつに [こうどう]に いきませんか？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "title": "けんこう",
+      "description": "Health and wellbeing",
+      "icon": "heart.fill",
+      "lessons": [
+        {
+          "id": "F6-L1",
+          "title": "びょういんで (At the doctor)",
+          "description": "びょういんで (At the doctor)",
+          "exercises": [
+            {
+              "id": "F6-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "あたまが いたい|to have a headache",
+                "ねつが ある|to have a fever",
+                "せきが でる|to cough",
+                "かぜを ひいている|to have a cold"
+              ]
+            },
+            {
+              "id": "F6-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'きぶんが わるいです' means:",
+              "correctAnswer": "I don't feel well",
+              "options": [
+                "I need medicine",
+                "I am tired",
+                "I have pain",
+                "I don't feel well"
+              ],
+              "targetLanguage": "きぶんが わるいです"
+            },
+            {
+              "id": "F6-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I have a headache and a fever",
+              "correctAnswer": "あたまが いたくて ねつも あります",
+              "targetLanguage": "あたまが いたくて ねつも あります"
+            },
+            {
+              "id": "F6-L1-E4",
+              "type": "listening",
+              "prompt": "What symptom does the patient describe?",
+              "correctAnswer": "Sore throat",
+              "options": [
+                "Cough",
+                "Fever",
+                "Sore throat",
+                "Headache"
+              ],
+              "targetLanguage": "のどが いたいです。"
+            },
+            {
+              "id": "F6-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'いつごろから ですか？' means:",
+              "correctAnswer": "Since when have you had this?",
+              "options": [
+                "Do you have allergies?",
+                "What medicine do you take?",
+                "Since when have you had this?",
+                "Does it hurt when you breathe?"
+              ],
+              "targetLanguage": "いつごろから ですか？"
+            },
+            {
+              "id": "F6-L1-E6",
+              "type": "speaking",
+              "prompt": "Tell the doctor how you feel",
+              "correctAnswer": "きぶんが わるいです。[しょうじょう]が あります。",
+              "targetLanguage": "きぶんが わるいです。[しょうじょう]が あります。"
+            }
+          ]
+        },
+        {
+          "id": "F6-L2",
+          "title": "やっきょくで (At the pharmacy)",
+          "description": "やっきょくで (At the pharmacy)",
+          "exercises": [
+            {
+              "id": "F6-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "いたみどめ|painkiller",
+                "こうせいぶっしつ|antibiotic",
+                "ばんそうこう|plaster / bandaid",
+                "クリーム|cream"
+              ]
+            },
+            {
+              "id": "F6-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'ずつうに きく くすりは ありますか？' means:",
+              "correctAnswer": "Do you have something for headaches?",
+              "options": [
+                "Do you have something for headaches?",
+                "What do you recommend?",
+                "How often should I take this?",
+                "Is this prescription only?"
+              ],
+              "targetLanguage": "ずつうに きく くすりは ありますか？"
+            },
+            {
+              "id": "F6-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I need something for a cough",
+              "correctAnswer": "せきに きく くすりが ほしいです",
+              "targetLanguage": "せきに きく くすりが ほしいです"
+            },
+            {
+              "id": "F6-L2-E4",
+              "type": "listening",
+              "prompt": "What does the pharmacist say about the medicine?",
+              "correctAnswer": "Take it three times a day",
+              "options": [
+                "Take it with food",
+                "It can cause drowsiness",
+                "It requires a prescription",
+                "Take it three times a day"
+              ],
+              "targetLanguage": "いちにち さんかい のんでください。"
+            },
+            {
+              "id": "F6-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'しょほうせんが ひつようです' means:",
+              "correctAnswer": "A prescription is required",
+              "options": [
+                "A prescription is required",
+                "This is out of stock",
+                "This is very strong",
+                "This is over the counter"
+              ],
+              "targetLanguage": "しょほうせんが ひつようです"
+            },
+            {
+              "id": "F6-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask the pharmacist for advice",
+              "correctAnswer": "[しょうじょう]に きく くすりは ありますか？",
+              "targetLanguage": "[しょうじょう]に きく くすりは ありますか？"
+            }
+          ]
+        },
+        {
+          "id": "F6-L3",
+          "title": "けんこう と ウェルネス (Health & Wellness)",
+          "description": "けんこう と ウェルネス (Health & Wellness)",
+          "exercises": [
+            {
+              "id": "F6-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ストレッチする|to stretch",
+                "やすむ (休む)|to rest",
+                "バランスよく たべる|to eat healthily",
+                "ねる (寝る)|to sleep"
+              ]
+            },
+            {
+              "id": "F6-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'けんこうてきに たべるように しています' means:",
+              "correctAnswer": "I try to eat healthily",
+              "options": [
+                "I always eat well",
+                "I don't eat meat",
+                "I am on a diet",
+                "I try to eat healthily"
+              ],
+              "targetLanguage": "けんこうてきに たべるように しています"
+            },
+            {
+              "id": "F6-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I sleep eight hours a night",
+              "correctAnswer": "いちにち はちじかん ねます",
+              "targetLanguage": "いちにち はちじかん ねます"
+            },
+            {
+              "id": "F6-L3-E4",
+              "type": "listening",
+              "prompt": "What healthy habit does the speaker mention?",
+              "correctAnswer": "Drinking enough water",
+              "options": [
+                "Exercising daily",
+                "Eating less sugar",
+                "Drinking enough water",
+                "Going to bed early"
+              ],
+              "targetLanguage": "まいにち じゅうぶんに みずを のむように しています。"
+            },
+            {
+              "id": "F6-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'たいちょうが いいです' means:",
+              "correctAnswer": "I'm in good health / feeling well",
+              "options": [
+                "I need rest",
+                "I am ill",
+                "I am exhausted",
+                "I'm in good health / feeling well"
+              ],
+              "targetLanguage": "たいちょうが いいです"
+            },
+            {
+              "id": "F6-L3-E6",
+              "type": "speaking",
+              "prompt": "Talk about a healthy habit you have",
+              "correctAnswer": "わたしは [しゅうかん]を しています。それで [こうか]です。",
+              "targetLanguage": "わたしは [しゅうかん]を しています。それで [こうか]です。"
+            }
+          ]
+        },
+        {
+          "id": "F6-L4",
+          "title": "きんきゅう (Emergencies)",
+          "description": "きんきゅう (Emergencies)",
+          "exercises": [
+            {
+              "id": "F6-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きんきゅう|emergency",
+                "きゅうきゅうしゃ|ambulance",
+                "しょうぼうしゃ|fire engine",
+                "けいさつ|police"
+              ]
+            },
+            {
+              "id": "F6-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'きゅうきゅうしゃを よんでください！' means:",
+              "correctAnswer": "Call an ambulance!",
+              "options": [
+                "Call the fire brigade!",
+                "Call an ambulance!",
+                "Stay calm!",
+                "Call the police!"
+              ],
+              "targetLanguage": "きゅうきゅうしゃを よんでください！"
+            },
+            {
+              "id": "F6-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: There has been an accident",
+              "correctAnswer": "じこが おきました",
+              "targetLanguage": "じこが おきました"
+            },
+            {
+              "id": "F6-L4-E4",
+              "type": "listening",
+              "prompt": "What does the caller report?",
+              "correctAnswer": "Someone has collapsed",
+              "options": [
+                "A car has crashed",
+                "Someone has collapsed",
+                "Someone is injured",
+                "There is a fire"
+              ],
+              "targetLanguage": "ひとが たおれました。"
+            },
+            {
+              "id": "F6-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "The main emergency number in Japan is:",
+              "correctAnswer": "110 (police) or 119 (ambulance/fire)",
+              "options": [
+                "110 (police) or 119 (ambulance/fire)",
+                "999",
+                "112",
+                "911"
+              ],
+              "explanation": "119 is for ambulance and fire in Japan; 110 is for police.",
+              "targetLanguage": "119"
+            },
+            {
+              "id": "F6-L4-E6",
+              "type": "speaking",
+              "prompt": "Report an emergency",
+              "correctAnswer": "きゅうきゅうしゃを おねがいします！[じょうきょう]が [ばしょ]で おきています。",
+              "targetLanguage": "きゅうきゅうしゃを おねがいします！[じょうきょう]が [ばしょ]で おきています。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7",
+      "title": "かいもの",
+      "description": "Shopping and errands",
+      "icon": "cart.fill",
+      "lessons": [
+        {
+          "id": "F7-L1",
+          "title": "スーパーで (At the supermarket)",
+          "description": "スーパーで (At the supermarket)",
+          "exercises": [
+            {
+              "id": "F7-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "やさい (野菜)|vegetables",
+                "くだもの (果物)|fruit",
+                "にく (肉)|meat",
+                "にゅうせいひん|dairy product"
+              ]
+            },
+            {
+              "id": "F7-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'ぎゅうにゅうは どこですか？' means:",
+              "correctAnswer": "Where can I find the milk?",
+              "options": [
+                "Is the milk fresh?",
+                "Where can I find the milk?",
+                "How much is the milk?",
+                "Do you sell milk?"
+              ],
+              "targetLanguage": "ぎゅうにゅうは どこですか？"
+            },
+            {
+              "id": "F7-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I need bread and butter",
+              "correctAnswer": "パンと バターが ひつようです",
+              "targetLanguage": "パンと バターが ひつようです"
+            },
+            {
+              "id": "F7-L1-E4",
+              "type": "listening",
+              "prompt": "What does the shopper ask for?",
+              "correctAnswer": "A bag",
+              "options": [
+                "The price",
+                "The receipt",
+                "A discount",
+                "A bag"
+              ],
+              "targetLanguage": "ふくろを ください。"
+            },
+            {
+              "id": "F7-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'セールに なっています' means:",
+              "correctAnswer": "That's on sale",
+              "options": [
+                "That's very expensive",
+                "That's out of stock",
+                "That's already paid for",
+                "That's on sale"
+              ],
+              "targetLanguage": "セールに なっています"
+            },
+            {
+              "id": "F7-L1-E6",
+              "type": "speaking",
+              "prompt": "Ask a shop assistant where to find a product",
+              "correctAnswer": "すみません、[しょうひん]は どこですか？",
+              "targetLanguage": "すみません、[しょうひん]は どこですか？"
+            }
+          ]
+        },
+        {
+          "id": "F7-L2",
+          "title": "ようふくを かう (Buying clothes)",
+          "description": "ようふくを かう (Buying clothes)",
+          "exercises": [
+            {
+              "id": "F7-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "サイズ|size",
+                "しちゃくする (試着する)|to try on",
+                "あう (合う)|to fit",
+                "しちゃくしつ|fitting room"
+              ]
+            },
+            {
+              "id": "F7-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'Mサイズは ありますか？' means:",
+              "correctAnswer": "Do you have this in size M?",
+              "options": [
+                "Where is the fitting room?",
+                "Can I try this on?",
+                "Is this on sale?",
+                "Do you have this in size M?"
+              ],
+              "targetLanguage": "Mサイズは ありますか？"
+            },
+            {
+              "id": "F7-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: Can I try this on?",
+              "correctAnswer": "しちゃくしても いいですか？",
+              "targetLanguage": "しちゃくしても いいですか？"
+            },
+            {
+              "id": "F7-L2-E4",
+              "type": "listening",
+              "prompt": "Why does the customer not buy the item?",
+              "correctAnswer": "It doesn't fit",
+              "options": [
+                "Too expensive",
+                "Wrong colour",
+                "Out of stock",
+                "It doesn't fit"
+              ],
+              "targetLanguage": "サイズが あいませんでした。"
+            },
+            {
+              "id": "F7-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'けっこんしきに きる ものを さがしています' means:",
+              "correctAnswer": "I'm looking for something to wear to a wedding",
+              "options": [
+                "I'm looking for something to wear to a wedding",
+                "I need something formal",
+                "I want a party outfit",
+                "I'm looking for a white dress"
+              ],
+              "targetLanguage": "けっこんしきに きる ものを さがしています"
+            },
+            {
+              "id": "F7-L2-E6",
+              "type": "speaking",
+              "prompt": "Ask for a different size in a shop",
+              "correctAnswer": "[サイズ]は ありますか？しちゃくしても いいですか？",
+              "targetLanguage": "[サイズ]は ありますか？しちゃくしても いいですか？"
+            }
+          ]
+        },
+        {
+          "id": "F7-L3",
+          "title": "ねだんと しはらい (Prices & Payment)",
+          "description": "ねだんと しはらい (Prices & Payment)",
+          "exercises": [
+            {
+              "id": "F7-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "やすい (安い)|cheap / affordable",
+                "たかい (高い)|expensive",
+                "ねだん (値段)|price",
+                "わりびき|discount"
+              ]
+            },
+            {
+              "id": "F7-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'おいくらですか？' means:",
+              "correctAnswer": "How much does that cost?",
+              "options": [
+                "Is that for sale?",
+                "How much does that cost?",
+                "Do you give discounts?",
+                "Can I pay by card?"
+              ],
+              "targetLanguage": "おいくらですか？"
+            },
+            {
+              "id": "F7-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: That is too expensive for me",
+              "correctAnswer": "わたしには たかすぎます",
+              "targetLanguage": "わたしには たかすぎます"
+            },
+            {
+              "id": "F7-L3-E4",
+              "type": "listening",
+              "prompt": "What does the customer say about the price?",
+              "correctAnswer": "It's reasonable",
+              "options": [
+                "They want a discount",
+                "It's too expensive",
+                "It's reasonable",
+                "They don't have cash"
+              ],
+              "targetLanguage": "ねだんは てごろです。"
+            },
+            {
+              "id": "F7-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'わりびきは ありますか？' means:",
+              "correctAnswer": "Is there a discount?",
+              "options": [
+                "Do you accept vouchers?",
+                "Is this the final price?",
+                "Is there a discount?",
+                "Can I return this?"
+              ],
+              "targetLanguage": "わりびきは ありますか？"
+            },
+            {
+              "id": "F7-L3-E6",
+              "type": "speaking",
+              "prompt": "Negotiate a price in a market",
+              "correctAnswer": "これは おいくらですか？すこし たかいですね。まけて もらえますか？",
+              "targetLanguage": "これは おいくらですか？すこし たかいですね。まけて もらえますか？"
+            }
+          ]
+        },
+        {
+          "id": "F7-L4",
+          "title": "へんぴん (Returns)",
+          "description": "へんぴん (Returns)",
+          "exercises": [
+            {
+              "id": "F7-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きず / こしょう|defect / fault",
+                "こうかんする|to exchange",
+                "へんぴんする|to return",
+                "レシート|receipt"
+              ]
+            },
+            {
+              "id": "F7-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'こうかんして もらえますか？' means:",
+              "correctAnswer": "Can I exchange this?",
+              "options": [
+                "Can I exchange this?",
+                "I'd like a refund",
+                "I need the manager",
+                "I want to complain"
+              ],
+              "targetLanguage": "こうかんして もらえますか？"
+            },
+            {
+              "id": "F7-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The product is defective",
+              "correctAnswer": "しょうひんに きずが あります",
+              "targetLanguage": "しょうひんに きずが あります"
+            },
+            {
+              "id": "F7-L4-E4",
+              "type": "listening",
+              "prompt": "What problem does the customer have?",
+              "correctAnswer": "The item is broken",
+              "options": [
+                "Item missing",
+                "Wrong size",
+                "The item is broken",
+                "Wrong colour"
+              ],
+              "targetLanguage": "きかいが こわれています。"
+            },
+            {
+              "id": "F7-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'レシートは ありますか？' means:",
+              "correctAnswer": "Do you have the receipt?",
+              "options": [
+                "Did you buy this here?",
+                "When did you buy this?",
+                "Do you have the receipt?",
+                "What is the problem?"
+              ],
+              "targetLanguage": "レシートは ありますか？"
+            },
+            {
+              "id": "F7-L4-E6",
+              "type": "speaking",
+              "prompt": "Return a defective item to a shop",
+              "correctAnswer": "この [しょうひん]を へんぴんしたいです。[もんだい]が あります。",
+              "targetLanguage": "この [しょうひん]を へんぴんしたいです。[もんだい]が あります。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "title": "しぜんと かんきょう",
+      "description": "Nature and the environment",
+      "icon": "leaf.fill",
+      "lessons": [
+        {
+          "id": "F8-L1",
+          "title": "てんき (Weather)",
+          "description": "てんき (Weather)",
+          "exercises": [
+            {
+              "id": "F8-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "あめが ふっています|it's raining",
+                "ゆきが ふっています|it's snowing",
+                "はれています|it's sunny",
+                "くもっています|it's cloudy"
+              ]
+            },
+            {
+              "id": "F8-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'きょうの てんきは どうですか？' means:",
+              "correctAnswer": "What is the weather like today?",
+              "options": [
+                "Will it rain?",
+                "What's the forecast?",
+                "What is the weather like today?",
+                "Is it cold?"
+              ],
+              "targetLanguage": "きょうの てんきは どうですか？"
+            },
+            {
+              "id": "F8-L1-E3",
+              "type": "wordOrder",
+              "prompt": "Build: It is cold and rainy",
+              "correctAnswer": "さむくて あめが ふっています",
+              "targetLanguage": "さむくて あめが ふっています"
+            },
+            {
+              "id": "F8-L1-E4",
+              "type": "listening",
+              "prompt": "What is the weather like according to the speaker?",
+              "correctAnswer": "Sunny and warm",
+              "options": [
+                "Sunny and warm",
+                "Cold and cloudy",
+                "Snowing",
+                "Rainy"
+              ],
+              "targetLanguage": "きょうは はれていて あたたかいです。"
+            },
+            {
+              "id": "F8-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'てんきよほうでは あめに なると いっています' means:",
+              "correctAnswer": "The forecast says it will rain",
+              "options": [
+                "No rain expected",
+                "Rain is possible",
+                "It's raining now",
+                "The forecast says it will rain"
+              ],
+              "targetLanguage": "てんきよほうでは あめに なると いっています"
+            },
+            {
+              "id": "F8-L1-E6",
+              "type": "speaking",
+              "prompt": "Describe today's weather",
+              "correctAnswer": "きょうは [てんき]です。きおんは [おんど]どです。",
+              "targetLanguage": "きょうは [てんき]です。きおんは [おんど]どです。"
+            }
+          ]
+        },
+        {
+          "id": "F8-L2",
+          "title": "きせつ (Seasons)",
+          "description": "きせつ (Seasons)",
+          "exercises": [
+            {
+              "id": "F8-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "はる (春)|spring",
+                "なつ (夏)|summer",
+                "あき (秋)|autumn",
+                "ふゆ (冬)|winter"
+              ]
+            },
+            {
+              "id": "F8-L2-E2",
+              "type": "multipleChoice",
+              "prompt": "'いちばん すきな きせつは あきです' means:",
+              "correctAnswer": "My favourite season is autumn",
+              "options": [
+                "I enjoy spring most",
+                "My favourite season is autumn",
+                "I like all seasons",
+                "I prefer winter"
+              ],
+              "targetLanguage": "いちばん すきな きせつは あきです"
+            },
+            {
+              "id": "F8-L2-E3",
+              "type": "wordOrder",
+              "prompt": "Build: In winter it often snows",
+              "correctAnswer": "ふゆは よく ゆきが ふります",
+              "targetLanguage": "ふゆは よく ゆきが ふります"
+            },
+            {
+              "id": "F8-L2-E4",
+              "type": "listening",
+              "prompt": "Which season does the speaker prefer?",
+              "correctAnswer": "Summer",
+              "options": [
+                "Spring",
+                "Winter",
+                "Autumn",
+                "Summer"
+              ],
+              "targetLanguage": "なつが いちばん すきです。"
+            },
+            {
+              "id": "F8-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'はるに はなが さきます' means:",
+              "correctAnswer": "In spring the flowers bloom",
+              "options": [
+                "In spring it's warm",
+                "In spring the flowers bloom",
+                "In spring there are many festivals",
+                "In spring it rains a lot"
+              ],
+              "targetLanguage": "はるに はなが さきます"
+            },
+            {
+              "id": "F8-L2-E6",
+              "type": "speaking",
+              "prompt": "Describe your favourite season and why",
+              "correctAnswer": "いちばん すきな きせつは [きせつ]です。[りゆう]からです。",
+              "targetLanguage": "いちばん すきな きせつは [きせつ]です。[りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "F8-L3",
+          "title": "かんきょう (Environment)",
+          "description": "かんきょう (Environment)",
+          "exercises": [
+            {
+              "id": "F8-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ごみを ぶんべつする|to sort waste",
+                "エネルギーを せつやくする|to save energy",
+                "リサイクルする|to recycle",
+                "きこうへんどう|climate change"
+              ]
+            },
+            {
+              "id": "F8-L3-E2",
+              "type": "multipleChoice",
+              "prompt": "'かんきょうを まもらなければ なりません' means:",
+              "correctAnswer": "We must protect the environment",
+              "options": [
+                "We must protect the environment",
+                "We need more green spaces",
+                "The environment is clean",
+                "We recycle everything"
+              ],
+              "targetLanguage": "かんきょうを まもらなければ なりません"
+            },
+            {
+              "id": "F8-L3-E3",
+              "type": "wordOrder",
+              "prompt": "Build: I always separate my rubbish",
+              "correctAnswer": "いつも ごみを ぶんべつします",
+              "targetLanguage": "いつも ごみを ぶんべつします"
+            },
+            {
+              "id": "F8-L3-E4",
+              "type": "listening",
+              "prompt": "What eco-action does the speaker mention?",
+              "correctAnswer": "Using public transport",
+              "options": [
+                "Solar panels",
+                "Buying less",
+                "Recycling",
+                "Using public transport"
+              ],
+              "targetLanguage": "CO₂を へらすために こうきょうこうつうを つかっています。"
+            },
+            {
+              "id": "F8-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'さいせい かのう エネルギー' means:",
+              "correctAnswer": "Renewable energy",
+              "options": [
+                "Fossil fuels",
+                "Natural gas",
+                "Renewable energy",
+                "Nuclear energy"
+              ],
+              "targetLanguage": "さいせい かのう エネルギー"
+            },
+            {
+              "id": "F8-L3-E6",
+              "type": "speaking",
+              "prompt": "Name two things you do to help the environment",
+              "correctAnswer": "[こうどう1]と [こうどう2]を して かんきょうを まもっています。",
+              "targetLanguage": "[こうどう1]と [こうどう2]を して かんきょうを まもっています。"
+            }
+          ]
+        },
+        {
+          "id": "F8-L4",
+          "title": "どうぶつと しぜん (Animals & Nature)",
+          "description": "どうぶつと しぜん (Animals & Nature)",
+          "exercises": [
+            {
+              "id": "F8-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "もり (森)|forest",
+                "みずうみ (湖)|lake",
+                "かいがん (海岸)|coast",
+                "やま (山)|mountain"
+              ]
+            },
+            {
+              "id": "F8-L4-E2",
+              "type": "multipleChoice",
+              "prompt": "'ハイキングが すきです' means:",
+              "correctAnswer": "I enjoy hiking",
+              "options": [
+                "I love nature",
+                "I like camping",
+                "I enjoy hiking",
+                "I cycle in nature"
+              ],
+              "targetLanguage": "ハイキングが すきです"
+            },
+            {
+              "id": "F8-L4-E3",
+              "type": "wordOrder",
+              "prompt": "Build: The forest is beautiful in autumn",
+              "correctAnswer": "もりは あきに うつくしいです",
+              "targetLanguage": "もりは あきに うつくしいです"
+            },
+            {
+              "id": "F8-L4-E4",
+              "type": "listening",
+              "prompt": "What natural landscape does the speaker describe?",
+              "correctAnswer": "Mountains",
+              "options": [
+                "Coast",
+                "Lake",
+                "Mountains",
+                "Forest"
+              ],
+              "targetLanguage": "やまは ふゆに とくに きれいです。"
+            },
+            {
+              "id": "F8-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'きぜつきぐしゅ' means:",
+              "correctAnswer": "Endangered species",
+              "options": [
+                "Native plants",
+                "Protected areas",
+                "Endangered species",
+                "Wild animals"
+              ],
+              "targetLanguage": "きぜつきぐしゅ"
+            },
+            {
+              "id": "F8-L4-E6",
+              "type": "speaking",
+              "prompt": "Describe a place in nature you love",
+              "correctAnswer": "[ばしょ]が だいすきです。[せつめい]です。",
+              "targetLanguage": "[ばしょ]が だいすきです。[せつめい]です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "title": "しゃかいと ぶんか",
+      "description": "Society and culture",
+      "icon": "globe.asia.australia.fill",
+      "lessons": [
+        {
+          "id": "E1-L1",
+          "title": "でんとう (Traditions)",
+          "description": "でんとう (Traditions)",
+          "exercises": [
+            {
+              "id": "E1-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "おしょうがつ|New Year",
+                "おぼん|Obon festival",
+                "はなみ|cherry blossom viewing",
+                "たなばた|Tanabata festival"
+              ]
+            },
+            {
+              "id": "E1-L1-E2",
+              "type": "multipleChoice",
+              "prompt": "'おしょうがつは いちがつ ついたちです' means:",
+              "correctAnswer": "New Year is on January 1st",
+              "options": [
+                "New Year is on January 1st",
+                "New Year was created recently",
+                "New Year is in spring",
+                "New Year is a national holiday"
+              ],
+              "targetLanguage": "おしょうがつは いちがつ ついたちです"
+            },
+            {
+              "id": "E1-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: Hanami is the Japanese tradition of viewing cherry blossoms in spring",
+              "correctAnswer": "はなみは はるに さくらを みる にほんの でんとうです",
+              "targetLanguage": "はなみは はるに さくらを みる にほんの でんとうです"
+            },
+            {
+              "id": "E1-L1-E4",
+              "type": "translation",
+              "prompt": "Translate: Obon is a festival to honour the spirits of ancestors",
+              "correctAnswer": "おぼんは そせんの たましいを うやまう おまつりです",
+              "targetLanguage": "おぼんは そせんの たましいを うやまう おまつりです"
+            },
+            {
+              "id": "E1-L1-E5",
+              "type": "wordOrder",
+              "prompt": "Build: Japanese festivals vary greatly by region",
+              "correctAnswer": "にほんの おまつりは ちほうによって おおきく ちがいます",
+              "targetLanguage": "にほんの おまつりは ちほうによって おおきく ちがいます"
+            },
+            {
+              "id": "E1-L1-E6",
+              "type": "multipleChoice",
+              "prompt": "'でんとう' means:",
+              "correctAnswer": "Tradition / custom",
+              "options": [
+                "Law",
+                "Festival",
+                "Tradition / custom",
+                "Region"
+              ],
+              "targetLanguage": "でんとう"
+            },
+            {
+              "id": "E1-L1-E7",
+              "type": "listening",
+              "prompt": "What Japanese tradition does the speaker describe?",
+              "correctAnswer": "Eating soba noodles on New Year's Eve",
+              "options": [
+                "Bon dancing",
+                "Eating soba noodles on New Year's Eve",
+                "Cherry blossom viewing",
+                "Tanabata wishes"
+              ],
+              "targetLanguage": "おおみそかに としこしそばを たべます。"
+            },
+            {
+              "id": "E1-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe a tradition from your own country",
+              "correctAnswer": "わたしの くにでは [おまつり/でんとう]を します。[ないよう]です。",
+              "targetLanguage": "わたしの くにでは [おまつり/でんとう]を します。[ないよう]です。"
+            }
+          ]
+        },
+        {
+          "id": "E1-L2",
+          "title": "しゃかいてきな もんだい (Social issues)",
+          "description": "しゃかいてきな もんだい (Social issues)",
+          "exercises": [
+            {
+              "id": "E1-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "びょうどう|equality",
+                "たようせい|diversity",
+                "とうごう|integration",
+                "じぞくかのうせい|sustainability"
+              ]
+            },
+            {
+              "id": "E1-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: Gender equality is an important social goal",
+              "correctAnswer": "ジェンダー びょうどうは じゅうような しゃかいてきな もくひょうです",
+              "targetLanguage": "ジェンダー びょうどうは じゅうような しゃかいてきな もくひょうです"
+            },
+            {
+              "id": "E1-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Diversity in the workplace leads to more creativity",
+              "correctAnswer": "しょくばでの たようせいは より おおくの そうぞうせいを うみだします",
+              "targetLanguage": "しょくばでの たようせいは より おおくの そうぞうせいを うみだします"
+            },
+            {
+              "id": "E1-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Social cohesion is important for a functioning society",
+              "correctAnswer": "しゃかいてきな だんけつは きのうする しゃかいに かかせません",
+              "targetLanguage": "しゃかいてきな だんけつは きのうする しゃかいに かかせません"
+            },
+            {
+              "id": "E1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'ボランティア' means:",
+              "correctAnswer": "Volunteer work",
+              "options": [
+                "Religious service",
+                "Volunteer work",
+                "Paid charity work",
+                "Government work"
+              ],
+              "targetLanguage": "ボランティア"
+            },
+            {
+              "id": "E1-L2-E6",
+              "type": "listening",
+              "prompt": "What social topic does the speaker discuss?",
+              "correctAnswer": "Declining birthrate and ageing society",
+              "options": [
+                "Education reform",
+                "Declining birthrate and ageing society",
+                "Gender equality",
+                "Environmental policy"
+              ],
+              "targetLanguage": "しょうしこうれいかは にほんの だいじな しゃかいてきな もんだいです。"
+            },
+            {
+              "id": "E1-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'ひえいりだんたい' means:",
+              "correctAnswer": "Non-profit organisation",
+              "options": [
+                "State-funded body",
+                "Non-profit organisation",
+                "International agency",
+                "Private company"
+              ],
+              "targetLanguage": "ひえいりだんたい"
+            },
+            {
+              "id": "E1-L2-E8",
+              "type": "speaking",
+              "prompt": "Share your view on a social topic",
+              "correctAnswer": "わたしは [テーマ]は じゅうようだと おもいます。なぜなら [りゆう]からです。",
+              "targetLanguage": "わたしは [テーマ]は じゅうようだと おもいます。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "E1-L3",
+          "title": "メディアと コミュニケーション",
+          "description": "メディアと コミュニケーション",
+          "exercises": [
+            {
+              "id": "E1-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ニュース|news",
+                "ポッドキャスト|podcast",
+                "SNS|social media",
+                "しんぶん (新聞)|newspaper"
+              ]
+            },
+            {
+              "id": "E1-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Social media has a great influence on public opinion",
+              "correctAnswer": "SNSは よろんに おおきな えいきょうを あたえています",
+              "targetLanguage": "SNSは よろんに おおきな えいきょうを あたえています"
+            },
+            {
+              "id": "E1-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: It is important to check the reliability of sources",
+              "correctAnswer": "じょうほうの しんぴょうせいを かくにんすることが たいせつです",
+              "targetLanguage": "じょうほうの しんぴょうせいを かくにんすることが たいせつです"
+            },
+            {
+              "id": "E1-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I read the news online every morning",
+              "correctAnswer": "まいあさ オンラインで ニュースを よんでいます",
+              "targetLanguage": "まいあさ オンラインで ニュースを よんでいます"
+            },
+            {
+              "id": "E1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'フェイクニュース' describes:",
+              "correctAnswer": "False or misleading information presented as news",
+              "options": [
+                "Sensational but true stories",
+                "False or misleading information presented as news",
+                "Opinion pieces",
+                "Paid advertising content"
+              ],
+              "targetLanguage": "フェイクニュース"
+            },
+            {
+              "id": "E1-L3-E6",
+              "type": "listening",
+              "prompt": "What does the speaker say about their media habits?",
+              "correctAnswer": "They use several sources to inform themselves",
+              "options": [
+                "They use several sources to inform themselves",
+                "They only trust TV",
+                "They avoid the news",
+                "They only read newspapers"
+              ],
+              "targetLanguage": "かたよりを さけるために いくつかの じょうほうげんを つかっています。"
+            },
+            {
+              "id": "E1-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'ほうどうの じゆう' means:",
+              "correctAnswer": "Freedom of the press",
+              "options": [
+                "Journalism ethics",
+                "Freedom of the press",
+                "State broadcasting",
+                "Media regulation"
+              ],
+              "targetLanguage": "ほうどうの じゆう"
+            },
+            {
+              "id": "E1-L3-E8",
+              "type": "speaking",
+              "prompt": "Describe how you stay informed",
+              "correctAnswer": "わたしは [じょうほうげん]で じょうほうを えています。[りゆう]からです。",
+              "targetLanguage": "わたしは [じょうほうげん]で じょうほうを えています。[りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "E1-L4",
+          "title": "れきしと アイデンティティ",
+          "description": "れきしと アイデンティティ",
+          "exercises": [
+            {
+              "id": "E1-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "かこ (過去)|the past",
+                "げんざい (現在)|the present",
+                "みらい (未来)|the future",
+                "いさん (遺産)|heritage / legacy"
+              ]
+            },
+            {
+              "id": "E1-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Japan's rapid modernisation in the Meiji era changed the country profoundly",
+              "correctAnswer": "めいじじだいの にほんの きゅうそくな きんだいかは くにを おおきく かえました",
+              "targetLanguage": "めいじじだいの にほんの きゅうそくな きんだいかは くにを おおきく かえました"
+            },
+            {
+              "id": "E1-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Confronting the past is an important part of building national identity",
+              "correctAnswer": "かこに むきあうことは こくみん アイデンティティを きずくうえで じゅうようです",
+              "targetLanguage": "かこに むきあうことは こくみん アイデンティティを きずくうえで じゅうようです"
+            },
+            {
+              "id": "E1-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The end of World War II was a turning point in Japanese history",
+              "correctAnswer": "だいにじ せかいたいせんの しゅうけつは にほんの れきしの てんかんてんでした",
+              "targetLanguage": "だいにじ せかいたいせんの しゅうけつは にほんの れきしの てんかんてんでした"
+            },
+            {
+              "id": "E1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'めいじいしん' means:",
+              "correctAnswer": "The Meiji Restoration",
+              "options": [
+                "A revolution",
+                "The Meiji Restoration",
+                "Independence",
+                "Liberation"
+              ],
+              "targetLanguage": "めいじいしん"
+            },
+            {
+              "id": "E1-L4-E6",
+              "type": "listening",
+              "prompt": "What historical event does the speaker mention?",
+              "correctAnswer": "Japan's entry into the modern era with the Meiji Restoration",
+              "options": [
+                "The Edo period",
+                "Economic miracle",
+                "Japan's entry into the modern era with the Meiji Restoration",
+                "End of World War II"
+              ],
+              "targetLanguage": "めいじいしんは にほんを かいほうしました。"
+            },
+            {
+              "id": "E1-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'しれきしにんしき' means:",
+              "correctAnswer": "Historical awareness / recognition of history",
+              "options": [
+                "War memorials",
+                "Political tradition",
+                "Historical awareness / recognition of history",
+                "History lessons"
+              ],
+              "targetLanguage": "しれきしにんしき"
+            },
+            {
+              "id": "E1-L4-E8",
+              "type": "speaking",
+              "prompt": "Talk about a historical event that shaped your country",
+              "correctAnswer": "[できごと]は わたしの くにに おおきな えいきょうを あたえました。なぜなら [りゆう]です。",
+              "targetLanguage": "[できごと]は わたしの くにに おおきな えいきょうを あたえました。なぜなら [りゆう]です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2",
+      "title": "けいざいと ファイナンス",
+      "description": "Economy and finances",
+      "icon": "chart.bar.fill",
+      "lessons": [
+        {
+          "id": "E2-L1",
+          "title": "こじんの ファイナンス (Personal finances)",
+          "description": "こじんの ファイナンス (Personal finances)",
+          "exercises": [
+            {
+              "id": "E2-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きゅうよ (給与)|salary",
+                "ししゅつ (支出)|expenses",
+                "ちょきんする (貯金)|to save",
+                "ローン|loan"
+              ]
+            },
+            {
+              "id": "E2-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: I try to save at least ten percent of my salary each month",
+              "correctAnswer": "まいつき きゅうよの じゅっぱーせんとを ちょきんするように しています",
+              "targetLanguage": "まいつき きゅうよの じゅっぱーせんとを ちょきんするように しています"
+            },
+            {
+              "id": "E2-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: My monthly expenses are higher than expected",
+              "correctAnswer": "まいつきの ししゅつが よそうより たかいです",
+              "targetLanguage": "まいつきの ししゅつが よそうより たかいです"
+            },
+            {
+              "id": "E2-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I have to pay back a loan",
+              "correctAnswer": "ローンを へんさいしなければ なりません",
+              "targetLanguage": "ローンを へんさいしなければ なりません"
+            },
+            {
+              "id": "E2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'かけいぼを つける' means:",
+              "correctAnswer": "To keep a household budget",
+              "options": [
+                "To open a bank account",
+                "To keep a household budget",
+                "To apply for a loan",
+                "To do your taxes"
+              ],
+              "targetLanguage": "かけいぼを つける"
+            },
+            {
+              "id": "E2-L1-E6",
+              "type": "listening",
+              "prompt": "What financial goal does the speaker mention?",
+              "correctAnswer": "Saving for a house",
+              "options": [
+                "Starting a business",
+                "Investing in stocks",
+                "Saving for a house",
+                "Paying off debt"
+              ],
+              "targetLanguage": "マンションを かうために ちょきんしています。"
+            },
+            {
+              "id": "E2-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'きんり (金利)' means:",
+              "correctAnswer": "Interest rate",
+              "options": [
+                "Fees",
+                "Interest rate",
+                "Taxes",
+                "Dividends"
+              ],
+              "targetLanguage": "きんり"
+            },
+            {
+              "id": "E2-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe your approach to personal finances",
+              "correctAnswer": "わたしは [ざいむもくひょう]を めざしています。そのために [こうどう]しています。",
+              "targetLanguage": "わたしは [ざいむもくひょう]を めざしています。そのために [こうどう]しています。"
+            }
+          ]
+        },
+        {
+          "id": "E2-L2",
+          "title": "にほんの けいざい (Japanese economy)",
+          "description": "にほんの けいざい (Japanese economy)",
+          "exercises": [
+            {
+              "id": "E2-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ゆしゅつ (輸出)|exports",
+                "セクター|sector",
+                "しつぎょうりつ|unemployment rate",
+                "こくないそうせいさん (GDP)|GDP"
+              ]
+            },
+            {
+              "id": "E2-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: Japan is one of the world's largest economies",
+              "correctAnswer": "にほんは せかいでも さいだいきゅうの けいざい たいこくです",
+              "targetLanguage": "にほんは せかいでも さいだいきゅうの けいざい たいこくです"
+            },
+            {
+              "id": "E2-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Japanese companies are known for their focus on quality and innovation",
+              "correctAnswer": "にほんの きぎょうは しつと イノベーションへの こだわりで しられています",
+              "targetLanguage": "にほんの きぎょうは しつと イノベーションへの こだわりで しられています"
+            },
+            {
+              "id": "E2-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The unemployment rate has remained relatively low",
+              "correctAnswer": "しつぎょうりつは ひかくてき ひくい すいじゅんを たもっています",
+              "targetLanguage": "しつぎょうりつは ひかくてき ひくい すいじゅんを たもっています"
+            },
+            {
+              "id": "E2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'けいき (景気)' means:",
+              "correctAnswer": "Economic conditions / business climate",
+              "options": [
+                "Economic conditions / business climate",
+                "Trade balance",
+                "Government spending",
+                "Tax policy"
+              ],
+              "targetLanguage": "けいき"
+            },
+            {
+              "id": "E2-L2-E6",
+              "type": "listening",
+              "prompt": "What economic challenge does the speaker describe?",
+              "correctAnswer": "Ageing population affecting workforce",
+              "options": [
+                "Low growth rate",
+                "Ageing population affecting workforce",
+                "Trade deficit",
+                "High inflation"
+              ],
+              "targetLanguage": "こうれいか しゃかいは ろうどうりょく ぶそくを まねいています。"
+            },
+            {
+              "id": "E2-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'ぼうえきこくじょうよ (貿易黒字)' means:",
+              "correctAnswer": "Trade surplus",
+              "options": [
+                "Trade deficit",
+                "Import tariff",
+                "Trade agreement",
+                "Trade surplus"
+              ],
+              "targetLanguage": "ぼうえきこくじょうよ"
+            },
+            {
+              "id": "E2-L2-E8",
+              "type": "speaking",
+              "prompt": "Comment on an economic topic in Japan or your country",
+              "correctAnswer": "[くに]の けいざいは [とくちょう]です。ひとつの かだいは [もんだい]です。",
+              "targetLanguage": "[くに]の けいざいは [とくちょう]です。ひとつの かだいは [もんだい]です。"
+            }
+          ]
+        },
+        {
+          "id": "E2-L3",
+          "title": "きぎょうか (Entrepreneurship)",
+          "description": "きぎょうか (Entrepreneurship)",
+          "exercises": [
+            {
+              "id": "E2-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きぎょう (起業)する|to found / start a business",
+                "スタートアップ|startup",
+                "とうしか (投資家)|investor",
+                "りじゅん (利潤)|profit"
+              ]
+            },
+            {
+              "id": "E2-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Starting a business requires a solid business plan and sufficient capital",
+              "correctAnswer": "きぎょうするには しっかりした ビジネスプランと じゅうぶんな しきんが ひつようです",
+              "targetLanguage": "きぎょうするには しっかりした ビジネスプランと じゅうぶんな しきんが ひつようです"
+            },
+            {
+              "id": "E2-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Many startups fail in the first three years due to cash flow problems",
+              "correctAnswer": "おおくの スタートアップは さいしょの さんねんで キャッシュフローの もんだいから しっぱいします",
+              "targetLanguage": "おおくの スタートアップは さいしょの さんねんで キャッシュフローの もんだいから しっぱいします"
+            },
+            {
+              "id": "E2-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: We are looking for investors for our project",
+              "correctAnswer": "わたしたちの プロジェクトに とうしかを さがしています",
+              "targetLanguage": "わたしたちの プロジェクトに とうしかを さがしています"
+            },
+            {
+              "id": "E2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "A business plan typically includes:",
+              "correctAnswer": "Goals, market analysis, financial projections",
+              "options": [
+                "Product description only",
+                "Company history",
+                "Only financial data",
+                "Goals, market analysis, financial projections"
+              ],
+              "targetLanguage": "Goals, market analysis, financial projections"
+            },
+            {
+              "id": "E2-L3-E6",
+              "type": "listening",
+              "prompt": "What challenge does the entrepreneur describe?",
+              "correctAnswer": "Finding the right team",
+              "options": [
+                "Financing",
+                "Legal issues",
+                "Finding the right team",
+                "Marketing"
+              ],
+              "targetLanguage": "もっとも むずかしかったのは てきせつな チームを つくることでした。"
+            },
+            {
+              "id": "E2-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'スケーラブル' means:",
+              "correctAnswer": "Scalable",
+              "options": [
+                "Innovative",
+                "Sustainable",
+                "Scalable",
+                "Profitable"
+              ],
+              "targetLanguage": "スケーラブル"
+            },
+            {
+              "id": "E2-L3-E8",
+              "type": "speaking",
+              "prompt": "Describe a business idea",
+              "correctAnswer": "わたしの ビジネスアイデアは [アイデア]です。ターゲットは [そうていこきゃく]です。",
+              "targetLanguage": "わたしの ビジネスアイデアは [アイデア]です。ターゲットは [そうていこきゃく]です。"
+            }
+          ]
+        },
+        {
+          "id": "E2-L4",
+          "title": "グローバリゼーション",
+          "description": "グローバリゼーション",
+          "exercises": [
+            {
+              "id": "E2-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "サプライチェーン|supply chain",
+                "じゆうぼうえき|free trade",
+                "ほごしゅぎ|protectionism",
+                "アウトソーシング|outsourcing"
+              ]
+            },
+            {
+              "id": "E2-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Globalisation has both advantages and disadvantages for workers",
+              "correctAnswer": "グローバリゼーションは ろうどうしゃに とって りてんと ふりてんの りょうめんが あります",
+              "targetLanguage": "グローバリゼーションは ろうどうしゃに とって りてんと ふりてんの りょうめんが あります"
+            },
+            {
+              "id": "E2-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Many companies outsource production to countries with lower labour costs",
+              "correctAnswer": "おおくの きぎょうが じんけんひの ひくい くにに せいさんを アウトソーシングしています",
+              "targetLanguage": "おおくの きぎょうが じんけんひの ひくい くにに せいさんを アウトソーシングしています"
+            },
+            {
+              "id": "E2-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Free trade promotes economic growth",
+              "correctAnswer": "じゆうぼうえきは けいざいせいちょうを うながします",
+              "targetLanguage": "じゆうぼうえきは けいざいせいちょうを うながします"
+            },
+            {
+              "id": "E2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'ぼうえきしょうへき' means:",
+              "correctAnswer": "Trade barriers",
+              "options": [
+                "Export subsidies",
+                "Trade deals",
+                "Trade barriers",
+                "Tariff reductions"
+              ],
+              "targetLanguage": "ぼうえきしょうへき"
+            },
+            {
+              "id": "E2-L4-E6",
+              "type": "listening",
+              "prompt": "What argument does the speaker make about globalisation?",
+              "correctAnswer": "It increases inequality within countries",
+              "options": [
+                "It increases inequality within countries",
+                "It makes supply chains more resilient",
+                "It reduces global poverty",
+                "It always benefits workers"
+              ],
+              "targetLanguage": "グローバリゼーションは くにの なかの ふびょうどうを ひろげることが おおい。"
+            },
+            {
+              "id": "E2-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'かちれん (価値連鎖)' means:",
+              "correctAnswer": "Value chain",
+              "options": [
+                "Trade route",
+                "Production line",
+                "Market segment",
+                "Value chain"
+              ],
+              "targetLanguage": "かちれん"
+            },
+            {
+              "id": "E2-L4-E8",
+              "type": "speaking",
+              "prompt": "Give your view on globalisation",
+              "correctAnswer": "グローバリゼーションは [よい/わるい]と おもいます。なぜなら [りゆう]からです。",
+              "targetLanguage": "グローバリゼーションは [よい/わるい]と おもいます。なぜなら [りゆう]からです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E3",
+      "title": "きょういくと かがく",
+      "description": "Education and science",
+      "icon": "graduationcap.fill",
+      "lessons": [
+        {
+          "id": "E3-L1",
+          "title": "にほんの きょういくせいど (Japanese education)",
+          "description": "にほんの きょういくせいど (Japanese education)",
+          "exercises": [
+            {
+              "id": "E3-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "しょうがっこう|primary school",
+                "ちゅうがっこう|junior high school",
+                "こうこう|high school",
+                "だいがく|university"
+              ]
+            },
+            {
+              "id": "E3-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: Japan has compulsory education for nine years covering primary and junior high school",
+              "correctAnswer": "にほんは しょうがっこうと ちゅうがっこうの きゅうねんかん きょういくが ぎむとなっています",
+              "targetLanguage": "にほんは しょうがっこうと ちゅうがっこうの きゅうねんかん きょういくが ぎむとなっています"
+            },
+            {
+              "id": "E3-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: University entrance exams are very competitive in Japan",
+              "correctAnswer": "にほんでは だいがく にゅうがくしけんは ひじょうに きょうそうが はげしいです",
+              "targetLanguage": "にほんでは だいがく にゅうがくしけんは ひじょうに きょうそうが はげしいです"
+            },
+            {
+              "id": "E3-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Education is the foundation of equal opportunities",
+              "correctAnswer": "きょういくは きかいきんとうの きばんです",
+              "targetLanguage": "きょういくは きかいきんとうの きばんです"
+            },
+            {
+              "id": "E3-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'センター試験' (now 共通テスト) is:",
+              "correctAnswer": "A standardised university entrance exam in Japan",
+              "options": [
+                "A placement test only for private universities",
+                "A school qualification",
+                "A standardised university entrance exam in Japan",
+                "A literacy test"
+              ],
+              "targetLanguage": "A standardised university entrance exam in Japan"
+            },
+            {
+              "id": "E3-L1-E6",
+              "type": "listening",
+              "prompt": "What does the speaker say about their educational path?",
+              "correctAnswer": "They attended cram school to prepare for entrance exams",
+              "options": [
+                "They dropped out",
+                "They studied abroad",
+                "They attended cram school to prepare for entrance exams",
+                "They did a technical course"
+              ],
+              "targetLanguage": "だいがく じゅけんの ために じゅくに かよっていました。"
+            },
+            {
+              "id": "E3-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'しょうがくきん' means:",
+              "correctAnswer": "Scholarship",
+              "options": [
+                "Tuition fee",
+                "Student loan",
+                "Academic grade",
+                "Scholarship"
+              ],
+              "targetLanguage": "しょうがくきん"
+            },
+            {
+              "id": "E3-L1-E8",
+              "type": "speaking",
+              "prompt": "Describe your educational background",
+              "correctAnswer": "わたしは [がっこう]で まなびました。[かもく/せんこう]を べんきょうしました。",
+              "targetLanguage": "わたしは [がっこう]で まなびました。[かもく/せんこう]を べんきょうしました。"
+            }
+          ]
+        },
+        {
+          "id": "E3-L2",
+          "title": "かがくてき はっけん (Scientific discoveries)",
+          "description": "かがくてき はっけん (Scientific discoveries)",
+          "exercises": [
+            {
+              "id": "E3-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "かせつ (仮説)|hypothesis",
+                "じっけん (実験)|experiment",
+                "はっけん (発見)|discovery",
+                "しょうめいする|to prove"
+              ]
+            },
+            {
+              "id": "E3-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: The researchers tested their hypothesis with a controlled experiment",
+              "correctAnswer": "けんきゅうしゃたちは とうせいされた じっけんで かせつを けんしょうしました",
+              "targetLanguage": "けんきゅうしゃたちは とうせいされた じっけんで かせつを けんしょうしました"
+            },
+            {
+              "id": "E3-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: The study shows that regular exercise improves cognitive performance",
+              "correctAnswer": "けんきゅうは きそくてきな うんどうが にんちきのうを こうじょうさせることを しめしています",
+              "targetLanguage": "けんきゅうは きそくてきな うんどうが にんちきのうを こうじょうさせることを しめしています"
+            },
+            {
+              "id": "E3-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Scientists are still investigating the causes of this phenomenon",
+              "correctAnswer": "かがくしゃたちは この げんしょうの げんいんを まだ ちょうさしています",
+              "targetLanguage": "かがくしゃたちは この げんしょうの げんいんを まだ ちょうさしています"
+            },
+            {
+              "id": "E3-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'さーらーびゅー' (peer review) ensures:",
+              "correctAnswer": "Research is reviewed by independent experts before publication",
+              "options": [
+                "Data is publicly available",
+                "Studies are fully funded",
+                "Research is reviewed by independent experts before publication",
+                "Only popular topics are published"
+              ],
+              "targetLanguage": "Research is reviewed by independent experts before publication"
+            },
+            {
+              "id": "E3-L2-E6",
+              "type": "listening",
+              "prompt": "What does the researcher conclude?",
+              "correctAnswer": "More data is needed before drawing firm conclusions",
+              "options": [
+                "The results are definitive",
+                "The experiment was successful",
+                "More data is needed before drawing firm conclusions",
+                "The study should be repeated"
+              ],
+              "targetLanguage": "けっかは きたいできますが もっと けんきゅうが ひつようです。"
+            },
+            {
+              "id": "E3-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'さいげんせい (再現性)' in science means:",
+              "correctAnswer": "Reproducibility — getting the same results when an experiment is repeated",
+              "options": [
+                "Adjusting methodology",
+                "Reproducibility — getting the same results when an experiment is repeated",
+                "Copying another study",
+                "Publishing the same findings twice"
+              ],
+              "targetLanguage": "Reproducibility"
+            },
+            {
+              "id": "E3-L2-E8",
+              "type": "speaking",
+              "prompt": "Describe a scientific finding that interested you",
+              "correctAnswer": "[はっけん]が おもしろいと おもいました。なぜなら [りゆう]からです。",
+              "targetLanguage": "[はっけん]が おもしろいと おもいました。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "E3-L3",
+          "title": "デジタルか (Digitalisation)",
+          "description": "デジタルか (Digitalisation)",
+          "exercises": [
+            {
+              "id": "E3-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "じんこうちのう (AI)|artificial intelligence",
+                "アルゴリズム|algorithm",
+                "データ ほご|data protection",
+                "じどうか (自動化)|automation"
+              ]
+            },
+            {
+              "id": "E3-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Artificial intelligence is increasingly used in medicine and research",
+              "correctAnswer": "じんこうちのうは いがくや けんきゅうで ますます ひろく つかわれています",
+              "targetLanguage": "じんこうちのうは いがくや けんきゅうで ますます ひろく つかわれています"
+            },
+            {
+              "id": "E3-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Automation creates new jobs but also makes others redundant",
+              "correctAnswer": "じどうかは あたらしい しごとを うみだす いっぽう ほかの しごとを ふよう にします",
+              "targetLanguage": "じどうかは あたらしい しごとを うみだす いっぽう ほかの しごとを ふよう にします"
+            },
+            {
+              "id": "E3-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Data protection is a fundamental right",
+              "correctAnswer": "データほごは きほんてきな けんりです",
+              "targetLanguage": "データほごは きほんてきな けんりです"
+            },
+            {
+              "id": "E3-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'ビッグデータ' refers to:",
+              "correctAnswer": "Very large datasets analysed to reveal patterns and trends",
+              "options": [
+                "Government data collection",
+                "Secure cloud storage",
+                "Very large datasets analysed to reveal patterns and trends",
+                "A single large database"
+              ],
+              "targetLanguage": "Very large datasets analysed to reveal patterns and trends"
+            },
+            {
+              "id": "E3-L3-E6",
+              "type": "listening",
+              "prompt": "What concern does the speaker raise about AI?",
+              "correctAnswer": "Bias in algorithms disadvantaging certain groups",
+              "options": [
+                "AI is too slow",
+                "AI cannot replace humans",
+                "AI is not yet reliable",
+                "Bias in algorithms disadvantaging certain groups"
+              ],
+              "targetLanguage": "アルゴリズムの バイアスが とくてい グループを ふりに あつかう かのうせいが あります。"
+            },
+            {
+              "id": "E3-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'こじんじょうほう ほごほう' is:",
+              "correctAnswer": "Japan's Act on the Protection of Personal Information",
+              "options": [
+                "Japan's Act on the Protection of Personal Information",
+                "An e-commerce standard",
+                "A cybersecurity protocol",
+                "A digital tax"
+              ],
+              "targetLanguage": "Japan's Act on the Protection of Personal Information"
+            },
+            {
+              "id": "E3-L3-E8",
+              "type": "speaking",
+              "prompt": "Share your view on digitalisation and its impact on society",
+              "correctAnswer": "デジタルかは [えいきょう]を もたらしていると おもいます。なぜなら [りゆう]からです。",
+              "targetLanguage": "デジタルかは [えいきょう]を もたらしていると おもいます。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "E3-L4",
+          "title": "けんきゅうと イノベーション (Research & Innovation)",
+          "description": "けんきゅうと イノベーション (Research & Innovation)",
+          "exercises": [
+            {
+              "id": "E3-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きそ けんきゅう|fundamental research",
+                "おうよう けんきゅう|applied research",
+                "とっきょ (特許)|patent",
+                "イノベーション|innovation"
+              ]
+            },
+            {
+              "id": "E3-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Japan invests heavily in research and development",
+              "correctAnswer": "にほんは けんきゅうかいはつに おおきな とうしを おこなっています",
+              "targetLanguage": "にほんは けんきゅうかいはつに おおきな とうしを おこなっています"
+            },
+            {
+              "id": "E3-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Without basic research many applied technologies would not exist",
+              "correctAnswer": "きそけんきゅうが なければ おおくの おうようぎじゅつは そんざいしなかったでしょう",
+              "targetLanguage": "きそけんきゅうが なければ おおくの おうようぎじゅつは そんざいしなかったでしょう"
+            },
+            {
+              "id": "E3-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The company applied for a patent for its invention",
+              "correctAnswer": "その かいしゃは はつめいに たいして とっきょを しんせいしました",
+              "targetLanguage": "その かいしゃは はつめいに たいして とっきょを しんせいしました"
+            },
+            {
+              "id": "E3-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'スピンオフ' in a research context means:",
+              "correctAnswer": "A company created from a university or research institution",
+              "options": [
+                "A branch office",
+                "A government grant",
+                "A research collaboration",
+                "A company created from a university or research institution"
+              ],
+              "targetLanguage": "A company created from a university or research institution"
+            },
+            {
+              "id": "E3-L4-E6",
+              "type": "listening",
+              "prompt": "What innovation does the speaker describe?",
+              "correctAnswer": "A new battery technology for electric vehicles",
+              "options": [
+                "Software for education",
+                "A medical device",
+                "A new battery technology for electric vehicles",
+                "A renewable energy source"
+              ],
+              "targetLanguage": "でんきじどうしゃ むけの あたらしい でんちぎじゅつを かいはつしました。"
+            },
+            {
+              "id": "E3-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'けんきゅうじょせい' means:",
+              "correctAnswer": "Research funding",
+              "options": [
+                "Research institute",
+                "Research ethics",
+                "Research results",
+                "Research funding"
+              ],
+              "targetLanguage": "けんきゅうじょせい"
+            },
+            {
+              "id": "E3-L4-E8",
+              "type": "speaking",
+              "prompt": "Describe an innovation that has changed everyday life",
+              "correctAnswer": "[イノベーション]は わたしたちの せいかつを かえました。[えいきょう]を あたえたからです。",
+              "targetLanguage": "[イノベーション]は わたしたちの せいかつを かえました。[えいきょう]を あたえたからです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E4",
+      "title": "せいじと ほうりつ",
+      "description": "Politics and law",
+      "icon": "building.columns.fill",
+      "lessons": [
+        {
+          "id": "E4-L1",
+          "title": "にほんの せいじ せいど (Political system)",
+          "description": "にほんの せいじ せいど (Political system)",
+          "exercises": [
+            {
+              "id": "E4-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "しゅうぎいん|House of Representatives",
+                "さんぎいん|House of Councillors",
+                "ないかく (内閣)|Cabinet",
+                "けんぽう (憲法)|Constitution"
+              ]
+            },
+            {
+              "id": "E4-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: Japan is a constitutional monarchy with a parliamentary system",
+              "correctAnswer": "にほんは ぎかいせいを もつ りっけん くんしゅこくです",
+              "targetLanguage": "にほんは ぎかいせいを もつ りっけん くんしゅこくです"
+            },
+            {
+              "id": "E4-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: Every Japanese citizen has the right to vote from the age of eighteen",
+              "correctAnswer": "にほんの ゆうけんしゃは じゅうはっさいから とうひょうけんを もちます",
+              "targetLanguage": "にほんの ゆうけんしゃは じゅうはっさいから とうひょうけんを もちます"
+            },
+            {
+              "id": "E4-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The Prime Minister is the head of government",
+              "correctAnswer": "しゅしょうは ないかくの ちょうです",
+              "targetLanguage": "しゅしょうは ないかくの ちょうです"
+            },
+            {
+              "id": "E4-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'れんりつ せいけん' means:",
+              "correctAnswer": "Coalition government",
+              "options": [
+                "Coalition government",
+                "An election",
+                "A party",
+                "A manifesto"
+              ],
+              "targetLanguage": "れんりつ せいけん"
+            },
+            {
+              "id": "E4-L1-E6",
+              "type": "listening",
+              "prompt": "What does the speaker say about Japanese elections?",
+              "correctAnswer": "The Liberal Democratic Party has dominated politics for much of post-war history",
+              "options": [
+                "The Liberal Democratic Party has dominated politics for much of post-war history",
+                "The emperor appoints parliament",
+                "Only proportional representation is used",
+                "There is a two-party system"
+              ],
+              "targetLanguage": "じみんとうは せんごの にほんの せいじを ながらく しはいしてきました。"
+            },
+            {
+              "id": "E4-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'さんけんぶんりつ (三権分立)' means:",
+              "correctAnswer": "Separation of the three powers",
+              "options": [
+                "Rule of law",
+                "Parliamentary immunity",
+                "Freedom of speech",
+                "Separation of the three powers"
+              ],
+              "targetLanguage": "さんけんぶんりつ"
+            },
+            {
+              "id": "E4-L1-E8",
+              "type": "speaking",
+              "prompt": "Compare the political system of your country with Japan's",
+              "correctAnswer": "わたしの くには [せいじせいど]です。にほんとの ちがいは [ちがい]です。",
+              "targetLanguage": "わたしの くには [せいじせいど]です。にほんとの ちがいは [ちがい]です。"
+            }
+          ]
+        },
+        {
+          "id": "E4-L2",
+          "title": "ほうりつと けんり (Laws & rights)",
+          "description": "ほうりつと けんり (Laws & rights)",
+          "exercises": [
+            {
+              "id": "E4-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "きほんてき じんけん|fundamental human rights",
+                "ひょうげんの じゆう|freedom of expression",
+                "ほうちこっか|rule of law state",
+                "ていそする|to file a lawsuit"
+              ]
+            },
+            {
+              "id": "E4-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: In a democratic state everyone is equal before the law",
+              "correctAnswer": "みんしゅしゅぎ こっかでは みんな ほうの まえに びょうどうです",
+              "targetLanguage": "みんしゅしゅぎ こっかでは みんな ほうの まえに びょうどうです"
+            },
+            {
+              "id": "E4-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Freedom of expression includes the right to criticise the government",
+              "correctAnswer": "ひょうげんの じゆうには せいふを ひはんする けんりも ふくまれます",
+              "targetLanguage": "ひょうげんの じゆうには せいふを ひはんする けんりも ふくまれます"
+            },
+            {
+              "id": "E4-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The court ruled in favour of the plaintiff",
+              "correctAnswer": "さいばんしょは げんこくに ゆうりな はんけつを だしました",
+              "targetLanguage": "さいばんしょは げんこくに ゆうりな はんけつを だしました"
+            },
+            {
+              "id": "E4-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'べんごし (弁護士)' means:",
+              "correctAnswer": "Lawyer / attorney",
+              "options": [
+                "Judge",
+                "Prosecutor",
+                "Notary",
+                "Lawyer / attorney"
+              ],
+              "targetLanguage": "べんごし"
+            },
+            {
+              "id": "E4-L2-E6",
+              "type": "listening",
+              "prompt": "What legal issue does the speaker raise?",
+              "correctAnswer": "Balancing privacy rights with national security",
+              "options": [
+                "Consumer protection",
+                "Balancing privacy rights with national security",
+                "Freedom of the press",
+                "Workers' rights"
+              ],
+              "targetLanguage": "プライバシーの けんりと こくか あんぜんほしょうの あいだの バランスが もんだいです。"
+            },
+            {
+              "id": "E4-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'みんじ そしょう' means:",
+              "correctAnswer": "Civil lawsuit",
+              "options": [
+                "Administrative hearing",
+                "Civil lawsuit",
+                "Criminal case",
+                "Constitutional complaint"
+              ],
+              "targetLanguage": "みんじ そしょう"
+            },
+            {
+              "id": "E4-L2-E8",
+              "type": "speaking",
+              "prompt": "Discuss a law you think is important and why",
+              "correctAnswer": "わたしは [ほうりつ]が じゅうようだと おもいます。なぜなら [りゆう]からです。",
+              "targetLanguage": "わたしは [ほうりつ]が じゅうようだと おもいます。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "E4-L3",
+          "title": "こくさい せいじ (International politics)",
+          "description": "こくさい せいじ (International politics)",
+          "exercises": [
+            {
+              "id": "E4-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "がいこう (外交)|diplomacy",
+                "たこくかんしゅぎ|multilateralism",
+                "せいさい (制裁)|sanctions",
+                "こくさいほう|international law"
+              ]
+            },
+            {
+              "id": "E4-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Diplomacy is the preferred means of resolving international conflicts",
+              "correctAnswer": "こくさい ふんそうを かいけつする ゆうせんてきな しゅだんは がいこうです",
+              "targetLanguage": "こくさい ふんそうを かいけつする ゆうせんてきな しゅだんは がいこうです"
+            },
+            {
+              "id": "E4-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: International law sets binding norms for the behaviour of states",
+              "correctAnswer": "こくさいほうは こっかの こうどうに たいして きょくりょくてきな きじゅんを さだめます",
+              "targetLanguage": "こくさいほうは こっかの こうどうに たいして きょくりょくてきな きじゅんを さだめます"
+            },
+            {
+              "id": "E4-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Economic sanctions can put pressure on authoritarian regimes",
+              "correctAnswer": "けいざい せいさいは どくさいてきな せいけんに あつりょくを かけることが できます",
+              "targetLanguage": "けいざい せいさいは どくさいてきな せいけんに あつりょくを かけることが できます"
+            },
+            {
+              "id": "E4-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'きょひけん (拒否権)' in the UN Security Council means:",
+              "correctAnswer": "The right of permanent members to block resolutions",
+              "options": [
+                "The right of permanent members to block resolutions",
+                "The right to withdraw from the UN",
+                "The right to abstain",
+                "The right to propose resolutions"
+              ],
+              "targetLanguage": "The right of permanent members to block resolutions"
+            },
+            {
+              "id": "E4-L3-E6",
+              "type": "listening",
+              "prompt": "What global challenge does the speaker address?",
+              "correctAnswer": "Climate change requires binding international agreements",
+              "options": [
+                "Migration policy",
+                "Trade disputes",
+                "Nuclear disarmament",
+                "Climate change requires binding international agreements"
+              ],
+              "targetLanguage": "きこうへんどうには こうそくりょくの ある こくさいごうい が ひつようです。"
+            },
+            {
+              "id": "E4-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'しゅけん (主権)' means:",
+              "correctAnswer": "Sovereignty",
+              "options": [
+                "Nationality",
+                "Citizenship",
+                "Territory",
+                "Sovereignty"
+              ],
+              "targetLanguage": "しゅけん"
+            },
+            {
+              "id": "E4-L3-E8",
+              "type": "speaking",
+              "prompt": "Give your view on an international political issue",
+              "correctAnswer": "[もんだい]は こくさい きょうりょくでのみ かいけつできると おもいます。なぜなら [りゆう]からです。",
+              "targetLanguage": "[もんだい]は こくさい きょうりょくでのみ かいけつできると おもいます。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "E4-L4",
+          "title": "にほんの がいこうせいさく (Japan's foreign policy)",
+          "description": "にほんの がいこうせいさく (Japan's foreign policy)",
+          "exercises": [
+            {
+              "id": "E4-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "にちべい どうめい|Japan-US alliance",
+                "ODA (政府開発援助)|Official Development Assistance",
+                "へいわけんぽう|peace constitution",
+                "こくれん|United Nations"
+              ]
+            },
+            {
+              "id": "E4-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Japan's pacifist constitution has shaped its post-war foreign policy",
+              "correctAnswer": "にほんの へいわ けんぽうは せんごの がいこうせいさくを かたちづくってきました",
+              "targetLanguage": "にほんの へいわ けんぽうは せんごの がいこうせいさくを かたちづくってきました"
+            },
+            {
+              "id": "E4-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Japan is a significant contributor to UN peacekeeping operations",
+              "correctAnswer": "にほんは こくれん へいわ いじかつどうへの じゅうような こうけんこくです",
+              "targetLanguage": "にほんは こくれん へいわ いじかつどうへの じゅうような こうけんこくです"
+            },
+            {
+              "id": "E4-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The Japan-US alliance is a cornerstone of regional security",
+              "correctAnswer": "にちべい どうめいは ちいき あんぜんほしょうの かなめです",
+              "targetLanguage": "にちべい どうめいは ちいき あんぜんほしょうの かなめです"
+            },
+            {
+              "id": "E4-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "Japan's Article 9 constitution prohibits:",
+              "correctAnswer": "Maintaining war potential and use of force in settling disputes",
+              "options": [
+                "Joining the UN",
+                "Making alliances",
+                "Trading with other countries",
+                "Maintaining war potential and use of force in settling disputes"
+              ],
+              "targetLanguage": "Maintaining war potential and use of force"
+            },
+            {
+              "id": "E4-L4-E6",
+              "type": "listening",
+              "prompt": "What aspect of Japan's foreign policy does the speaker discuss?",
+              "correctAnswer": "Official Development Assistance to developing countries",
+              "options": [
+                "Official Development Assistance to developing countries",
+                "Military alliances",
+                "Trade policy",
+                "Cultural diplomacy"
+              ],
+              "targetLanguage": "にほんは ODAを つうじて とじょうこくを しえんしています。"
+            },
+            {
+              "id": "E4-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'たりょうほかん (多国間)' means:",
+              "correctAnswer": "Multilateral",
+              "options": [
+                "Regional",
+                "Multilateral",
+                "Unilateral",
+                "Bilateral"
+              ],
+              "targetLanguage": "たりょうほかん"
+            },
+            {
+              "id": "E4-L4-E8",
+              "type": "speaking",
+              "prompt": "Discuss one strength and one challenge of Japan's foreign policy",
+              "correctAnswer": "にほんの がいこうの つよみは [つよみ]です。ひとつの かだいは [かだい]です。",
+              "targetLanguage": "にほんの がいこうの つよみは [つよみ]です。ひとつの かだいは [かだい]です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "title": "いけんと ぎろん",
+      "description": "Arguing and debating in Japanese",
+      "icon": "bubble.left.and.bubble.right.fill",
+      "lessons": [
+        {
+          "id": "B1-L1",
+          "title": "かんがえを のべる (Expressing views)",
+          "description": "かんがえを のべる (Expressing views)",
+          "exercises": [
+            {
+              "id": "B1-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "わたしの かんがえでは|in my opinion",
+                "〜と おもいます|I think that …",
+                "いっぽうでは … もう いっぽうでは|on the one hand … on the other",
+                "〜と もとめられる|it can be argued that …"
+              ]
+            },
+            {
+              "id": "B1-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: In my opinion the advantages outweigh the disadvantages in this case",
+              "correctAnswer": "わたしの かんがえでは このばあい メリットが デメリットを うわまわっています",
+              "targetLanguage": "わたしの かんがえでは このばあい メリットが デメリットを うわまわっています"
+            },
+            {
+              "id": "B1-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: On the one hand this policy creates jobs on the other it increases public debt",
+              "correctAnswer": "いっぽうで この せいさくは こようを うみますが もういっぽうで ざいせい あかじが ふえます",
+              "targetLanguage": "いっぽうで この せいさくは こようを うみますが もういっぽうで ざいせい あかじが ふえます"
+            },
+            {
+              "id": "B1-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: It can be argued that renewable energy is the key to a sustainable future",
+              "correctAnswer": "さいせいかのう エネルギーが じぞくかのうな みらいへの かぎだと もとめられます",
+              "targetLanguage": "さいせいかのう エネルギーが じぞくかのうな みらいへの かぎだと もとめられます"
+            },
+            {
+              "id": "B1-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'そうは おもいません' is used to:",
+              "correctAnswer": "Politely disagree",
+              "options": [
+                "Change the subject",
+                "Politely disagree",
+                "Strongly agree",
+                "Ask for clarification"
+              ],
+              "targetLanguage": "そうは おもいません"
+            },
+            {
+              "id": "B1-L1-E6",
+              "type": "listening",
+              "prompt": "What rhetorical structure does the speaker use?",
+              "correctAnswer": "Concession then counter-argument",
+              "options": [
+                "A question-and-answer format",
+                "Pure agreement",
+                "A list of facts",
+                "Concession then counter-argument"
+              ],
+              "targetLanguage": "〜は じじつです。しかし〜も わすれてはなりません。"
+            },
+            {
+              "id": "B1-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'たしかに … しかし …' is equivalent to:",
+              "correctAnswer": "Admittedly … but …",
+              "options": [
+                "Admittedly … but …",
+                "Both … and …",
+                "Either … or …",
+                "Neither … nor …"
+              ],
+              "targetLanguage": "たしかに … しかし …"
+            },
+            {
+              "id": "B1-L1-E8",
+              "type": "speaking",
+              "prompt": "Present a balanced view on a current debate",
+              "correctAnswer": "いっぽうで [いけん]。もういっぽうで [はんたいいけん]。わたしの かんがえでは [けつろん]。",
+              "targetLanguage": "いっぽうで [いけん]。もういっぽうで [はんたいいけん]。わたしの かんがえでは [けつろん]。"
+            }
+          ]
+        },
+        {
+          "id": "B1-L2",
+          "title": "はんろん (Counter-arguments)",
+          "description": "はんろん (Counter-arguments)",
+          "exercises": [
+            {
+              "id": "B1-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "はんろんする|to counter-argue",
+                "いぎを とな える|to raise an objection",
+                "くつがえす|to overturn / refute",
+                "そうたいかする|to relativise"
+              ]
+            },
+            {
+              "id": "B1-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: I disagree with your conclusion because the data does not support it",
+              "correctAnswer": "あなたの けつろんには さんせいできません。データが それを しじしていないからです",
+              "targetLanguage": "あなたの けつろんには さんせいできません。データが それを しじしていないからです"
+            },
+            {
+              "id": "B1-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: You raise a valid point but we should also consider the long-term consequences",
+              "correctAnswer": "よい てんを してきされていますが ちょうきてきな えいきょうも かんがえるべきです",
+              "targetLanguage": "よい てんを してきされていますが ちょうきてきな えいきょうも かんがえるべきです"
+            },
+            {
+              "id": "B1-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: That argument overlooks important factors",
+              "correctAnswer": "その ろんきょは じゅうような ようそを みおとしています",
+              "targetLanguage": "その ろんきょは じゅうような ようそを みおとしています"
+            },
+            {
+              "id": "B1-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'いちがいに いえない' means:",
+              "correctAnswer": "You cannot generalise so simply",
+              "options": [
+                "That is not verifiable",
+                "You cannot generalise so simply",
+                "That is already well known",
+                "That is an extreme view"
+              ],
+              "targetLanguage": "いちがいに いえない"
+            },
+            {
+              "id": "B1-L2-E6",
+              "type": "listening",
+              "prompt": "How does the speaker challenge the previous argument?",
+              "correctAnswer": "By citing a counterexample",
+              "options": [
+                "By dismissing it entirely",
+                "By agreeing but adding nuance",
+                "By asking a rhetorical question",
+                "By citing a counterexample"
+              ],
+              "targetLanguage": "それは いくつかの ばあいに あてはまるかも しれませんが おおくの けんきゅうは ちがう けつろんに たっしています。"
+            },
+            {
+              "id": "B1-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'いぎ (異議)' means:",
+              "correctAnswer": "Objection",
+              "options": [
+                "Example",
+                "Objection",
+                "Exception",
+                "Evidence"
+              ],
+              "targetLanguage": "いぎ"
+            },
+            {
+              "id": "B1-L2-E8",
+              "type": "speaking",
+              "prompt": "Respond to an argument you disagree with",
+              "correctAnswer": "おっしゃる ことは わかりますが [はんろん]と おもいます。なぜなら [りゆう]からです。",
+              "targetLanguage": "おっしゃる ことは わかりますが [はんろん]と おもいます。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "B1-L3",
+          "title": "ぶんしょう ろんきょ (Written argumentation)",
+          "description": "ぶんしょう ろんきょ (Written argumentation)",
+          "exercises": [
+            {
+              "id": "B1-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "しゅちょう|thesis / claim",
+                "ろんきょ|line of argument",
+                "けつろん|conclusion",
+                "いんよう|citation"
+              ]
+            },
+            {
+              "id": "B1-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: A well-structured essay begins with a clear thesis statement",
+              "correctAnswer": "よく こうせいされた ろんぶんは めいかいな しゅちょうから はじまります",
+              "targetLanguage": "よく こうせいされた ろんぶんは めいかいな しゅちょうから はじまります"
+            },
+            {
+              "id": "B1-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Each paragraph should develop one central idea and be supported by evidence",
+              "correctAnswer": "かく だんらくは ひとつの ちゅうしん アイデアを てんかいし しょうきょによって しじされる べきです",
+              "targetLanguage": "かく だんらくは ひとつの ちゅうしん アイデアを てんかいし しょうきょによって しじされる べきです"
+            },
+            {
+              "id": "B1-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The conclusion should summarise the main arguments and restate the thesis",
+              "correctAnswer": "けつろんでは しゅよう ろんてんを まとめ しゅちょうを さいど しゅちょうします",
+              "targetLanguage": "けつろんでは しゅよう ろんてんを まとめ しゅちょうを さいど しゅちょうします"
+            },
+            {
+              "id": "B1-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'ぶんしょうの いっかんせい' in writing means:",
+              "correctAnswer": "Logical flow and consistency throughout a text",
+              "options": [
+                "Correct spelling",
+                "Logical flow and consistency throughout a text",
+                "Varied vocabulary",
+                "Formal register"
+              ],
+              "targetLanguage": "Logical flow and consistency throughout a text"
+            },
+            {
+              "id": "B1-L3-E6",
+              "type": "listening",
+              "prompt": "What advice does the speaker give about essay writing?",
+              "correctAnswer": "Revise and edit your text at least once before submitting",
+              "options": [
+                "Use bullet points",
+                "Write as much as possible",
+                "Include personal anecdotes",
+                "Revise and edit your text at least once before submitting"
+              ],
+              "targetLanguage": "ていしゅつ まえに すくなくとも いちど ぶんしょうを みなおしてください。"
+            },
+            {
+              "id": "B1-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "A 'ろんせつぶん' is a text type that:",
+              "correctAnswer": "Analyses a topic by presenting and weighing different arguments",
+              "options": [
+                "Reports on events objectively",
+                "Tells a story with a moral",
+                "Analyses a topic by presenting and weighing different arguments",
+                "Describes a personal experience"
+              ],
+              "targetLanguage": "Analyses a topic by presenting and weighing different arguments"
+            },
+            {
+              "id": "B1-L3-E8",
+              "type": "speaking",
+              "prompt": "Outline an essay on a topic of your choice",
+              "correctAnswer": "わたしの ぶんしょうでは [しゅちょう]という りつばを しゅちょうします。しゅよう ろんてんは [ろんてん]です。",
+              "targetLanguage": "わたしの ぶんしょうでは [しゅちょう]という りつばを しゅちょうします。しゅよう ろんてんは [ろんてん]です。"
+            }
+          ]
+        },
+        {
+          "id": "B1-L4",
+          "title": "しゅうじ (Rhetorical devices)",
+          "description": "しゅうじ (Rhetorical devices)",
+          "exercises": [
+            {
+              "id": "B1-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "ひゆ (比喩)|metaphor",
+                "ひにく (皮肉)|irony",
+                "いんよう (引用)|quotation",
+                "くりかえし|repetition"
+              ]
+            },
+            {
+              "id": "B1-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: Politicians often use metaphors to make abstract ideas more tangible",
+              "correctAnswer": "せいじかは ちゅうしょうてきな かんがえを より りかいしやすく するために ひゆを よく つかいます",
+              "targetLanguage": "せいじかは ちゅうしょうてきな かんがえを より りかいしやすく するために ひゆを よく つかいます"
+            },
+            {
+              "id": "B1-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: Repetition is a powerful rhetorical tool that reinforces a message",
+              "correctAnswer": "くりかえしは メッセージを きょうかする きょうちからな しゅうじてきな てきわざです",
+              "targetLanguage": "くりかえしは メッセージを きょうかする きょうちからな しゅうじてきな てきわざです"
+            },
+            {
+              "id": "B1-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: Irony can be used to criticise without directly attacking",
+              "correctAnswer": "ひにくは ちょくせつ こうげきせずに ひはんする ために つかえます",
+              "targetLanguage": "ひにくは ちょくせつ こうげきせずに ひはんする ために つかえます"
+            },
+            {
+              "id": "B1-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'ぜっちょうほう' as a rhetorical device means:",
+              "correctAnswer": "Building up to a peak for emphasis",
+              "options": [
+                "A humorous remark",
+                "A direct comparison",
+                "An unexpected twist",
+                "Building up to a peak for emphasis"
+              ],
+              "targetLanguage": "Building up to a peak for emphasis"
+            },
+            {
+              "id": "B1-L4-E6",
+              "type": "listening",
+              "prompt": "Which rhetorical device does the speaker identify?",
+              "correctAnswer": "Repetition of key words",
+              "options": [
+                "An ironic remark",
+                "A rhetorical question",
+                "Repetition of key words",
+                "A metaphor"
+              ],
+              "targetLanguage": "えんぜつしゃは おなじ フレーズを さんかい くりかえして きょうちょうしています。"
+            },
+            {
+              "id": "B1-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'エトス、パトス、ロゴス' are:",
+              "correctAnswer": "Three modes of persuasion (credibility, emotion, logic)",
+              "options": [
+                "Three modes of persuasion (credibility, emotion, logic)",
+                "Three logical fallacies",
+                "Three debate formats",
+                "Three text types"
+              ],
+              "targetLanguage": "Three modes of persuasion (credibility, emotion, logic)"
+            },
+            {
+              "id": "B1-L4-E8",
+              "type": "speaking",
+              "prompt": "Use at least two rhetorical devices in a short speech",
+              "correctAnswer": "[テーマ]。[ひゆ/くりかえし/もんきょう]。したがって [けつろん]。",
+              "targetLanguage": "[テーマ]。[ひゆ/くりかえし/もんきょう]。したがって [けつろん]。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "title": "こうどな テーマ",
+      "description": "Advanced discussions",
+      "icon": "brain.head.profile",
+      "lessons": [
+        {
+          "id": "B2-L1",
+          "title": "りんりてきな もんだい (Ethical questions)",
+          "description": "りんりてきな もんだい (Ethical questions)",
+          "exercises": [
+            {
+              "id": "B2-L1-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "りんり (倫理)|ethics",
+                "ジレンマ|dilemma",
+                "こうりょする|to weigh up",
+                "けっか|consequence"
+              ]
+            },
+            {
+              "id": "B2-L1-E2",
+              "type": "translation",
+              "prompt": "Translate: Ethical dilemmas often have no clearly correct answer",
+              "correctAnswer": "りんりてきな ジレンマには めいかいに せいかいとは いえない ことが おおい",
+              "targetLanguage": "りんりてきな ジレンマには めいかいに せいかいとは いえない ことが おおい"
+            },
+            {
+              "id": "B2-L1-E3",
+              "type": "translation",
+              "prompt": "Translate: We must weigh the individual benefit against the social costs",
+              "correctAnswer": "こじん てきな りえきと しゃかいてきな コストを こうりょしなければ なりません",
+              "targetLanguage": "こじん てきな りえきと しゃかいてきな コストを こうりょしなければ なりません"
+            },
+            {
+              "id": "B2-L1-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The end does not always justify the means",
+              "correctAnswer": "もくてきが しゅだんを つねに せいとうかするとは かぎりません",
+              "targetLanguage": "もくてきが しゅだんを つねに せいとうかするとは かぎりません"
+            },
+            {
+              "id": "B2-L1-E5",
+              "type": "multipleChoice",
+              "prompt": "'こうりしゅぎ (功利主義)' holds that the right action is:",
+              "correctAnswer": "The one that produces the greatest good for the greatest number",
+              "options": [
+                "The one that respects individual rights",
+                "The one that corresponds to natural law",
+                "The one that follows moral rules",
+                "The one that produces the greatest good for the greatest number"
+              ],
+              "targetLanguage": "The one that produces the greatest good for the greatest number"
+            },
+            {
+              "id": "B2-L1-E6",
+              "type": "listening",
+              "prompt": "What ethical issue does the speaker address?",
+              "correctAnswer": "Limits of genetic engineering in humans",
+              "options": [
+                "Data privacy",
+                "Limits of genetic engineering in humans",
+                "Animal welfare",
+                "Environmental responsibility"
+              ],
+              "targetLanguage": "にんげんへの いでんし そうさの かぎりは ちゅうしんてきな バイオエシックスの もんだいです。"
+            },
+            {
+              "id": "B2-L1-E7",
+              "type": "multipleChoice",
+              "prompt": "'ぎむろん (義務論)' bases moral judgement on:",
+              "correctAnswer": "Duties and rules regardless of outcome",
+              "options": [
+                "Social norms",
+                "Virtues",
+                "Consequences",
+                "Duties and rules regardless of outcome"
+              ],
+              "targetLanguage": "Duties and rules regardless of outcome"
+            },
+            {
+              "id": "B2-L1-E8",
+              "type": "speaking",
+              "prompt": "Present an ethical dilemma and your view on how to resolve it",
+              "correctAnswer": "ジレンマは [じょうきょう]です。わたしなら [けってい]を えらびます。なぜなら [りゆう]からです。",
+              "targetLanguage": "ジレンマは [じょうきょう]です。わたしなら [けってい]を えらびます。なぜなら [りゆう]からです。"
+            }
+          ]
+        },
+        {
+          "id": "B2-L2",
+          "title": "ぶんがくと げんご (Literature & Language)",
+          "description": "ぶんがくと げんご (Literature & Language)",
+          "exercises": [
+            {
+              "id": "B2-L2-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "かたりて (語り手)|narrator",
+                "しょうちょう (象徴)|symbolism",
+                "モチーフ|motif",
+                "じゅよう (受容)|reception / how a work was received"
+              ]
+            },
+            {
+              "id": "B2-L2-E2",
+              "type": "translation",
+              "prompt": "Translate: The narrator is unreliable which creates ambiguity throughout the novel",
+              "correctAnswer": "かたりては ふしんらいで それが しょうせつ ぜんたいに ぼかしを うんでいます",
+              "targetLanguage": "かたりては ふしんらいで それが しょうせつ ぜんたいに ぼかしを うんでいます"
+            },
+            {
+              "id": "B2-L2-E3",
+              "type": "translation",
+              "prompt": "Translate: Kawabata's novels explore the tension between tradition and modernity in Japan",
+              "correctAnswer": "かわばたの しょうせつは にほんの でんとうと きんだいせいの かんちょうを たんきゅうします",
+              "targetLanguage": "かわばたの しょうせつは にほんの でんとうと きんだいせいの かんちょうを たんきゅうします"
+            },
+            {
+              "id": "B2-L2-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The motif of the journey represents a search for identity",
+              "correctAnswer": "たびの モチーフは アイデンティティの さがしを あらわしています",
+              "targetLanguage": "たびの モチーフは アイデンティティの さがしを あらわしています"
+            },
+            {
+              "id": "B2-L2-E5",
+              "type": "multipleChoice",
+              "prompt": "'モノノアワレ' in Japanese aesthetics refers to:",
+              "correctAnswer": "A gentle sadness and appreciation for the transience of things",
+              "options": [
+                "Bold and dynamic beauty",
+                "A gentle sadness and appreciation for the transience of things",
+                "Playful and witty expression",
+                "Minimal and empty space"
+              ],
+              "targetLanguage": "A gentle sadness and appreciation for the transience of things"
+            },
+            {
+              "id": "B2-L2-E6",
+              "type": "listening",
+              "prompt": "What literary technique does the speaker describe?",
+              "correctAnswer": "Stream of consciousness",
+              "options": [
+                "Third-person narration",
+                "Stream of consciousness",
+                "Dramatic monologue",
+                "Unreliable narrator"
+              ],
+              "targetLanguage": "とうじょう じんぶつの ないてきな しこうが ちょくせつ むこうせいに しめされています。"
+            },
+            {
+              "id": "B2-L2-E7",
+              "type": "multipleChoice",
+              "prompt": "'ふしんらいな かたりて' describes:",
+              "correctAnswer": "A narrator whose credibility is compromised",
+              "options": [
+                "An omniscient narrator",
+                "An objective narrator",
+                "A first-person narrator",
+                "A narrator whose credibility is compromised"
+              ],
+              "targetLanguage": "A narrator whose credibility is compromised"
+            },
+            {
+              "id": "B2-L2-E8",
+              "type": "speaking",
+              "prompt": "Analyse a book or film using literary concepts",
+              "correctAnswer": "[さくひん]では さくしゃが [モチーフ/しゅほう]を つかって [テーマ]を えがいています。",
+              "targetLanguage": "[さくひん]では さくしゃが [モチーフ/しゅほう]を つかって [テーマ]を えがいています。"
+            }
+          ]
+        },
+        {
+          "id": "B2-L3",
+          "title": "てつがくてきな がいねん (Philosophical concepts)",
+          "description": "てつがくてきな がいねん (Philosophical concepts)",
+          "exercises": [
+            {
+              "id": "B2-L3-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "にんしきろん (認識論)|epistemology",
+                "そんざいろん (存在論)|ontology",
+                "じゆう いし (自由意志)|free will",
+                "けってい ろん (決定論)|determinism"
+              ]
+            },
+            {
+              "id": "B2-L3-E2",
+              "type": "translation",
+              "prompt": "Translate: Epistemology asks what we can know and how we can justify our beliefs",
+              "correctAnswer": "にんしきろんは わたしたちが なにを しることが でき どのように しんねんを ただしいと いえるか を とうもんします",
+              "targetLanguage": "にんしきろんは わたしたちが なにを しることが でき どのように しんねんを ただしいと いえるか を とうもんします"
+            },
+            {
+              "id": "B2-L3-E3",
+              "type": "translation",
+              "prompt": "Translate: Kant argued that moral duty exists independently of consequences",
+              "correctAnswer": "カントは どうとくてきな ぎむは けっかに かかわらず そんざいすると ろんじました",
+              "targetLanguage": "カントは どうとくてきな ぎむは けっかに かかわらず そんざいすると ろんじました"
+            },
+            {
+              "id": "B2-L3-E4",
+              "type": "wordOrder",
+              "prompt": "Build: The question of free will versus determinism has occupied philosophers for centuries",
+              "correctAnswer": "じゆう いしと けってい ろんの もんだいは せいきを とおして てつがくしゃを うばってきました",
+              "targetLanguage": "じゆう いしと けってい ろんの もんだいは せいきを とおして てつがくしゃを うばってきました"
+            },
+            {
+              "id": "B2-L3-E5",
+              "type": "multipleChoice",
+              "prompt": "'ぜんじんかん (禅)' in Japanese philosophy emphasises:",
+              "correctAnswer": "Direct experience and meditation over conceptual thinking",
+              "options": [
+                "Direct experience and meditation over conceptual thinking",
+                "Political theory",
+                "Logical analysis",
+                "Historical narrative"
+              ],
+              "targetLanguage": "Direct experience and meditation over conceptual thinking"
+            },
+            {
+              "id": "B2-L3-E6",
+              "type": "listening",
+              "prompt": "What philosophical question does the speaker raise?",
+              "correctAnswer": "Can we ever truly know another person's inner experience?",
+              "options": [
+                "Can we ever truly know another person's inner experience?",
+                "Does God exist?",
+                "What is the nature of time?",
+                "What is the meaning of life?"
+              ],
+              "targetLanguage": "たにんの ないてきな たいけんを ほんとうに しることが できるか?"
+            },
+            {
+              "id": "B2-L3-E7",
+              "type": "multipleChoice",
+              "prompt": "'げんしょうがく (現象学)' studies:",
+              "correctAnswer": "Structures of experience and consciousness from a first-person perspective",
+              "options": [
+                "Structures of experience and consciousness from a first-person perspective",
+                "Social behaviour patterns",
+                "Historical causes of events",
+                "The nature of physical reality"
+              ],
+              "targetLanguage": "Structures of experience and consciousness from a first-person perspective"
+            },
+            {
+              "id": "B2-L3-E8",
+              "type": "speaking",
+              "prompt": "Discuss a philosophical question that interests you",
+              "correctAnswer": "わたしが きょうみを もつ てつがくてきな もんだいは [もんだい]です。わたしは [かんがえ]と おもいます。",
+              "targetLanguage": "わたしが きょうみを もつ てつがくてきな もんだいは [もんだい]です。わたしは [かんがえ]と おもいます。"
+            }
+          ]
+        },
+        {
+          "id": "B2-L4",
+          "title": "こうしょうと せっとく (Negotiation & Persuasion)",
+          "description": "こうしょうと せっとく (Negotiation & Persuasion)",
+          "exercises": [
+            {
+              "id": "B2-L4-E1",
+              "type": "matching",
+              "prompt": "Match each word with its meaning",
+              "correctAnswer": "__matched__",
+              "options": [
+                "だきょうあんを ていあんする|to propose a compromise",
+                "ゆずほを する|to make a concession",
+                "〜に こだわる|to insist on …",
+                "ごういに いたる|to reach an agreement"
+              ]
+            },
+            {
+              "id": "B2-L4-E2",
+              "type": "translation",
+              "prompt": "Translate: I understand your position but perhaps we can find a middle ground",
+              "correctAnswer": "おっしゃる ことは りかいできますが ちゅうかんてきな かいけつさくを みつけられる かもしれません",
+              "targetLanguage": "おっしゃる ことは りかいできますが ちゅうかんてきな かいけつさくを みつけられる かもしれません"
+            },
+            {
+              "id": "B2-L4-E3",
+              "type": "translation",
+              "prompt": "Translate: If you can reduce the price slightly I am prepared to confirm the order today",
+              "correctAnswer": "すこし ねびきして いただければ きょう ちゅうもんを かくにんする じゅんびが あります",
+              "targetLanguage": "すこし ねびきして いただければ きょう ちゅうもんを かくにんする じゅんびが あります"
+            },
+            {
+              "id": "B2-L4-E4",
+              "type": "wordOrder",
+              "prompt": "Build: I am prepared to make a concession if you are too",
+              "correctAnswer": "あなたが そうするなら わたしも ゆずほを する じゅんびが あります",
+              "targetLanguage": "あなたが そうするなら わたしも ゆずほを する じゅんびが あります"
+            },
+            {
+              "id": "B2-L4-E5",
+              "type": "multipleChoice",
+              "prompt": "'ウィン-ウィン の かいけつさく' is:",
+              "correctAnswer": "An outcome beneficial to all parties",
+              "options": [
+                "An outcome beneficial to all parties",
+                "A one-sided agreement",
+                "A compromise where both sides lose something",
+                "A temporary fix"
+              ],
+              "targetLanguage": "An outcome beneficial to all parties"
+            },
+            {
+              "id": "B2-L4-E6",
+              "type": "listening",
+              "prompt": "What concession does the speaker offer?",
+              "correctAnswer": "Paying in advance if the price is reduced",
+              "options": [
+                "Paying in advance if the price is reduced",
+                "Providing a guarantee",
+                "Reducing the order size",
+                "Extending the contract"
+              ],
+              "targetLanguage": "ねびきして いただければ まえばらいを することも できます。"
+            },
+            {
+              "id": "B2-L4-E7",
+              "type": "multipleChoice",
+              "prompt": "'こうしょうりょく' means:",
+              "correctAnswer": "Negotiation skill",
+              "options": [
+                "Patience",
+                "Compromise",
+                "Negotiation skill",
+                "Persuasion"
+              ],
+              "targetLanguage": "こうしょうりょく"
+            },
+            {
+              "id": "B2-L4-E8",
+              "type": "speaking",
+              "prompt": "Negotiate: state your position, offer a concession, propose a compromise",
+              "correctAnswer": "わたしの たちばは [X]です。[じょうけん]ならば [ゆずほ]する じゅんびが あります。ちゅうかんてきな かいけつさくを さがせますか？",
+              "targetLanguage": "わたしの たちばは [X]です。[じょうけん]ならば [ゆずほ]する じゅんびが あります。ちゅうかんてきな かいけつさくを さがせますか？"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
